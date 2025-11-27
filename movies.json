@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Drama"
+    },
+    {
+      "id": 4,
+      "name": "Kids"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "category_id": 2,
+      "name": "Big Buck Bunny",
+      "year": 2008,
+      "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}

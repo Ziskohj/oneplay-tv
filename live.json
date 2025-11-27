@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Entertainment"
+    },
+    {
+      "id": 2,
+      "name": "Sports"
+    },
+    {
+      "id": 3,
+      "name": "News"
+    },
+    {
+      "id": 4,
+      "name": "Music"
+    }
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "Big Buck Bunny TV",
+      "logo": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "stream_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}
