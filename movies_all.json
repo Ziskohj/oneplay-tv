@@ -1,0 +1,16 @@
+[
+  {
+    "num": 1,
+    "stream_id": 1,
+    "name": "Big Buck Bunny",
+    "stream_type": "movie",
+    "stream_icon": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+    "rating": "4.5",
+    "rating_5based": 4.5,
+    "added": "1609459200",
+    "category_id": "1",
+    "container_extension": "mp4",
+    "custom_sid": "",
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  }
+]

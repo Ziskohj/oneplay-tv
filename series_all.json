@@ -1,0 +1,18 @@
+[
+  {
+    "series_id": 100,
+    "name": "Sample Series",
+    "cover": "https://via.placeholder.com/400",
+    "plot": "Sample plot for demo series.",
+    "cast": "Demo Cast",
+    "director": "Demo Director",
+    "genre": "Drama",
+    "releaseDate": "2024",
+    "last_modified": "1609459200",
+    "rating": "4.0",
+    "rating_5based": 4.0,
+    "youtube_trailer": "",
+    "episode_run_time": "45",
+    "category_id": "10"
+  }
+]

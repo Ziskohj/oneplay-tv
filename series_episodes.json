@@ -1,0 +1,34 @@
+{
+  "info": {
+    "name": "Sample Series",
+    "cover": "https://via.placeholder.com/400",
+    "plot": "Sample plot for demo series.",
+    "cast": "Demo Cast",
+    "director": "Demo Director",
+    "genre": "Drama",
+    "releaseDate": "2024",
+    "rating": "4.0",
+    "rating_5based": 4.0,
+    "youtube_trailer": "",
+    "episode_run_time": "45",
+    "category_id": "10"
+  },
+  "episodes": {
+    "1": [
+      {
+        "id": "1001",
+        "episode_num": 1,
+        "title": "Episodio 1",
+        "container_extension": "mp4",
+        "added": "1609459200",
+        "season": 1,
+        "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "info": {
+          "plot": "Primer episodio de la serie demo",
+          "duration_secs": 2700,
+          "rating": 4.0
+        }
+      }
+    ]
+  }
+}

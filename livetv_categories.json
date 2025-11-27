@@ -1,0 +1,12 @@
+[
+  {
+    "category_id": "100",
+    "category_name": "Ciencia",
+    "parent_id": 0
+  },
+  {
+    "category_id": "101",
+    "category_name": "Noticias",
+    "parent_id": 0
+  }
+]
