@@ -44,7 +44,6 @@
     "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
     "tmdb_id": "45745"
   },
-
   {
     "num": 4,
     "stream_id": 4,
@@ -94,7 +93,7 @@
     "stream_type": "movie",
     "stream_icon": "https://image.tmdb.org/t/p/w500/8QhJZqB3hIcqZPpPmbS3kQqWdZ0.jpg",
     "rating": "8.0",
-    "rating_5based": 4.0",
+    "rating_5based": 4.0,
     "added": "1609545600",
     "category_id": "10",
     "container_extension": "mp4",
@@ -143,7 +142,6 @@
     "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "tmdb_id": "0"
   },
-
   {
     "num": 11,
     "stream_id": 11,
@@ -172,7 +170,6 @@
     "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "tmdb_id": "0"
   },
-
   {
     "num": 13,
     "stream_id": 13,
@@ -187,7 +184,6 @@
     "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
     "tmdb_id": "0"
   },
-
   {
     "num": 14,
     "stream_id": 14,
@@ -202,7 +198,6 @@
     "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "tmdb_id": "0"
   },
-
   {
     "num": 15,
     "stream_id": 15,
