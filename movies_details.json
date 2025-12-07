@@ -1,15 +1,19 @@
 {
-  "1": {
+  "detail_1": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
       "name": "Big Buck Bunny",
-      "movieImage": "https://picsum.photos/seed/movie1-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie1-backdrop/1200/800",
-      "plot": "Un corto de animación humorístico donde un conejo gigante decide vengarse de tres molestos roedores.",
+      "tmdb_id": "10378",
+      "backdrop": "https://image.tmdb.org/t/p/original/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+      "youtube_trailer": "",
       "genre": "Animación",
+      "plot": "Comedia animada que sigue a un conejo gigante enfrentándose a unos molestos roedores.",
+      "cast": "Demo Cast",
       "rating": "7.2",
-      "rating_5based": 3.6,
-      "duration": "09:56",
-      "tmdbId": "10378"
+      "director": "Demo Director",
+      "releaseDate": "2008",
+      "duration": "10:34",
+      "duration_secs": 634
     },
     "movie_data": {
       "stream_id": 1,
@@ -22,17 +26,21 @@
     }
   },
 
-  "2": {
+  "detail_2": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/dQLGDjv8JnRXReiKFfsPJfJPjM7.jpg",
       "name": "Elephants Dream",
-      "movieImage": "https://picsum.photos/seed/movie2-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie2-backdrop/1200/800",
-      "plot": "Una historia surrealista sobre dos personajes que exploran una gigantesca máquina llena de misterios.",
-      "genre": "Animación",
+      "tmdb_id": "45745",
+      "backdrop": "https://image.tmdb.org/t/p/original/dQLGDjv8JnRXReiKFfsPJfJPjM7.jpg",
+      "youtube_trailer": "",
+      "genre": "Animación, Experimental",
+      "plot": "Un viaje surrealista dentro de una gigantesca máquina llena de significados ocultos.",
+      "cast": "Demo Actor",
       "rating": "6.5",
-      "rating_5based": 3.25,
-      "duration": "10:53",
-      "tmdbId": "45745"
+      "director": "Demo Director",
+      "releaseDate": "2006",
+      "duration": "11:00",
+      "duration_secs": 660
     },
     "movie_data": {
       "stream_id": 2,
@@ -45,17 +53,21 @@
     }
   },
 
-  "3": {
+  "detail_3": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/sXEGeRMChI6bGGKPj2P0Vbd5z9C.jpg",
       "name": "Sintel",
-      "movieImage": "https://picsum.photos/seed/movie3-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie3-backdrop/1200/800",
-      "plot": "Una joven valiente inicia un viaje épico para encontrar a un dragón perdido al que considera parte de su familia.",
-      "genre": "Demo",
+      "tmdb_id": "45745",
+      "backdrop": "https://image.tmdb.org/t/p/original/sXEGeRMChI6bGGKPj2P0Vbd5z9C.jpg",
+      "youtube_trailer": "",
+      "genre": "Aventura, Drama",
+      "plot": "Una joven emprende una peligrosa misión para encontrar a un pequeño dragón.",
+      "cast": "Demo Actores",
       "rating": "7.8",
-      "rating_5based": 3.9,
+      "director": "Demo Director",
+      "releaseDate": "2010",
       "duration": "14:48",
-      "tmdbId": "45745"
+      "duration_secs": 888
     },
     "movie_data": {
       "stream_id": 3,
@@ -68,17 +80,21 @@
     }
   },
 
-  "4": {
+  "detail_4": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/44sKJOGP3fZcHO9vB2eG2PmyWw5.jpg",
       "name": "Tears of Steel",
-      "movieImage": "https://picsum.photos/seed/movie4-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie4-backdrop/1200/800",
-      "plot": "Un equipo de científicos y soldados intenta salvar el mundo enfrentándose a una amenaza tecnológica.",
-      "genre": "Acción",
+      "tmdb_id": "44730",
+      "backdrop": "https://image.tmdb.org/t/p/original/44sKJOGP3fZcHO9vB2eG2PmyWw5.jpg",
+      "youtube_trailer": "",
+      "genre": "Ciencia ficción",
+      "plot": "Un grupo de soldados y científicos lucha por salvar el mundo de una amenaza mecánica.",
+      "cast": "Reparto Demo",
       "rating": "6.9",
-      "rating_5based": 3.45,
+      "director": "Demo Director",
+      "releaseDate": "2012",
       "duration": "12:14",
-      "tmdbId": "44730"
+      "duration_secs": 734
     },
     "movie_data": {
       "stream_id": 4,
@@ -90,17 +106,21 @@
     }
   },
 
-  "5": {
+  "detail_5": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/17kN1x6rDMQCEbz5YjWxZmf0Rdu.jpg",
       "name": "Cosmos Discovery",
-      "movieImage": "https://picsum.photos/seed/movie5-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie5-backdrop/1200/800",
-      "plot": "Un viaje visual por el universo, explorando galaxias, estrellas y los misterios del espacio profundo.",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/17kN1x6rDMQCEbz5YjWxZmf0Rdu.jpg",
+      "youtube_trailer": "",
       "genre": "Documental",
+      "plot": "Un viaje visual por los misterios del universo.",
+      "cast": "Narrador Demo",
       "rating": "7.4",
-      "rating_5based": 3.7,
+      "director": "Demo Director",
+      "releaseDate": "2020",
       "duration": "10:00",
-      "tmdbId": "0"
+      "duration_secs": 600
     },
     "movie_data": {
       "stream_id": 5,
@@ -112,17 +132,21 @@
     }
   },
 
-  "6": {
+  "detail_6": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/2aie5aXoaZySUdkGFwmkOcJCIZy.jpg",
       "name": "Wildlife Documentary",
-      "movieImage": "https://picsum.photos/seed/movie6-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie6-backdrop/1200/800",
-      "plot": "Una mirada íntima a la vida salvaje en los rincones más remotos del planeta.",
-      "genre": "Documental",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/2aie5aXoaZySUdkGFwmkOcJCIZy.jpg",
+      "youtube_trailer": "",
+      "genre": "Naturaleza",
+      "plot": "Un recorrido por la fauna salvaje del planeta.",
+      "cast": "Narrador Demo",
       "rating": "7.9",
-      "rating_5based": 3.95,
-      "duration": "11:20",
-      "tmdbId": "0"
+      "director": "Demo Director",
+      "releaseDate": "2021",
+      "duration": "11:00",
+      "duration_secs": 660
     },
     "movie_data": {
       "stream_id": 6,
@@ -134,17 +158,21 @@
     }
   },
 
-  "7": {
+  "detail_7": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/8QhJZqB3hIcqZPpPmbS3kQqWdZ0.jpg",
       "name": "Fantasy World",
-      "movieImage": "https://picsum.photos/seed/movie7-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie7-backdrop/1200/800",
-      "plot": "Un mundo mágico lleno de criaturas sorprendentes y aventuras inolvidables.",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/8QhJZqB3hIcqZPpPmbS3kQqWdZ0.jpg",
+      "youtube_trailer": "",
       "genre": "Fantasía",
+      "plot": "Explora un mundo lleno de criaturas mágicas y reinos ocultos.",
+      "cast": "Reparto Demo",
       "rating": "8.0",
-      "rating_5based": 4.0,
-      "duration": "13:40",
-      "tmdbId": "0"
+      "director": "Demo Director",
+      "releaseDate": "2022",
+      "duration": "12:20",
+      "duration_secs": 740
     },
     "movie_data": {
       "stream_id": 7,
@@ -156,17 +184,21 @@
     }
   },
 
-  "8": {
+  "detail_8": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/hkBaDkMWbLaf8B1LSriktj5r8Wx.jpg",
       "name": "Romantic Journey",
-      "movieImage": "https://picsum.photos/seed/movie8-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie8-backdrop/1200/800",
-      "plot": "Dos desconocidos se encuentran por destino y comienzan una historia romántica inolvidable.",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/hkBaDkMWbLaf8B1LSriktj5r8Wx.jpg",
+      "youtube_trailer": "",
       "genre": "Romance",
+      "plot": "Una historia romántica que viaja por diferentes países y culturas.",
+      "cast": "Actores Demo",
       "rating": "7.1",
-      "rating_5based": 3.55,
-      "duration": "10:30",
-      "tmdbId": "0"
+      "director": "Director Demo",
+      "releaseDate": "2021",
+      "duration": "11:22",
+      "duration_secs": 682
     },
     "movie_data": {
       "stream_id": 8,
@@ -178,17 +210,21 @@
     }
   },
 
-  "9": {
+  "detail_9": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/5Y6zrqEven7m3s+FA8CbnZ4rnMh.jpg",
       "name": "Mystery Case",
-      "movieImage": "https://picsum.photos/seed/movie9-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie9-backdrop/1200/800",
-      "plot": "Un detective investiga un caso lleno de engaños, pistas y giros inesperados.",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/5Y6zrqEven7m3s+FA8CbnZ4rnMh.jpg",
+      "youtube_trailer": "",
       "genre": "Misterio",
+      "plot": "Un detective sigue la pista de un caso que parece imposible de resolver.",
+      "cast": "Actores Demo",
       "rating": "7.0",
-      "rating_5based": 3.5,
-      "duration": "11:50",
-      "tmdbId": "0"
+      "director": "Director Demo",
+      "releaseDate": "2019",
+      "duration": "10:50",
+      "duration_secs": 650
     },
     "movie_data": {
       "stream_id": 9,
@@ -200,17 +236,21 @@
     }
   },
 
-  "10": {
+  "detail_10": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/3NVbmTjUX1k2rqcQHcKXqswNy7r.jpg",
       "name": "Horror Night",
-      "movieImage": "https://picsum.photos/seed/movie10-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie10-backdrop/1200/800",
-      "plot": "Una noche terrorífica en la que un grupo de amigos enfrenta una presencia sobrenatural.",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/3NVbmTjUX1k2rqcQHcKXqswNy7r.jpg",
+      "youtube_trailer": "",
       "genre": "Terror",
+      "plot": "Una noche que se vuelve una pesadilla para un grupo de amigos.",
+      "cast": "Actores Demo",
       "rating": "6.8",
-      "rating_5based": 3.4,
-      "duration": "12:05",
-      "tmdbId": "0"
+      "director": "Director Demo",
+      "releaseDate": "2020",
+      "duration": "09:59",
+      "duration_secs": 599
     },
     "movie_data": {
       "stream_id": 10,
@@ -222,17 +262,21 @@
     }
   },
 
-  "11": {
+  "detail_11": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/6bCplVkhowCjTHXWv49UjRPn0eK.jpg",
       "name": "Comedy Central Demo",
-      "movieImage": "https://picsum.photos/seed/movie11-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie11-backdrop/1200/800",
-      "plot": "Una divertida colección de situaciones absurdas y humor inteligente.",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/6bCplVkhowCjTHXWv49UjRPn0eK.jpg",
+      "youtube_trailer": "",
       "genre": "Comedia",
+      "plot": "Sketches divertidos y situaciones absurdas.",
+      "cast": "Actores Demo",
       "rating": "7.3",
-      "rating_5based": 3.65,
-      "duration": "09:40",
-      "tmdbId": "0"
+      "director": "Director Demo",
+      "releaseDate": "2018",
+      "duration": "11:45",
+      "duration_secs": 705
     },
     "movie_data": {
       "stream_id": 11,
@@ -244,17 +288,21 @@
     }
   },
 
-  "12": {
+  "detail_12": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/8h1CzvuvEBzhtvswI2nJInZv3MSC.jpg",
       "name": "Criminal Mind",
-      "movieImage": "https://picsum.photos/seed/movie12-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie12-backdrop/1200/800",
-      "plot": "Una mente criminal brillante deja un rastro casi imposible de seguir.",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/8h1CzvuvEBzhtvswI2nJInZv3MSC.jpg",
+      "youtube_trailer": "",
       "genre": "Crimen",
+      "plot": "Una mente criminal pone a prueba a investigadores expertos.",
+      "cast": "Actores Demo",
       "rating": "7.7",
-      "rating_5based": 3.85,
-      "duration": "10:20",
-      "tmdbId": "0"
+      "director": "Director Demo",
+      "releaseDate": "2022",
+      "duration": "12:01",
+      "duration_secs": 721
     },
     "movie_data": {
       "stream_id": 12,
@@ -266,17 +314,21 @@
     }
   },
 
-  "13": {
+  "detail_13": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/3mUTUiHtdtA94ppIqhPc0DsFHkg.jpg",
       "name": "Family Adventures",
-      "movieImage": "https://picsum.photos/seed/movie13-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie13-backdrop/1200/800",
-      "plot": "Una familia viaja por todo el mundo viviendo experiencias inolvidables.",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/3mUTUiHtdtA94ppIqhPc0DsFHkg.jpg",
+      "youtube_trailer": "",
       "genre": "Familiar",
+      "plot": "Una familia vive aventuras inesperadas alrededor del mundo.",
+      "cast": "Reparto Demo",
       "rating": "7.5",
-      "rating_5based": 3.75,
-      "duration": "12:30",
-      "tmdbId": "0"
+      "director": "Director Demo",
+      "releaseDate": "2021",
+      "duration": "10:30",
+      "duration_secs": 630
     },
     "movie_data": {
       "stream_id": 13,
@@ -288,17 +340,21 @@
     }
   },
 
-  "14": {
+  "detail_14": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
       "name": "Adventure Island",
-      "movieImage": "https://picsum.photos/seed/movie14-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie14-backdrop/1200/800",
-      "plot": "Un grupo de exploradores se enfrenta a los peligros de una isla desconocida.",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "youtube_trailer": "",
       "genre": "Aventura",
+      "plot": "Una isla llena de misterios y tesoros escondidos.",
+      "cast": "Actores Demo",
       "rating": "7.4",
-      "rating_5based": 3.7,
+      "director": "Director Demo",
+      "releaseDate": "2020",
       "duration": "11:10",
-      "tmdbId": "0"
+      "duration_secs": 670
     },
     "movie_data": {
       "stream_id": 14,
@@ -310,17 +366,21 @@
     }
   },
 
-  "15": {
+  "detail_15": {
     "info": {
+      "movie_image": "https://image.tmdb.org/t/p/w500/a4IysB9GfCavq6UKZyFBNYsSbJH.jpg",
       "name": "Sci-Fi Galaxy",
-      "movieImage": "https://picsum.photos/seed/movie15-cover/600/900",
-      "backdrop": "https://picsum.photos/seed/movie15-backdrop/1200/800",
-      "plot": "Un viaje de ciencia ficción que lleva a la humanidad a los confines del universo.",
-      "genre": "Ciencia Ficción",
+      "tmdb_id": "0",
+      "backdrop": "https://image.tmdb.org/t/p/original/a4IysB9GfCavq6UKZyFBNYsSbJH.jpg",
+      "youtube_trailer": "",
+      "genre": "Ciencia ficción",
+      "plot": "Una aventura galáctica llena de tecnología y mundos desconocidos.",
+      "cast": "Reparto Demo",
       "rating": "8.1",
-      "rating_5based": 4.05,
-      "duration": "14:10",
-      "tmdbId": "0"
+      "director": "Director Demo",
+      "releaseDate": "2022",
+      "duration": "13:00",
+      "duration_secs": 780
     },
     "movie_data": {
       "stream_id": 15,
