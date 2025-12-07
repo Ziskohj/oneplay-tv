@@ -1,12 +1,22 @@
 [
   {
     "category_id": "100",
-    "category_name": "Ciencia",
+    "category_name": "Noticias",
     "parent_id": 0
   },
   {
     "category_id": "101",
-    "category_name": "Noticias",
+    "category_name": "Documentales",
+    "parent_id": 0
+  },
+  {
+    "category_id": "102",
+    "category_name": "Infantil",
+    "parent_id": 0
+  },
+  {
+    "category_id": "103",
+    "category_name": "TDT",
     "parent_id": 0
   }
 ]
