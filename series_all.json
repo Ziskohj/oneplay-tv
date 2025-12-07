@@ -10,10 +10,11 @@
     "releaseDate": "2024",
     "last_modified": "1609459200",
     "rating": "8.5",
-    "rating_5based": 4.25,
+    "rating_5based": "4.25",
     "youtube_trailer": "",
     "episode_run_time": "45",
-    "category_id": "10"
+    "category_id": "10",
+    "backdrop_path": ["https://picsum.photos/seed/series100b/1200/600"]
   },
   {
     "series_id": 101,
@@ -26,10 +27,11 @@
     "releaseDate": "2023",
     "last_modified": "1609459201",
     "rating": "8.2",
-    "rating_5based": 4.1,
+    "rating_5based": "4.1",
     "youtube_trailer": "",
     "episode_run_time": "50",
-    "category_id": "14"
+    "category_id": "14",
+    "backdrop_path": ["https://picsum.photos/seed/series101b/1200/600"]
   },
   {
     "series_id": 102,
@@ -42,10 +44,11 @@
     "releaseDate": "2022",
     "last_modified": "1609459202",
     "rating": "7.5",
-    "rating_5based": 3.75,
+    "rating_5based": "3.75",
     "youtube_trailer": "",
     "episode_run_time": "25",
-    "category_id": "12"
+    "category_id": "12",
+    "backdrop_path": ["https://picsum.photos/seed/series102b/1200/600"]
   },
   {
     "series_id": 103,
@@ -58,10 +61,11 @@
     "releaseDate": "2021",
     "last_modified": "1609459203",
     "rating": "8.0",
-    "rating_5based": 4.0,
+    "rating_5based": "4.0",
     "youtube_trailer": "",
     "episode_run_time": "48",
-    "category_id": "13"
+    "category_id": "13",
+    "backdrop_path": ["https://picsum.photos/seed/series103b/1200/600"]
   },
   {
     "series_id": 104,
@@ -74,10 +78,11 @@
     "releaseDate": "2020",
     "last_modified": "1609459204",
     "rating": "8.7",
-    "rating_5based": 4.35,
+    "rating_5based": "4.35",
     "youtube_trailer": "",
     "episode_run_time": "52",
-    "category_id": "14"
+    "category_id": "14",
+    "backdrop_path": ["https://picsum.photos/seed/series104b/1200/600"]
   },
   {
     "series_id": 105,
@@ -90,10 +95,11 @@
     "releaseDate": "2019",
     "last_modified": "1609459205",
     "rating": "8.9",
-    "rating_5based": 4.45",
+    "rating_5based": "4.45",
     "youtube_trailer": "",
     "episode_run_time": "55",
-    "category_id": "22"
+    "category_id": "22",
+    "backdrop_path": ["https://picsum.photos/seed/series105b/1200/600"]
   },
   {
     "series_id": 106,
@@ -106,10 +112,11 @@
     "releaseDate": "2024",
     "last_modified": "1609459206",
     "rating": "9.0",
-    "rating_5based": 4.5,
+    "rating_5based": "4.5",
     "youtube_trailer": "",
     "episode_run_time": "42",
-    "category_id": "16"
+    "category_id": "16",
+    "backdrop_path": ["https://picsum.photos/seed/series106b/1200/600"]
   },
   {
     "series_id": 107,
@@ -122,10 +129,11 @@
     "releaseDate": "2023",
     "last_modified": "1609459207",
     "rating": "8.1",
-    "rating_5based": 4.05,
+    "rating_5based": "4.05",
     "youtube_trailer": "",
     "episode_run_time": "47",
-    "category_id": "17"
+    "category_id": "17",
+    "backdrop_path": ["https://picsum.photos/seed/series107b/1200/600"]
   },
   {
     "series_id": 108,
@@ -138,10 +146,11 @@
     "releaseDate": "2021",
     "last_modified": "1609459208",
     "rating": "7.9",
-    "rating_5based": 3.95,
+    "rating_5based": "3.95",
     "youtube_trailer": "",
     "episode_run_time": "46",
-    "category_id": "18"
+    "category_id": "18",
+    "backdrop_path": ["https://picsum.photos/seed/series108b/1200/600"]
   },
   {
     "series_id": 109,
@@ -154,10 +163,11 @@
     "releaseDate": "2024",
     "last_modified": "1609459209",
     "rating": "8.3",
-    "rating_5based": 4.15,
+    "rating_5based": "4.15",
     "youtube_trailer": "",
     "episode_run_time": "22",
-    "category_id": "19"
+    "category_id": "19",
+    "backdrop_path": ["https://picsum.photos/seed/series109b/1200/600"]
   },
   {
     "series_id": 110,
@@ -170,10 +180,11 @@
     "releaseDate": "2023",
     "last_modified": "1609459210",
     "rating": "8.4",
-    "rating_5based": 4.2,
+    "rating_5based": "4.2",
     "youtube_trailer": "",
     "episode_run_time": "44",
-    "category_id": "20"
+    "category_id": "20",
+    "backdrop_path": ["https://picsum.photos/seed/series110b/1200/600"]
   },
   {
     "series_id": 111,
@@ -186,10 +197,11 @@
     "releaseDate": "2020",
     "last_modified": "1609459211",
     "rating": "7.4",
-    "rating_5based": 3.7,
+    "rating_5based": "3.7",
     "youtube_trailer": "",
     "episode_run_time": "43",
-    "category_id": "21"
+    "category_id": "21",
+    "backdrop_path": ["https://picsum.photos/seed/series111b/1200/600"]
   },
   {
     "series_id": 112,
@@ -202,10 +214,11 @@
     "releaseDate": "2024",
     "last_modified": "1609459212",
     "rating": "8.0",
-    "rating_5based": 4.0,
+    "rating_5based": "4.0",
     "youtube_trailer": "",
     "episode_run_time": "40",
-    "category_id": "23"
+    "category_id": "23",
+    "backdrop_path": ["https://picsum.photos/seed/series112b/1200/600"]
   },
   {
     "series_id": 113,
@@ -218,9 +231,10 @@
     "releaseDate": "2022",
     "last_modified": "1609459213",
     "rating": "8.6",
-    "rating_5based": 4.3,
+    "rating_5based": "4.3",
     "youtube_trailer": "",
     "episode_run_time": "49",
-    "category_id": "24"
+    "category_id": "24",
+    "backdrop_path": ["https://picsum.photos/seed/series113b/1200/600"]
   }
 ]
