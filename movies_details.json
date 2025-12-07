@@ -1,21 +1,22 @@
 {
-  "detail_1": {
+  "1": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+      "movie_image": "https://picsum.photos/seed/m1-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m1-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m1-backdrop/1920/1080"],
       "name": "Big Buck Bunny",
       "tmdb_id": "10378",
-      "backdrop": "https://image.tmdb.org/t/p/original/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
-      "youtube_trailer": "",
-      "genre": "Animación",
-      "plot": "Comedia animada que sigue a un conejo gigante enfrentándose a unos molestos roedores.",
-      "cast": "Demo Cast",
+      "genre": "Animación, Comedia",
+      "plot": "Un conejo gigante disfruta de la naturaleza hasta que tres criaturas molestan su paz, iniciando una divertida revancha.",
+      "cast": "Actor Demo 1, Actriz Demo 2",
+      "director": "Director Demo",
       "rating": "7.2",
-      "director": "Demo Director",
       "releaseDate": "2008",
-      "duration": "10:34",
-      "duration_secs": 634
+      "duration_secs": 600,
+      "duration": "10:00",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 1,
       "name": "Big Buck Bunny",
       "added": "1609459200",
@@ -26,23 +27,24 @@
     }
   },
 
-  "detail_2": {
+  "2": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/dQLGDjv8JnRXReiKFfsPJfJPjM7.jpg",
+      "movie_image": "https://picsum.photos/seed/m2-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m2-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m2-backdrop/1920/1080"],
       "name": "Elephants Dream",
       "tmdb_id": "45745",
-      "backdrop": "https://image.tmdb.org/t/p/original/dQLGDjv8JnRXReiKFfsPJfJPjM7.jpg",
-      "youtube_trailer": "",
-      "genre": "Animación, Experimental",
-      "plot": "Un viaje surrealista dentro de una gigantesca máquina llena de significados ocultos.",
-      "cast": "Demo Actor",
+      "genre": "Fantasía, Experimental",
+      "plot": "Dos hombres navegan por un mundo mecánico lleno de metáforas sobre la comunicación humana.",
+      "cast": "Actor Demo A, Actor Demo B",
+      "director": "Director Demo",
       "rating": "6.5",
-      "director": "Demo Director",
       "releaseDate": "2006",
-      "duration": "11:00",
-      "duration_secs": 660
+      "duration_secs": 654,
+      "duration": "10:54",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 2,
       "name": "Elephants Dream",
       "added": "1609459200",
@@ -53,23 +55,24 @@
     }
   },
 
-  "detail_3": {
+  "3": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/sXEGeRMChI6bGGKPj2P0Vbd5z9C.jpg",
+      "movie_image": "https://picsum.photos/seed/m3-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m3-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m3-backdrop/1920/1080"],
       "name": "Sintel",
       "tmdb_id": "45745",
-      "backdrop": "https://image.tmdb.org/t/p/original/sXEGeRMChI6bGGKPj2P0Vbd5z9C.jpg",
-      "youtube_trailer": "",
-      "genre": "Aventura, Drama",
-      "plot": "Una joven emprende una peligrosa misión para encontrar a un pequeño dragón.",
-      "cast": "Demo Actores",
+      "genre": "Acción, Fantasía",
+      "plot": "Una joven lucha contra enormes peligros para encontrar a un pequeño dragón desaparecido.",
+      "cast": "Actriz Demo 1, Actor Demo 2",
+      "director": "Director Demo",
       "rating": "7.8",
-      "director": "Demo Director",
       "releaseDate": "2010",
-      "duration": "14:48",
-      "duration_secs": 888
+      "duration_secs": 600,
+      "duration": "10:00",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 3,
       "name": "Sintel",
       "added": "1609545600",
@@ -80,23 +83,24 @@
     }
   },
 
-  "detail_4": {
+  "4": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/44sKJOGP3fZcHO9vB2eG2PmyWw5.jpg",
+      "movie_image": "https://picsum.photos/seed/m4-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m4-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m4-backdrop/1920/1080"],
       "name": "Tears of Steel",
       "tmdb_id": "44730",
-      "backdrop": "https://image.tmdb.org/t/p/original/44sKJOGP3fZcHO9vB2eG2PmyWw5.jpg",
-      "youtube_trailer": "",
-      "genre": "Ciencia ficción",
-      "plot": "Un grupo de soldados y científicos lucha por salvar el mundo de una amenaza mecánica.",
-      "cast": "Reparto Demo",
+      "genre": "Ciencia ficción, Acción",
+      "plot": "Un equipo de científicos intenta evitar una catástrofe provocada por un robot en un futuro distópico.",
+      "cast": "Actor Demo X, Actriz Demo Y",
+      "director": "Director Demo",
       "rating": "6.9",
-      "director": "Demo Director",
       "releaseDate": "2012",
-      "duration": "12:14",
-      "duration_secs": 734
+      "duration_secs": 720,
+      "duration": "12:00",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 4,
       "name": "Tears of Steel",
       "added": "1609545600",
@@ -106,23 +110,23 @@
     }
   },
 
-  "detail_5": {
+  "5": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/17kN1x6rDMQCEbz5YjWxZmf0Rdu.jpg",
+      "movie_image": "https://picsum.photos/seed/m5-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m5-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m5-backdrop/1920/1080"],
       "name": "Cosmos Discovery",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/17kN1x6rDMQCEbz5YjWxZmf0Rdu.jpg",
-      "youtube_trailer": "",
-      "genre": "Documental",
-      "plot": "Un viaje visual por los misterios del universo.",
+      "genre": "Documental, Ciencia",
+      "plot": "Un viaje por el universo explorando fenómenos cósmicos y el origen de las galaxias.",
       "cast": "Narrador Demo",
+      "director": "Director Demo",
       "rating": "7.4",
-      "director": "Demo Director",
       "releaseDate": "2020",
-      "duration": "10:00",
-      "duration_secs": 600
+      "duration_secs": 840,
+      "duration": "14:00",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 5,
       "name": "Cosmos Discovery",
       "added": "1609545600",
@@ -132,23 +136,23 @@
     }
   },
 
-  "detail_6": {
+  "6": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/2aie5aXoaZySUdkGFwmkOcJCIZy.jpg",
+      "movie_image": "https://picsum.photos/seed/m6-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m6-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m6-backdrop/1920/1080"],
       "name": "Wildlife Documentary",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/2aie5aXoaZySUdkGFwmkOcJCIZy.jpg",
-      "youtube_trailer": "",
-      "genre": "Naturaleza",
-      "plot": "Un recorrido por la fauna salvaje del planeta.",
+      "genre": "Documental, Naturaleza",
+      "plot": "Un recorrido visual extraordinario mostrando animales salvajes en su hábitat natural.",
       "cast": "Narrador Demo",
+      "director": "Director Demo",
       "rating": "7.9",
-      "director": "Demo Director",
       "releaseDate": "2021",
-      "duration": "11:00",
-      "duration_secs": 660
+      "duration_secs": 900,
+      "duration": "15:00",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 6,
       "name": "Wildlife Documentary",
       "added": "1609545600",
@@ -158,23 +162,23 @@
     }
   },
 
-  "detail_7": {
+  "7": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/8QhJZqB3hIcqZPpPmbS3kQqWdZ0.jpg",
+      "movie_image": "https://picsum.photos/seed/m7-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m7-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m7-backdrop/1920/1080"],
       "name": "Fantasy World",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/8QhJZqB3hIcqZPpPmbS3kQqWdZ0.jpg",
-      "youtube_trailer": "",
-      "genre": "Fantasía",
-      "plot": "Explora un mundo lleno de criaturas mágicas y reinos ocultos.",
-      "cast": "Reparto Demo",
+      "genre": "Fantasía, Aventura",
+      "plot": "Un joven descubre un portal a un reino mágico donde deberá enfrentarse a criaturas legendarias.",
+      "cast": "Actor Demo, Actriz Demo",
+      "director": "Director Demo",
       "rating": "8.0",
-      "director": "Demo Director",
-      "releaseDate": "2022",
-      "duration": "12:20",
-      "duration_secs": 740
+      "releaseDate": "2019",
+      "duration_secs": 780,
+      "duration": "13:00",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 7,
       "name": "Fantasy World",
       "added": "1609545600",
@@ -184,23 +188,23 @@
     }
   },
 
-  "detail_8": {
+  "8": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/hkBaDkMWbLaf8B1LSriktj5r8Wx.jpg",
+      "movie_image": "https://picsum.photos/seed/m8-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m8-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m8-backdrop/1920/1080"],
       "name": "Romantic Journey",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/hkBaDkMWbLaf8B1LSriktj5r8Wx.jpg",
-      "youtube_trailer": "",
-      "genre": "Romance",
-      "plot": "Una historia romántica que viaja por diferentes países y culturas.",
-      "cast": "Actores Demo",
-      "rating": "7.1",
+      "genre": "Romance, Drama",
+      "plot": "Dos desconocidos se encuentran de forma inesperada y comienzan un viaje emocional que cambiará sus vidas.",
+      "cast": "Actriz Demo, Actor Demo",
       "director": "Director Demo",
-      "releaseDate": "2021",
-      "duration": "11:22",
-      "duration_secs": 682
+      "rating": "7.1",
+      "releaseDate": "2018",
+      "duration_secs": 720,
+      "duration": "12:00",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 8,
       "name": "Romantic Journey",
       "added": "1609545600",
@@ -210,23 +214,23 @@
     }
   },
 
-  "detail_9": {
+  "9": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/5Y6zrqEven7m3s+FA8CbnZ4rnMh.jpg",
+      "movie_image": "https://picsum.photos/seed/m9-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m9-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m9-backdrop/1920/1080"],
       "name": "Mystery Case",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/5Y6zrqEven7m3s+FA8CbnZ4rnMh.jpg",
-      "youtube_trailer": "",
-      "genre": "Misterio",
-      "plot": "Un detective sigue la pista de un caso que parece imposible de resolver.",
-      "cast": "Actores Demo",
-      "rating": "7.0",
+      "genre": "Misterio, Crimen",
+      "plot": "Un detective novato descubre pistas que conectan un caso actual con un crimen olvidado hace décadas.",
+      "cast": "Actor Demo, Actriz Demo",
       "director": "Director Demo",
-      "releaseDate": "2019",
-      "duration": "10:50",
-      "duration_secs": 650
+      "rating": "7.0",
+      "releaseDate": "2020",
+      "duration_secs": 800,
+      "duration": "13:20",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 9,
       "name": "Mystery Case",
       "added": "1609545600",
@@ -236,23 +240,23 @@
     }
   },
 
-  "detail_10": {
+  "10": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/3NVbmTjUX1k2rqcQHcKXqswNy7r.jpg",
+      "movie_image": "https://picsum.photos/seed/m10-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m10-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m10-backdrop/1920/1080"],
       "name": "Horror Night",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/3NVbmTjUX1k2rqcQHcKXqswNy7r.jpg",
-      "youtube_trailer": "",
       "genre": "Terror",
-      "plot": "Una noche que se vuelve una pesadilla para un grupo de amigos.",
-      "cast": "Actores Demo",
-      "rating": "6.8",
+      "plot": "Una noche de fiesta se convierte en una pesadilla cuando criaturas desconocidas emergen desde el bosque.",
+      "cast": "Actor Demo",
       "director": "Director Demo",
-      "releaseDate": "2020",
-      "duration": "09:59",
-      "duration_secs": 599
+      "rating": "6.8",
+      "releaseDate": "2017",
+      "duration_secs": 770,
+      "duration": "12:50",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 10,
       "name": "Horror Night",
       "added": "1609545600",
@@ -262,23 +266,23 @@
     }
   },
 
-  "detail_11": {
+  "11": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/6bCplVkhowCjTHXWv49UjRPn0eK.jpg",
+      "movie_image": "https://picsum.photos/seed/m11-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m11-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m11-backdrop/1920/1080"],
       "name": "Comedy Central Demo",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/6bCplVkhowCjTHXWv49UjRPn0eK.jpg",
-      "youtube_trailer": "",
       "genre": "Comedia",
-      "plot": "Sketches divertidos y situaciones absurdas.",
-      "cast": "Actores Demo",
-      "rating": "7.3",
+      "plot": "Un grupo de amigos vive situaciones disparatadas mientras intentan sobrevivir a la vida adulta.",
+      "cast": "Actor Demo, Actriz Demo",
       "director": "Director Demo",
-      "releaseDate": "2018",
-      "duration": "11:45",
-      "duration_secs": 705
+      "rating": "7.3",
+      "releaseDate": "2021",
+      "duration_secs": 780,
+      "duration": "13:00",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 11,
       "name": "Comedy Central Demo",
       "added": "1609545600",
@@ -288,23 +292,23 @@
     }
   },
 
-  "detail_12": {
+  "12": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/8h1CzvuvEBzhtvswI2nJInZv3MSC.jpg",
+      "movie_image": "https://picsum.photos/seed/m12-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m12-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m12-backdrop/1920/1080"],
       "name": "Criminal Mind",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/8h1CzvuvEBzhtvswI2nJInZv3MSC.jpg",
-      "youtube_trailer": "",
-      "genre": "Crimen",
-      "plot": "Una mente criminal pone a prueba a investigadores expertos.",
-      "cast": "Actores Demo",
-      "rating": "7.7",
+      "genre": "Crimen, Thriller",
+      "plot": "Un investigador sigue la pista de un asesino meticuloso que deja mensajes cifrados en cada escena.",
+      "cast": "Actor Demo",
       "director": "Director Demo",
-      "releaseDate": "2022",
-      "duration": "12:01",
-      "duration_secs": 721
+      "rating": "7.7",
+      "releaseDate": "2018",
+      "duration_secs": 760,
+      "duration": "12:40",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 12,
       "name": "Criminal Mind",
       "added": "1609545600",
@@ -314,23 +318,23 @@
     }
   },
 
-  "detail_13": {
+  "13": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/3mUTUiHtdtA94ppIqhPc0DsFHkg.jpg",
+      "movie_image": "https://picsum.photos/seed/m13-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m13-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m13-backdrop/1920/1080"],
       "name": "Family Adventures",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/3mUTUiHtdtA94ppIqhPc0DsFHkg.jpg",
-      "youtube_trailer": "",
-      "genre": "Familiar",
-      "plot": "Una familia vive aventuras inesperadas alrededor del mundo.",
-      "cast": "Reparto Demo",
-      "rating": "7.5",
+      "genre": "Familiar, Aventura",
+      "plot": "Una familia viaja alrededor del mundo resolviendo misterios y fortaleciendo sus lazos.",
+      "cast": "Actor Demo, Actriz Demo",
       "director": "Director Demo",
-      "releaseDate": "2021",
-      "duration": "10:30",
-      "duration_secs": 630
+      "rating": "7.5",
+      "releaseDate": "2019",
+      "duration_secs": 780,
+      "duration": "13:00",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 13,
       "name": "Family Adventures",
       "added": "1609545600",
@@ -340,23 +344,23 @@
     }
   },
 
-  "detail_14": {
+  "14": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "movie_image": "https://picsum.photos/seed/m14-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m14-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m14-backdrop/1920/1080"],
       "name": "Adventure Island",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
-      "youtube_trailer": "",
       "genre": "Aventura",
-      "plot": "Una isla llena de misterios y tesoros escondidos.",
-      "cast": "Actores Demo",
-      "rating": "7.4",
+      "plot": "Exploradores se adentran en una isla llena de enigmas, criaturas exóticas y secretos ocultos.",
+      "cast": "Actor Demo",
       "director": "Director Demo",
-      "releaseDate": "2020",
-      "duration": "11:10",
-      "duration_secs": 670
+      "rating": "7.4",
+      "releaseDate": "2016",
+      "duration_secs": 750,
+      "duration": "12:30",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 14,
       "name": "Adventure Island",
       "added": "1609545600",
@@ -366,23 +370,23 @@
     }
   },
 
-  "detail_15": {
+  "15": {
     "info": {
-      "movie_image": "https://image.tmdb.org/t/p/w500/a4IysB9GfCavq6UKZyFBNYsSbJH.jpg",
+      "movie_image": "https://picsum.photos/seed/m15-cover/600/900",
+      "backdrop": "https://picsum.photos/seed/m15-backdrop/1920/1080",
+      "backdrop_path": ["https://picsum.photos/seed/m15-backdrop/1920/1080"],
       "name": "Sci-Fi Galaxy",
-      "tmdb_id": "0",
-      "backdrop": "https://image.tmdb.org/t/p/original/a4IysB9GfCavq6UKZyFBNYsSbJH.jpg",
-      "youtube_trailer": "",
-      "genre": "Ciencia ficción",
-      "plot": "Una aventura galáctica llena de tecnología y mundos desconocidos.",
-      "cast": "Reparto Demo",
-      "rating": "8.1",
+      "genre": "Ciencia ficción, Aventura",
+      "plot": "Una misión espacial descubre una galaxia desconocida con vida inteligente y tecnologías imposibles.",
+      "cast": "Actor Demo",
       "director": "Director Demo",
+      "rating": "8.1",
       "releaseDate": "2022",
-      "duration": "13:00",
-      "duration_secs": 780
+      "duration_secs": 810,
+      "duration": "13:30",
+      "youtubeTrailer": ""
     },
-    "movie_data": {
+    "movieData": {
       "stream_id": 15,
       "name": "Sci-Fi Galaxy",
       "added": "1609545600",
