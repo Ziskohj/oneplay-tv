@@ -18,7 +18,7 @@
   "episodes": {
     "1": [
       {
-        "id": "s1e1",
+        "id": "101",
         "episode_num": 1,
         "title": "T1 - Episodio 1",
         "container_extension": "mp4",
@@ -34,7 +34,7 @@
         }
       },
       {
-        "id": "s1e2",
+        "id": "102",
         "episode_num": 2,
         "title": "T1 - Episodio 2",
         "container_extension": "mp4",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "s1e3",
+        "id": "103",
         "episode_num": 3,
         "title": "T1 - Episodio 3",
         "container_extension": "mp4",
@@ -66,7 +66,7 @@
         }
       },
       {
-        "id": "s1e4",
+        "id": "104",
         "episode_num": 4,
         "title": "T1 - Episodio 4",
         "container_extension": "mp4",
@@ -82,7 +82,7 @@
         }
       },
       {
-        "id": "s1e5",
+        "id": "105",
         "episode_num": 5,
         "title": "T1 - Episodio 5",
         "container_extension": "mp4",
@@ -98,7 +98,7 @@
         }
       },
       {
-        "id": "s1e6",
+        "id": "106",
         "episode_num": 6,
         "title": "T1 - Episodio 6",
         "container_extension": "mp4",
@@ -116,7 +116,7 @@
     ],
     "2": [
       {
-        "id": "s2e1",
+        "id": "201",
         "episode_num": 1,
         "title": "T2 - Episodio 1",
         "container_extension": "mp4",
@@ -132,7 +132,7 @@
         }
       },
       {
-        "id": "s2e2",
+        "id": "202",
         "episode_num": 2,
         "title": "T2 - Episodio 2",
         "container_extension": "mp4",
@@ -148,7 +148,7 @@
         }
       },
       {
-        "id": "s2e3",
+        "id": "203",
         "episode_num": 3,
         "title": "T2 - Episodio 3",
         "container_extension": "mp4",
@@ -164,7 +164,7 @@
         }
       },
       {
-        "id": "s2e4",
+        "id": "204",
         "episode_num": 4,
         "title": "T2 - Episodio 4",
         "container_extension": "mp4",
