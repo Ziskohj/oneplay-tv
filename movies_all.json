@@ -8,8 +8,8 @@
     "rating": "7.2",
     "rating_5based": 3.6,
     "category_id": "1",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "num": 2,
@@ -20,8 +20,8 @@
     "rating": "6.5",
     "rating_5based": 3.25,
     "category_id": "1",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
   },
   {
     "num": 3,
@@ -32,8 +32,8 @@
     "rating": "7.8",
     "rating_5based": 3.9,
     "category_id": "1",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
   },
   {
     "num": 4,
@@ -44,8 +44,8 @@
     "rating": "6.9",
     "rating_5based": 3.45,
     "category_id": "2",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
   },
   {
     "num": 5,
@@ -56,8 +56,8 @@
     "rating": "7.4",
     "rating_5based": 3.7,
     "category_id": "9",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "num": 6,
@@ -68,8 +68,8 @@
     "rating": "7.9",
     "rating_5based": 3.95,
     "category_id": "6",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
   },
   {
     "num": 7,
@@ -80,8 +80,8 @@
     "rating": "8.0",
     "rating_5based": 4.0,
     "category_id": "10",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
   },
   {
     "num": 8,
@@ -92,8 +92,8 @@
     "rating": "7.1",
     "rating_5based": 3.55,
     "category_id": "7",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "num": 9,
@@ -104,8 +104,8 @@
     "rating": "7.0",
     "rating_5based": 3.5,
     "category_id": "12",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
   },
   {
     "num": 10,
@@ -116,8 +116,8 @@
     "rating": "6.8",
     "rating_5based": 3.4,
     "category_id": "5",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
   },
   {
     "num": 11,
@@ -128,8 +128,8 @@
     "rating": "7.3",
     "rating_5based": 3.65,
     "category_id": "4",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "num": 12,
@@ -140,8 +140,8 @@
     "rating": "7.7",
     "rating_5based": 3.85,
     "category_id": "14",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
   },
   {
     "num": 13,
@@ -152,8 +152,8 @@
     "rating": "7.5",
     "rating_5based": 3.75,
     "category_id": "15",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
   },
   {
     "num": 14,
@@ -164,8 +164,8 @@
     "rating": "7.4",
     "rating_5based": 3.7,
     "category_id": "8",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
   },
   {
     "num": 15,
@@ -176,7 +176,7 @@
     "rating": "8.1",
     "rating_5based": 4.05,
     "category_id": "9",
-    "container_extension": "mp4",
-    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    "container_extension": "m3u8",
+    "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
   }
 ]
