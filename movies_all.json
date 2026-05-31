@@ -9,7 +9,7 @@
     "rating_5based": 3.6,
     "category_id": "1",
     "container_extension": "mp4",
-    "direct_source": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
     "num": 2,
@@ -21,7 +21,7 @@
     "rating_5based": 3.25,
     "category_id": "1",
     "container_extension": "mp4",
-    "direct_source": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
   },
   {
     "num": 3,
@@ -33,7 +33,7 @@
     "rating_5based": 3.9,
     "category_id": "1",
     "container_extension": "mp4",
-    "direct_source": "https://samplelib.com/lib/preview/mp4/sample-10s.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
   },
   {
     "num": 4,
@@ -45,7 +45,7 @@
     "rating_5based": 3.45,
     "category_id": "2",
     "container_extension": "mp4",
-    "direct_source": "https://filesamples.com/samples/video/mp4/sample_960x400_ocean_with_audio.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
   },
   {
     "num": 5,
@@ -57,7 +57,7 @@
     "rating_5based": 3.7,
     "category_id": "9",
     "container_extension": "mp4",
-    "direct_source": "https://samplelib.com/lib/preview/mp4/sample-15s.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
   },
   {
     "num": 6,
@@ -69,7 +69,7 @@
     "rating_5based": 3.95,
     "category_id": "6",
     "container_extension": "mp4",
-    "direct_source": "https://filesamples.com/samples/video/mp4/sample_1280x720.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
   },
   {
     "num": 7,
@@ -81,7 +81,7 @@
     "rating_5based": 4.0,
     "category_id": "10",
     "container_extension": "mp4",
-    "direct_source": "https://samplelib.com/lib/preview/mp4/sample-20s.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
   },
   {
     "num": 8,
@@ -93,7 +93,7 @@
     "rating_5based": 3.55,
     "category_id": "7",
     "container_extension": "mp4",
-    "direct_source": "https://filesamples.com/samples/video/mp4/sample_640x360.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
   },
   {
     "num": 9,
@@ -105,7 +105,7 @@
     "rating_5based": 3.5,
     "category_id": "12",
     "container_extension": "mp4",
-    "direct_source": "https://samplelib.com/lib/preview/mp4/sample-5mb.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
   },
   {
     "num": 10,
@@ -117,7 +117,7 @@
     "rating_5based": 3.4,
     "category_id": "5",
     "container_extension": "mp4",
-    "direct_source": "https://filesamples.com/samples/video/mp4/sample_960x540.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
   },
   {
     "num": 11,
@@ -129,7 +129,7 @@
     "rating_5based": 3.65,
     "category_id": "4",
     "container_extension": "mp4",
-    "direct_source": "https://samplelib.com/lib/preview/mp4/sample-10mb.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
   },
   {
     "num": 12,
@@ -141,7 +141,7 @@
     "rating_5based": 3.85,
     "category_id": "14",
     "container_extension": "mp4",
-    "direct_source": "https://filesamples.com/samples/video/mp4/sample_1280x720_surfing.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
   },
   {
     "num": 13,
@@ -153,7 +153,7 @@
     "rating_5based": 3.75,
     "category_id": "15",
     "container_extension": "mp4",
-    "direct_source": "https://samplelib.com/lib/preview/mp4/sample-15mb.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
     "num": 14,
@@ -165,7 +165,7 @@
     "rating_5based": 3.7,
     "category_id": "8",
     "container_extension": "mp4",
-    "direct_source": "https://filesamples.com/samples/video/mp4/sample_1920x1080.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
   },
   {
     "num": 15,
@@ -177,6 +177,6 @@
     "rating_5based": 4.05,
     "category_id": "9",
     "container_extension": "mp4",
-    "direct_source": "https://samplelib.com/lib/preview/mp4/sample-20mb.mp4"
+    "direct_source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
   }
 ]
