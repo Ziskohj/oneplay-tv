@@ -2,20 +2,115 @@
   {
     "num": 1,
     "series_id": 1,
-    "name": "Demo Series",
-    "cover": "https://picsum.photos/seed/demo-series-cover/600/900",
-    "plot": "Una serie de demostración diseñada específicamente para pruebas en Apple Store y para mostrar todo el potencial de la app OnePlay.",
-    "cast": "Demo Cast",
+    "name": "Cronicas Estelares",
+    "cover": "https://picsum.photos/seed/ser1/600/900",
+    "plot": "Ciencia ficcion epica entre galaxias.",
+    "cast": "Reparto Demo",
     "director": "Director Demo",
-    "genre": "Drama, Ciencia Ficción",
+    "genre": "Demo",
+    "releaseDate": "2024",
+    "last_modified": "1609459200",
+    "rating": "8.0",
+    "rating_5based": 4.0,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser1/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "14"
+  },
+  {
+    "num": 2,
+    "series_id": 2,
+    "name": "Bajo Sospecha",
+    "cover": "https://picsum.photos/seed/ser2/600/900",
+    "plot": "Un detective resuelve crimenes imposibles.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
     "releaseDate": "2024",
     "last_modified": "1609459200",
     "rating": "8.5",
     "rating_5based": 4.25,
     "backdrop_path": [
-      "https://picsum.photos/seed/demo-series-backdrop/1080/1600"
+      "https://picsum.photos/seed/ser2/1280/720"
     ],
     "episode_run_time": "45",
-    "category_id": "10"
+    "category_id": "17"
+  },
+  {
+    "num": 3,
+    "series_id": 3,
+    "name": "Risas en Familia",
+    "cover": "https://picsum.photos/seed/ser3/600/900",
+    "plot": "Comedia ligera para toda la familia.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2024",
+    "last_modified": "1609459200",
+    "rating": "9.0",
+    "rating_5based": 4.5,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser3/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "12"
+  },
+  {
+    "num": 4,
+    "series_id": 4,
+    "name": "El Reino Oscuro",
+    "cover": "https://picsum.photos/seed/ser4/600/900",
+    "plot": "Fantasia medieval llena de intriga.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2024",
+    "last_modified": "1609459200",
+    "rating": "9.5",
+    "rating_5based": 4.75,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser4/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "15"
+  },
+  {
+    "num": 5,
+    "series_id": 5,
+    "name": "Corazones Rotos",
+    "cover": "https://picsum.photos/seed/ser5/600/900",
+    "plot": "Drama romantico de dos almas.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2024",
+    "last_modified": "1609459200",
+    "rating": "7.6",
+    "rating_5based": 3.8,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser5/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "23"
+  },
+  {
+    "num": 6,
+    "series_id": 6,
+    "name": "Frontera Salvaje",
+    "cover": "https://picsum.photos/seed/ser6/600/900",
+    "plot": "Aventuras en territorios inexplorados.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2024",
+    "last_modified": "1609459200",
+    "rating": "8.1",
+    "rating_5based": 4.05,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser6/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "20"
   }
 ]
