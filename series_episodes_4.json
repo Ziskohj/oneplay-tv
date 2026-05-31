@@ -1,8 +1,8 @@
 {
   "info": {
-    "name": "Cronicas Estelares",
-    "cover": "https://picsum.photos/seed/ser1/600/900",
-    "plot": "Ciencia ficcion epica entre galaxias.",
+    "name": "El Reino Oscuro",
+    "cover": "https://picsum.photos/seed/ser4/600/900",
+    "plot": "Fantasia medieval llena de intriga.",
     "cast": "Reparto Demo",
     "director": "Director Demo",
     "genre": "Demo",
@@ -10,15 +10,15 @@
     "rating": "8.5",
     "rating_5based": 4.25,
     "episode_run_time": "45",
-    "category_id": "14",
+    "category_id": "15",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser1/1280/720"
+      "https://picsum.photos/seed/ser4/1280/720"
     ]
   },
   "episodes": {
     "1": [
       {
-        "id": "1101",
+        "id": "4101",
         "episode_num": 1,
         "title": "T1 - Episodio 1",
         "container_extension": "mp4",
@@ -30,11 +30,11 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_1_1/600/900"
         }
       },
       {
-        "id": "1102",
+        "id": "4102",
         "episode_num": 2,
         "title": "T1 - Episodio 2",
         "container_extension": "mp4",
@@ -46,11 +46,11 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep1_1_2/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_1_2/600/900"
         }
       },
       {
-        "id": "1103",
+        "id": "4103",
         "episode_num": 3,
         "title": "T1 - Episodio 3",
         "container_extension": "mp4",
@@ -62,11 +62,11 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep1_1_3/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_1_3/600/900"
         }
       },
       {
-        "id": "1104",
+        "id": "4104",
         "episode_num": 4,
         "title": "T1 - Episodio 4",
         "container_extension": "mp4",
@@ -78,11 +78,11 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep1_1_4/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_1_4/600/900"
         }
       },
       {
-        "id": "1105",
+        "id": "4105",
         "episode_num": 5,
         "title": "T1 - Episodio 5",
         "container_extension": "mp4",
@@ -94,11 +94,11 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 7.8,
-          "movie_image": "https://picsum.photos/seed/ep1_1_5/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_1_5/600/900"
         }
       },
       {
-        "id": "1106",
+        "id": "4106",
         "episode_num": 6,
         "title": "T1 - Episodio 6",
         "container_extension": "mp4",
@@ -110,13 +110,13 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep1_1_6/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_1_6/600/900"
         }
       }
     ],
     "2": [
       {
-        "id": "1201",
+        "id": "4201",
         "episode_num": 1,
         "title": "T2 - Episodio 1",
         "container_extension": "mp4",
@@ -128,11 +128,11 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep1_2_1/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_2_1/600/900"
         }
       },
       {
-        "id": "1202",
+        "id": "4202",
         "episode_num": 2,
         "title": "T2 - Episodio 2",
         "container_extension": "mp4",
@@ -144,11 +144,11 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep1_2_2/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_2_2/600/900"
         }
       },
       {
-        "id": "1203",
+        "id": "4203",
         "episode_num": 3,
         "title": "T2 - Episodio 3",
         "container_extension": "mp4",
@@ -160,11 +160,11 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep1_2_3/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_2_3/600/900"
         }
       },
       {
-        "id": "1204",
+        "id": "4204",
         "episode_num": 4,
         "title": "T2 - Episodio 4",
         "container_extension": "mp4",
@@ -176,7 +176,7 @@
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep1_2_4/600/900"
+          "movie_image": "https://picsum.photos/seed/ep4_2_4/600/900"
         }
       }
     ]
