@@ -1,0 +1,34 @@
+name: Refresh EPG
+
+# Regenera xmltv.xml centrado en la hora actual para que el EPG del demo nunca se quede "viejo"
+# (las horas son absolutas; sin esto, al día siguiente todo sale "sin programación").
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # cada 6 horas (la ventana del xmltv es de ~24h, así aguanta retrasos del cron)
+  workflow_dispatch: {}       # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-epg
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generar EPG
+        run: python3 scripts/gen_epg.py
+      - name: Commit si cambió
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add xmltv.xml
+          if git diff --cached --quiet; then
+            echo "Sin cambios en xmltv.xml"
+          else
+            git commit -m "Auto-refresh EPG (xmltv) [skip ci]"
+            git push
+          fi
