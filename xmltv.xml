@@ -11,1059 +11,1059 @@
   <channel id="nasa.tv"><display-name>NASA TV Public</display-name></channel>
   <channel id="nasamedia.tv"><display-name>NASA TV Media</display-name></channel>
   <channel id="redbull.tv"><display-name>Red Bull TV</display-name></channel>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="france24.en">
+  <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="france24.en">
     <title>France 24 News</title>
     <desc>France 24 News — en directo.</desc>
-  </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="france24.en">
-    <title>The World This Week</title>
-    <desc>The World This Week — en directo.</desc>
-  </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="france24.en">
-    <title>The Debate</title>
-    <desc>The Debate — en directo.</desc>
-  </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="france24.en">
-    <title>Business Daily</title>
-    <desc>Business Daily — en directo.</desc>
-  </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="france24.en">
-    <title>Sport 24</title>
-    <desc>Sport 24 — en directo.</desc>
-  </programme>
-  <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="france24.en">
-    <title>The Interview</title>
-    <desc>The Interview — en directo.</desc>
   </programme>
   <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="france24.en">
-    <title>Encore!</title>
-    <desc>Encore! — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="france24.en">
-    <title>Reporters</title>
-    <desc>Reporters — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="france24.en">
-    <title>Down to Earth</title>
-    <desc>Down to Earth — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="france24.en">
-    <title>Talking Europe</title>
-    <desc>Talking Europe — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="france24.en">
-    <title>Eye on Africa</title>
-    <desc>Eye on Africa — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="france24.en">
-    <title>Access Asia</title>
-    <desc>Access Asia — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="france24.en">
-    <title>France 24 News</title>
-    <desc>France 24 News — en directo.</desc>
-  </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="france24.en">
     <title>The World This Week</title>
     <desc>The World This Week — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="france24.en">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="france24.en">
     <title>The Debate</title>
     <desc>The Debate — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="france24.en">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="france24.en">
     <title>Business Daily</title>
     <desc>Business Daily — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="france24.en">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="france24.en">
     <title>Sport 24</title>
     <desc>Sport 24 — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="france24.en">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="france24.en">
     <title>The Interview</title>
     <desc>The Interview — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="france24.en">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="france24.en">
     <title>Encore!</title>
     <desc>Encore! — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="france24.en">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="france24.en">
     <title>Reporters</title>
     <desc>Reporters — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="france24.en">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="france24.en">
     <title>Down to Earth</title>
     <desc>Down to Earth — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="france24.en">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="france24.en">
     <title>Talking Europe</title>
     <desc>Talking Europe — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="france24.en">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="france24.en">
     <title>Eye on Africa</title>
     <desc>Eye on Africa — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="france24.en">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="france24.en">
     <title>Access Asia</title>
     <desc>Access Asia — en directo.</desc>
   </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="dw.en">
-    <title>DW News</title>
-    <desc>DW News — en directo.</desc>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="france24.en">
+    <title>France 24 News</title>
+    <desc>France 24 News — en directo.</desc>
   </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="dw.en">
-    <title>The Day</title>
-    <desc>The Day — en directo.</desc>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="france24.en">
+    <title>The World This Week</title>
+    <desc>The World This Week — en directo.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="dw.en">
-    <title>DW Business</title>
-    <desc>DW Business — en directo.</desc>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="france24.en">
+    <title>The Debate</title>
+    <desc>The Debate — en directo.</desc>
   </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="dw.en">
-    <title>Tomorrow Today</title>
-    <desc>Tomorrow Today — en directo.</desc>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="france24.en">
+    <title>Business Daily</title>
+    <desc>Business Daily — en directo.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="dw.en">
-    <title>Euromaxx</title>
-    <desc>Euromaxx — en directo.</desc>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="france24.en">
+    <title>Sport 24</title>
+    <desc>Sport 24 — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="france24.en">
+    <title>The Interview</title>
+    <desc>The Interview — en directo.</desc>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="france24.en">
+    <title>Encore!</title>
+    <desc>Encore! — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="france24.en">
+    <title>Reporters</title>
+    <desc>Reporters — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="france24.en">
+    <title>Down to Earth</title>
+    <desc>Down to Earth — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="france24.en">
+    <title>Talking Europe</title>
+    <desc>Talking Europe — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="france24.en">
+    <title>Eye on Africa</title>
+    <desc>Eye on Africa — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="france24.en">
+    <title>Access Asia</title>
+    <desc>Access Asia — en directo.</desc>
   </programme>
   <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="dw.en">
-    <title>Made in Germany</title>
-    <desc>Made in Germany — en directo.</desc>
-  </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="dw.en">
-    <title>DocFilm</title>
-    <desc>DocFilm — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="dw.en">
-    <title>Sports Life</title>
-    <desc>Sports Life — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="dw.en">
-    <title>Arts Unveiled</title>
-    <desc>Arts Unveiled — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="dw.en">
-    <title>Eco India</title>
-    <desc>Eco India — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="dw.en">
-    <title>Close Up</title>
-    <desc>Close Up — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="dw.en">
-    <title>Shift</title>
-    <desc>Shift — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="dw.en">
     <title>DW News</title>
     <desc>DW News — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="dw.en">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="dw.en">
     <title>The Day</title>
     <desc>The Day — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="dw.en">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="dw.en">
     <title>DW Business</title>
     <desc>DW Business — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="dw.en">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="dw.en">
     <title>Tomorrow Today</title>
     <desc>Tomorrow Today — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="dw.en">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="dw.en">
     <title>Euromaxx</title>
     <desc>Euromaxx — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="dw.en">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="dw.en">
     <title>Made in Germany</title>
     <desc>Made in Germany — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="dw.en">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="dw.en">
     <title>DocFilm</title>
     <desc>DocFilm — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="dw.en">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="dw.en">
     <title>Sports Life</title>
     <desc>Sports Life — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="dw.en">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="dw.en">
     <title>Arts Unveiled</title>
     <desc>Arts Unveiled — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="dw.en">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="dw.en">
     <title>Eco India</title>
     <desc>Eco India — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="dw.en">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="dw.en">
     <title>Close Up</title>
     <desc>Close Up — en directo.</desc>
+  </programme>
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="dw.en">
+    <title>Shift</title>
+    <desc>Shift — en directo.</desc>
+  </programme>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="dw.en">
+    <title>DW News</title>
+    <desc>DW News — en directo.</desc>
+  </programme>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="dw.en">
+    <title>The Day</title>
+    <desc>The Day — en directo.</desc>
+  </programme>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="dw.en">
+    <title>DW Business</title>
+    <desc>DW Business — en directo.</desc>
+  </programme>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="dw.en">
+    <title>Tomorrow Today</title>
+    <desc>Tomorrow Today — en directo.</desc>
+  </programme>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="dw.en">
+    <title>Euromaxx</title>
+    <desc>Euromaxx — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="dw.en">
+    <title>Made in Germany</title>
+    <desc>Made in Germany — en directo.</desc>
   </programme>
   <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="dw.en">
+    <title>DocFilm</title>
+    <desc>DocFilm — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="dw.en">
+    <title>Sports Life</title>
+    <desc>Sports Life — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="dw.en">
+    <title>Arts Unveiled</title>
+    <desc>Arts Unveiled — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="dw.en">
+    <title>Eco India</title>
+    <desc>Eco India — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="dw.en">
+    <title>Close Up</title>
+    <desc>Close Up — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="dw.en">
     <title>Shift</title>
     <desc>Shift — en directo.</desc>
-  </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="cgtn.en">
-    <title>CGTN News</title>
-    <desc>CGTN News — en directo.</desc>
-  </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="cgtn.en">
-    <title>The World Today</title>
-    <desc>The World Today — en directo.</desc>
-  </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="cgtn.en">
-    <title>Global Business</title>
-    <desc>Global Business — en directo.</desc>
-  </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="cgtn.en">
-    <title>Dialogue</title>
-    <desc>Dialogue — en directo.</desc>
-  </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="cgtn.en">
-    <title>Sports Scene</title>
-    <desc>Sports Scene — en directo.</desc>
   </programme>
   <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="cgtn.en">
-    <title>Culture Express</title>
-    <desc>Culture Express — en directo.</desc>
-  </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="cgtn.en">
-    <title>Tech It Out</title>
-    <desc>Tech It Out — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="cgtn.en">
-    <title>The Hub</title>
-    <desc>The Hub — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="cgtn.en">
-    <title>Full Frame</title>
-    <desc>Full Frame — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="cgtn.en">
-    <title>World Insight</title>
-    <desc>World Insight — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="cgtn.en">
-    <title>China 24</title>
-    <desc>China 24 — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="cgtn.en">
-    <title>Across China</title>
-    <desc>Across China — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="cgtn.en">
     <title>CGTN News</title>
     <desc>CGTN News — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="cgtn.en">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="cgtn.en">
     <title>The World Today</title>
     <desc>The World Today — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="cgtn.en">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="cgtn.en">
     <title>Global Business</title>
     <desc>Global Business — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="cgtn.en">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="cgtn.en">
     <title>Dialogue</title>
     <desc>Dialogue — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="cgtn.en">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="cgtn.en">
     <title>Sports Scene</title>
     <desc>Sports Scene — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="cgtn.en">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="cgtn.en">
     <title>Culture Express</title>
     <desc>Culture Express — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="cgtn.en">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="cgtn.en">
     <title>Tech It Out</title>
     <desc>Tech It Out — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="cgtn.en">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="cgtn.en">
     <title>The Hub</title>
     <desc>The Hub — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="cgtn.en">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="cgtn.en">
     <title>Full Frame</title>
     <desc>Full Frame — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="cgtn.en">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="cgtn.en">
     <title>World Insight</title>
     <desc>World Insight — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="cgtn.en">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="cgtn.en">
     <title>China 24</title>
     <desc>China 24 — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="cgtn.en">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="cgtn.en">
     <title>Across China</title>
     <desc>Across China — en directo.</desc>
   </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="bloomberg.us">
-    <title>Bloomberg Markets</title>
-    <desc>Bloomberg Markets — en directo.</desc>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="cgtn.en">
+    <title>CGTN News</title>
+    <desc>CGTN News — en directo.</desc>
   </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="bloomberg.us">
-    <title>Balance of Power</title>
-    <desc>Balance of Power — en directo.</desc>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="cgtn.en">
+    <title>The World Today</title>
+    <desc>The World Today — en directo.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="bloomberg.us">
-    <title>Bloomberg Technology</title>
-    <desc>Bloomberg Technology — en directo.</desc>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="cgtn.en">
+    <title>Global Business</title>
+    <desc>Global Business — en directo.</desc>
   </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="bloomberg.us">
-    <title>Wall Street Week</title>
-    <desc>Wall Street Week — en directo.</desc>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="cgtn.en">
+    <title>Dialogue</title>
+    <desc>Dialogue — en directo.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="bloomberg.us">
-    <title>Bloomberg Surveillance</title>
-    <desc>Bloomberg Surveillance — en directo.</desc>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="cgtn.en">
+    <title>Sports Scene</title>
+    <desc>Sports Scene — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="cgtn.en">
+    <title>Culture Express</title>
+    <desc>Culture Express — en directo.</desc>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="cgtn.en">
+    <title>Tech It Out</title>
+    <desc>Tech It Out — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="cgtn.en">
+    <title>The Hub</title>
+    <desc>The Hub — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="cgtn.en">
+    <title>Full Frame</title>
+    <desc>Full Frame — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="cgtn.en">
+    <title>World Insight</title>
+    <desc>World Insight — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="cgtn.en">
+    <title>China 24</title>
+    <desc>China 24 — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="cgtn.en">
+    <title>Across China</title>
+    <desc>Across China — en directo.</desc>
   </programme>
   <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="bloomberg.us">
-    <title>The Close</title>
-    <desc>The Close — en directo.</desc>
-  </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="bloomberg.us">
-    <title>Daybreak</title>
-    <desc>Daybreak — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="bloomberg.us">
-    <title>Quicktake</title>
-    <desc>Quicktake — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="bloomberg.us">
-    <title>Open Interest</title>
-    <desc>Open Interest — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="bloomberg.us">
-    <title>Big Take</title>
-    <desc>Big Take — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="bloomberg.us">
-    <title>Markets Live</title>
-    <desc>Markets Live — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="bloomberg.us">
-    <title>Businessweek</title>
-    <desc>Businessweek — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="bloomberg.us">
     <title>Bloomberg Markets</title>
     <desc>Bloomberg Markets — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="bloomberg.us">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="bloomberg.us">
     <title>Balance of Power</title>
     <desc>Balance of Power — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="bloomberg.us">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="bloomberg.us">
     <title>Bloomberg Technology</title>
     <desc>Bloomberg Technology — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="bloomberg.us">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="bloomberg.us">
     <title>Wall Street Week</title>
     <desc>Wall Street Week — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="bloomberg.us">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="bloomberg.us">
     <title>Bloomberg Surveillance</title>
     <desc>Bloomberg Surveillance — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="bloomberg.us">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="bloomberg.us">
     <title>The Close</title>
     <desc>The Close — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="bloomberg.us">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="bloomberg.us">
     <title>Daybreak</title>
     <desc>Daybreak — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="bloomberg.us">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="bloomberg.us">
     <title>Quicktake</title>
     <desc>Quicktake — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="bloomberg.us">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="bloomberg.us">
     <title>Open Interest</title>
     <desc>Open Interest — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="bloomberg.us">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="bloomberg.us">
     <title>Big Take</title>
     <desc>Big Take — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="bloomberg.us">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="bloomberg.us">
     <title>Markets Live</title>
     <desc>Markets Live — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="bloomberg.us">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="bloomberg.us">
     <title>Businessweek</title>
     <desc>Businessweek — en directo.</desc>
   </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="france24.es">
-    <title>Noticias France 24</title>
-    <desc>Noticias France 24 — en directo.</desc>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="bloomberg.us">
+    <title>Bloomberg Markets</title>
+    <desc>Bloomberg Markets — en directo.</desc>
   </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="france24.es">
-    <title>El Debate</title>
-    <desc>El Debate — en directo.</desc>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="bloomberg.us">
+    <title>Balance of Power</title>
+    <desc>Balance of Power — en directo.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="france24.es">
-    <title>Economico</title>
-    <desc>Economico — en directo.</desc>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="bloomberg.us">
+    <title>Bloomberg Technology</title>
+    <desc>Bloomberg Technology — en directo.</desc>
   </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="france24.es">
-    <title>A Fondo</title>
-    <desc>A Fondo — en directo.</desc>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="bloomberg.us">
+    <title>Wall Street Week</title>
+    <desc>Wall Street Week — en directo.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="france24.es">
-    <title>Reporteros</title>
-    <desc>Reporteros — en directo.</desc>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="bloomberg.us">
+    <title>Bloomberg Surveillance</title>
+    <desc>Bloomberg Surveillance — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="bloomberg.us">
+    <title>The Close</title>
+    <desc>The Close — en directo.</desc>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="bloomberg.us">
+    <title>Daybreak</title>
+    <desc>Daybreak — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="bloomberg.us">
+    <title>Quicktake</title>
+    <desc>Quicktake — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="bloomberg.us">
+    <title>Open Interest</title>
+    <desc>Open Interest — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="bloomberg.us">
+    <title>Big Take</title>
+    <desc>Big Take — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="bloomberg.us">
+    <title>Markets Live</title>
+    <desc>Markets Live — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="bloomberg.us">
+    <title>Businessweek</title>
+    <desc>Businessweek — en directo.</desc>
   </programme>
   <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="france24.es">
-    <title>Entre Nosotros</title>
-    <desc>Entre Nosotros — en directo.</desc>
-  </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="france24.es">
-    <title>Actualidad</title>
-    <desc>Actualidad — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="france24.es">
-    <title>Cultura</title>
-    <desc>Cultura — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="france24.es">
-    <title>Mundo</title>
-    <desc>Mundo — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="france24.es">
-    <title>Express</title>
-    <desc>Express — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="france24.es">
-    <title>Aqui Europa</title>
-    <desc>Aqui Europa — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="france24.es">
-    <title>Sin Fronteras</title>
-    <desc>Sin Fronteras — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="france24.es">
     <title>Noticias France 24</title>
     <desc>Noticias France 24 — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="france24.es">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="france24.es">
     <title>El Debate</title>
     <desc>El Debate — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="france24.es">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="france24.es">
     <title>Economico</title>
     <desc>Economico — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="france24.es">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="france24.es">
     <title>A Fondo</title>
     <desc>A Fondo — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="france24.es">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="france24.es">
     <title>Reporteros</title>
     <desc>Reporteros — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="france24.es">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="france24.es">
     <title>Entre Nosotros</title>
     <desc>Entre Nosotros — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="france24.es">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="france24.es">
     <title>Actualidad</title>
     <desc>Actualidad — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="france24.es">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="france24.es">
     <title>Cultura</title>
     <desc>Cultura — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="france24.es">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="france24.es">
     <title>Mundo</title>
     <desc>Mundo — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="france24.es">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="france24.es">
     <title>Express</title>
     <desc>Express — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="france24.es">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="france24.es">
     <title>Aqui Europa</title>
     <desc>Aqui Europa — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="france24.es">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="france24.es">
     <title>Sin Fronteras</title>
     <desc>Sin Fronteras — en directo.</desc>
   </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="dw.es">
-    <title>DW Noticias</title>
-    <desc>DW Noticias — en directo.</desc>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="france24.es">
+    <title>Noticias France 24</title>
+    <desc>Noticias France 24 — en directo.</desc>
   </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="dw.es">
-    <title>Al Dia</title>
-    <desc>Al Dia — en directo.</desc>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="france24.es">
+    <title>El Debate</title>
+    <desc>El Debate — en directo.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="dw.es">
-    <title>Economia</title>
-    <desc>Economia — en directo.</desc>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="france24.es">
+    <title>Economico</title>
+    <desc>Economico — en directo.</desc>
   </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="dw.es">
-    <title>Enfoque Europa</title>
-    <desc>Enfoque Europa — en directo.</desc>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="france24.es">
+    <title>A Fondo</title>
+    <desc>A Fondo — en directo.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="dw.es">
-    <title>Cultura 21</title>
-    <desc>Cultura 21 — en directo.</desc>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="france24.es">
+    <title>Reporteros</title>
+    <desc>Reporteros — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="france24.es">
+    <title>Entre Nosotros</title>
+    <desc>Entre Nosotros — en directo.</desc>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="france24.es">
+    <title>Actualidad</title>
+    <desc>Actualidad — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="france24.es">
+    <title>Cultura</title>
+    <desc>Cultura — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="france24.es">
+    <title>Mundo</title>
+    <desc>Mundo — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="france24.es">
+    <title>Express</title>
+    <desc>Express — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="france24.es">
+    <title>Aqui Europa</title>
+    <desc>Aqui Europa — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="france24.es">
+    <title>Sin Fronteras</title>
+    <desc>Sin Fronteras — en directo.</desc>
   </programme>
   <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="dw.es">
-    <title>Hecho en Alemania</title>
-    <desc>Hecho en Alemania — en directo.</desc>
-  </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="dw.es">
-    <title>DocFilm</title>
-    <desc>DocFilm — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="dw.es">
-    <title>Vida Sana</title>
-    <desc>Vida Sana — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="dw.es">
-    <title>En Forma</title>
-    <desc>En Forma — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="dw.es">
-    <title>Global 3000</title>
-    <desc>Global 3000 — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="dw.es">
-    <title>A Fondo</title>
-    <desc>A Fondo — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="dw.es">
-    <title>Camarera</title>
-    <desc>Camarera — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="dw.es">
     <title>DW Noticias</title>
     <desc>DW Noticias — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="dw.es">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="dw.es">
     <title>Al Dia</title>
     <desc>Al Dia — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="dw.es">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="dw.es">
     <title>Economia</title>
     <desc>Economia — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="dw.es">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="dw.es">
     <title>Enfoque Europa</title>
     <desc>Enfoque Europa — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="dw.es">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="dw.es">
     <title>Cultura 21</title>
     <desc>Cultura 21 — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="dw.es">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="dw.es">
     <title>Hecho en Alemania</title>
     <desc>Hecho en Alemania — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="dw.es">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="dw.es">
     <title>DocFilm</title>
     <desc>DocFilm — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="dw.es">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="dw.es">
     <title>Vida Sana</title>
     <desc>Vida Sana — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="dw.es">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="dw.es">
     <title>En Forma</title>
     <desc>En Forma — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="dw.es">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="dw.es">
     <title>Global 3000</title>
     <desc>Global 3000 — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="dw.es">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="dw.es">
     <title>A Fondo</title>
     <desc>A Fondo — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="dw.es">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="dw.es">
     <title>Camarera</title>
     <desc>Camarera — en directo.</desc>
   </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="france24.fr">
-    <title>Journal France 24</title>
-    <desc>Journal France 24 — en directo.</desc>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="dw.es">
+    <title>DW Noticias</title>
+    <desc>DW Noticias — en directo.</desc>
   </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="france24.fr">
-    <title>Le Debat</title>
-    <desc>Le Debat — en directo.</desc>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="dw.es">
+    <title>Al Dia</title>
+    <desc>Al Dia — en directo.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="france24.fr">
-    <title>Economie</title>
-    <desc>Economie — en directo.</desc>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="dw.es">
+    <title>Economia</title>
+    <desc>Economia — en directo.</desc>
   </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="france24.fr">
-    <title>Reporters</title>
-    <desc>Reporters — en directo.</desc>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="dw.es">
+    <title>Enfoque Europa</title>
+    <desc>Enfoque Europa — en directo.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="france24.fr">
-    <title>Element Terre</title>
-    <desc>Element Terre — en directo.</desc>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="dw.es">
+    <title>Cultura 21</title>
+    <desc>Cultura 21 — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="dw.es">
+    <title>Hecho en Alemania</title>
+    <desc>Hecho en Alemania — en directo.</desc>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="dw.es">
+    <title>DocFilm</title>
+    <desc>DocFilm — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="dw.es">
+    <title>Vida Sana</title>
+    <desc>Vida Sana — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="dw.es">
+    <title>En Forma</title>
+    <desc>En Forma — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="dw.es">
+    <title>Global 3000</title>
+    <desc>Global 3000 — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="dw.es">
+    <title>A Fondo</title>
+    <desc>A Fondo — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="dw.es">
+    <title>Camarera</title>
+    <desc>Camarera — en directo.</desc>
   </programme>
   <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="france24.fr">
-    <title>L'Entretien</title>
-    <desc>L'Entretien — en directo.</desc>
-  </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="france24.fr">
-    <title>Paris Direct</title>
-    <desc>Paris Direct — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="france24.fr">
-    <title>Ici l'Europe</title>
-    <desc>Ici l'Europe — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="france24.fr">
-    <title>Le Gros Mot</title>
-    <desc>Le Gros Mot — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="france24.fr">
-    <title>Vous etes ici</title>
-    <desc>Vous etes ici — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="france24.fr">
-    <title>Express Orient</title>
-    <desc>Express Orient — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="france24.fr">
-    <title>A l'Affiche</title>
-    <desc>A l'Affiche — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="france24.fr">
     <title>Journal France 24</title>
     <desc>Journal France 24 — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="france24.fr">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="france24.fr">
     <title>Le Debat</title>
     <desc>Le Debat — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="france24.fr">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="france24.fr">
     <title>Economie</title>
     <desc>Economie — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="france24.fr">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="france24.fr">
     <title>Reporters</title>
     <desc>Reporters — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="france24.fr">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="france24.fr">
     <title>Element Terre</title>
     <desc>Element Terre — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="france24.fr">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="france24.fr">
     <title>L'Entretien</title>
     <desc>L'Entretien — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="france24.fr">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="france24.fr">
     <title>Paris Direct</title>
     <desc>Paris Direct — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="france24.fr">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="france24.fr">
     <title>Ici l'Europe</title>
     <desc>Ici l'Europe — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="france24.fr">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="france24.fr">
     <title>Le Gros Mot</title>
     <desc>Le Gros Mot — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="france24.fr">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="france24.fr">
     <title>Vous etes ici</title>
     <desc>Vous etes ici — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="france24.fr">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="france24.fr">
     <title>Express Orient</title>
     <desc>Express Orient — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="france24.fr">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="france24.fr">
     <title>A l'Affiche</title>
     <desc>A l'Affiche — en directo.</desc>
   </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="dw.de">
-    <title>DW Nachrichten</title>
-    <desc>DW Nachrichten — en directo.</desc>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="france24.fr">
+    <title>Journal France 24</title>
+    <desc>Journal France 24 — en directo.</desc>
   </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="dw.de">
-    <title>Der Tag</title>
-    <desc>Der Tag — en directo.</desc>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="france24.fr">
+    <title>Le Debat</title>
+    <desc>Le Debat — en directo.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="dw.de">
-    <title>DW Wirtschaft</title>
-    <desc>DW Wirtschaft — en directo.</desc>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="france24.fr">
+    <title>Economie</title>
+    <desc>Economie — en directo.</desc>
   </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="dw.de">
-    <title>Tomorrow Today</title>
-    <desc>Tomorrow Today — en directo.</desc>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="france24.fr">
+    <title>Reporters</title>
+    <desc>Reporters — en directo.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="dw.de">
-    <title>Euromaxx</title>
-    <desc>Euromaxx — en directo.</desc>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="france24.fr">
+    <title>Element Terre</title>
+    <desc>Element Terre — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="france24.fr">
+    <title>L'Entretien</title>
+    <desc>L'Entretien — en directo.</desc>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="france24.fr">
+    <title>Paris Direct</title>
+    <desc>Paris Direct — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="france24.fr">
+    <title>Ici l'Europe</title>
+    <desc>Ici l'Europe — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="france24.fr">
+    <title>Le Gros Mot</title>
+    <desc>Le Gros Mot — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="france24.fr">
+    <title>Vous etes ici</title>
+    <desc>Vous etes ici — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="france24.fr">
+    <title>Express Orient</title>
+    <desc>Express Orient — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="france24.fr">
+    <title>A l'Affiche</title>
+    <desc>A l'Affiche — en directo.</desc>
   </programme>
   <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="dw.de">
-    <title>Made in Germany</title>
-    <desc>Made in Germany — en directo.</desc>
-  </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="dw.de">
-    <title>DokFilm</title>
-    <desc>DokFilm — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="dw.de">
-    <title>Sportreportage</title>
-    <desc>Sportreportage — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="dw.de">
-    <title>Kultur 21</title>
-    <desc>Kultur 21 — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="dw.de">
-    <title>Eco Africa</title>
-    <desc>Eco Africa — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="dw.de">
-    <title>Close Up</title>
-    <desc>Close Up — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="dw.de">
-    <title>Shift</title>
-    <desc>Shift — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="dw.de">
     <title>DW Nachrichten</title>
     <desc>DW Nachrichten — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="dw.de">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="dw.de">
     <title>Der Tag</title>
     <desc>Der Tag — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="dw.de">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="dw.de">
     <title>DW Wirtschaft</title>
     <desc>DW Wirtschaft — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="dw.de">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="dw.de">
     <title>Tomorrow Today</title>
     <desc>Tomorrow Today — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="dw.de">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="dw.de">
     <title>Euromaxx</title>
     <desc>Euromaxx — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="dw.de">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="dw.de">
     <title>Made in Germany</title>
     <desc>Made in Germany — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="dw.de">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="dw.de">
     <title>DokFilm</title>
     <desc>DokFilm — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="dw.de">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="dw.de">
     <title>Sportreportage</title>
     <desc>Sportreportage — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="dw.de">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="dw.de">
     <title>Kultur 21</title>
     <desc>Kultur 21 — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="dw.de">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="dw.de">
     <title>Eco Africa</title>
     <desc>Eco Africa — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="dw.de">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="dw.de">
     <title>Close Up</title>
     <desc>Close Up — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="dw.de">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="dw.de">
     <title>Shift</title>
     <desc>Shift — en directo.</desc>
   </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="nasa.tv">
-    <title>NASA Live: ISS</title>
-    <desc>NASA Live: ISS — en directo.</desc>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="dw.de">
+    <title>DW Nachrichten</title>
+    <desc>DW Nachrichten — en directo.</desc>
   </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="nasa.tv">
-    <title>Mission Briefing</title>
-    <desc>Mission Briefing — en directo.</desc>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="dw.de">
+    <title>Der Tag</title>
+    <desc>Der Tag — en directo.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="nasa.tv">
-    <title>Spacewalk Coverage</title>
-    <desc>Spacewalk Coverage — en directo.</desc>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="dw.de">
+    <title>DW Wirtschaft</title>
+    <desc>DW Wirtschaft — en directo.</desc>
   </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="nasa.tv">
-    <title>Space Station Update</title>
-    <desc>Space Station Update — en directo.</desc>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="dw.de">
+    <title>Tomorrow Today</title>
+    <desc>Tomorrow Today — en directo.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="nasa.tv">
-    <title>Artemis Update</title>
-    <desc>Artemis Update — en directo.</desc>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="dw.de">
+    <title>Euromaxx</title>
+    <desc>Euromaxx — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="dw.de">
+    <title>Made in Germany</title>
+    <desc>Made in Germany — en directo.</desc>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="dw.de">
+    <title>DokFilm</title>
+    <desc>DokFilm — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="dw.de">
+    <title>Sportreportage</title>
+    <desc>Sportreportage — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="dw.de">
+    <title>Kultur 21</title>
+    <desc>Kultur 21 — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="dw.de">
+    <title>Eco Africa</title>
+    <desc>Eco Africa — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="dw.de">
+    <title>Close Up</title>
+    <desc>Close Up — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="dw.de">
+    <title>Shift</title>
+    <desc>Shift — en directo.</desc>
   </programme>
   <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="nasa.tv">
-    <title>Launch Coverage</title>
-    <desc>Launch Coverage — en directo.</desc>
-  </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="nasa.tv">
-    <title>Science Live</title>
-    <desc>Science Live — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="nasa.tv">
-    <title>Earth from Space</title>
-    <desc>Earth from Space — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="nasa.tv">
-    <title>Astronaut Q and A</title>
-    <desc>Astronaut Q and A — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="nasa.tv">
-    <title>NASA Explorers</title>
-    <desc>NASA Explorers — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="nasa.tv">
-    <title>Mission Control</title>
-    <desc>Mission Control — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="nasa.tv">
-    <title>Live Views</title>
-    <desc>Live Views — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="nasa.tv">
     <title>NASA Live: ISS</title>
     <desc>NASA Live: ISS — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="nasa.tv">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="nasa.tv">
     <title>Mission Briefing</title>
     <desc>Mission Briefing — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="nasa.tv">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="nasa.tv">
     <title>Spacewalk Coverage</title>
     <desc>Spacewalk Coverage — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="nasa.tv">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="nasa.tv">
     <title>Space Station Update</title>
     <desc>Space Station Update — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="nasa.tv">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="nasa.tv">
     <title>Artemis Update</title>
     <desc>Artemis Update — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="nasa.tv">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="nasa.tv">
     <title>Launch Coverage</title>
     <desc>Launch Coverage — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="nasa.tv">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="nasa.tv">
     <title>Science Live</title>
     <desc>Science Live — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="nasa.tv">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="nasa.tv">
     <title>Earth from Space</title>
     <desc>Earth from Space — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="nasa.tv">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="nasa.tv">
     <title>Astronaut Q and A</title>
     <desc>Astronaut Q and A — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="nasa.tv">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="nasa.tv">
     <title>NASA Explorers</title>
     <desc>NASA Explorers — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="nasa.tv">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="nasa.tv">
     <title>Mission Control</title>
     <desc>Mission Control — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="nasa.tv">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="nasa.tv">
     <title>Live Views</title>
     <desc>Live Views — en directo.</desc>
   </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="nasamedia.tv">
-    <title>Solar System Tour</title>
-    <desc>Solar System Tour — en directo.</desc>
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="nasa.tv">
+    <title>NASA Live: ISS</title>
+    <desc>NASA Live: ISS — en directo.</desc>
   </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="nasamedia.tv">
-    <title>Hubble Highlights</title>
-    <desc>Hubble Highlights — en directo.</desc>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="nasa.tv">
+    <title>Mission Briefing</title>
+    <desc>Mission Briefing — en directo.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="nasamedia.tv">
-    <title>Mars Report</title>
-    <desc>Mars Report — en directo.</desc>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="nasa.tv">
+    <title>Spacewalk Coverage</title>
+    <desc>Spacewalk Coverage — en directo.</desc>
   </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="nasamedia.tv">
-    <title>Webb Telescope</title>
-    <desc>Webb Telescope — en directo.</desc>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="nasa.tv">
+    <title>Space Station Update</title>
+    <desc>Space Station Update — en directo.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="nasamedia.tv">
-    <title>Apollo Archives</title>
-    <desc>Apollo Archives — en directo.</desc>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="nasa.tv">
+    <title>Artemis Update</title>
+    <desc>Artemis Update — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="nasa.tv">
+    <title>Launch Coverage</title>
+    <desc>Launch Coverage — en directo.</desc>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="nasa.tv">
+    <title>Science Live</title>
+    <desc>Science Live — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="nasa.tv">
+    <title>Earth from Space</title>
+    <desc>Earth from Space — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="nasa.tv">
+    <title>Astronaut Q and A</title>
+    <desc>Astronaut Q and A — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="nasa.tv">
+    <title>NASA Explorers</title>
+    <desc>NASA Explorers — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="nasa.tv">
+    <title>Mission Control</title>
+    <desc>Mission Control — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="nasa.tv">
+    <title>Live Views</title>
+    <desc>Live Views — en directo.</desc>
   </programme>
   <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="nasamedia.tv">
-    <title>Universe Today</title>
-    <desc>Universe Today — en directo.</desc>
-  </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="nasamedia.tv">
-    <title>Galaxy Files</title>
-    <desc>Galaxy Files — en directo.</desc>
-  </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="nasamedia.tv">
-    <title>Cosmic Front</title>
-    <desc>Cosmic Front — en directo.</desc>
-  </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="nasamedia.tv">
-    <title>Deep Space</title>
-    <desc>Deep Space — en directo.</desc>
-  </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="nasamedia.tv">
-    <title>Planetary Science</title>
-    <desc>Planetary Science — en directo.</desc>
-  </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="nasamedia.tv">
-    <title>Our Universe</title>
-    <desc>Our Universe — en directo.</desc>
-  </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="nasamedia.tv">
-    <title>Space Now</title>
-    <desc>Space Now — en directo.</desc>
-  </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="nasamedia.tv">
     <title>Solar System Tour</title>
     <desc>Solar System Tour — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="nasamedia.tv">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="nasamedia.tv">
     <title>Hubble Highlights</title>
     <desc>Hubble Highlights — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="nasamedia.tv">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="nasamedia.tv">
     <title>Mars Report</title>
     <desc>Mars Report — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="nasamedia.tv">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="nasamedia.tv">
     <title>Webb Telescope</title>
     <desc>Webb Telescope — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="nasamedia.tv">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="nasamedia.tv">
     <title>Apollo Archives</title>
     <desc>Apollo Archives — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="nasamedia.tv">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="nasamedia.tv">
     <title>Universe Today</title>
     <desc>Universe Today — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="nasamedia.tv">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="nasamedia.tv">
     <title>Galaxy Files</title>
     <desc>Galaxy Files — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="nasamedia.tv">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="nasamedia.tv">
     <title>Cosmic Front</title>
     <desc>Cosmic Front — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="nasamedia.tv">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="nasamedia.tv">
     <title>Deep Space</title>
     <desc>Deep Space — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="nasamedia.tv">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="nasamedia.tv">
     <title>Planetary Science</title>
     <desc>Planetary Science — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="nasamedia.tv">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="nasamedia.tv">
     <title>Our Universe</title>
     <desc>Our Universe — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="nasamedia.tv">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="nasamedia.tv">
     <title>Space Now</title>
     <desc>Space Now — en directo.</desc>
   </programme>
-  <programme start="20260716230000 +0000" stop="20260717000000 +0000" channel="redbull.tv">
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="nasamedia.tv">
+    <title>Solar System Tour</title>
+    <desc>Solar System Tour — en directo.</desc>
+  </programme>
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="nasamedia.tv">
+    <title>Hubble Highlights</title>
+    <desc>Hubble Highlights — en directo.</desc>
+  </programme>
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="nasamedia.tv">
+    <title>Mars Report</title>
+    <desc>Mars Report — en directo.</desc>
+  </programme>
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="nasamedia.tv">
+    <title>Webb Telescope</title>
+    <desc>Webb Telescope — en directo.</desc>
+  </programme>
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="nasamedia.tv">
+    <title>Apollo Archives</title>
+    <desc>Apollo Archives — en directo.</desc>
+  </programme>
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="nasamedia.tv">
+    <title>Universe Today</title>
+    <desc>Universe Today — en directo.</desc>
+  </programme>
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="nasamedia.tv">
+    <title>Galaxy Files</title>
+    <desc>Galaxy Files — en directo.</desc>
+  </programme>
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="nasamedia.tv">
+    <title>Cosmic Front</title>
+    <desc>Cosmic Front — en directo.</desc>
+  </programme>
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="nasamedia.tv">
+    <title>Deep Space</title>
+    <desc>Deep Space — en directo.</desc>
+  </programme>
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="nasamedia.tv">
+    <title>Planetary Science</title>
+    <desc>Planetary Science — en directo.</desc>
+  </programme>
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="nasamedia.tv">
+    <title>Our Universe</title>
+    <desc>Our Universe — en directo.</desc>
+  </programme>
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="nasamedia.tv">
+    <title>Space Now</title>
+    <desc>Space Now — en directo.</desc>
+  </programme>
+  <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="redbull.tv">
     <title>Cliff Diving World Series</title>
     <desc>Cliff Diving World Series — en directo.</desc>
   </programme>
-  <programme start="20260717000000 +0000" stop="20260717010000 +0000" channel="redbull.tv">
+  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="redbull.tv">
     <title>Surfing World Tour</title>
     <desc>Surfing World Tour — en directo.</desc>
   </programme>
-  <programme start="20260717010000 +0000" stop="20260717020000 +0000" channel="redbull.tv">
+  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="redbull.tv">
     <title>Red Bull Rampage</title>
     <desc>Red Bull Rampage — en directo.</desc>
   </programme>
-  <programme start="20260717020000 +0000" stop="20260717030000 +0000" channel="redbull.tv">
+  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="redbull.tv">
     <title>Motocross Live</title>
     <desc>Motocross Live — en directo.</desc>
   </programme>
-  <programme start="20260717030000 +0000" stop="20260717040000 +0000" channel="redbull.tv">
+  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="redbull.tv">
     <title>Freeski World Tour</title>
     <desc>Freeski World Tour — en directo.</desc>
   </programme>
-  <programme start="20260717040000 +0000" stop="20260717050000 +0000" channel="redbull.tv">
+  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="redbull.tv">
     <title>Red Bull Air Race</title>
     <desc>Red Bull Air Race — en directo.</desc>
   </programme>
-  <programme start="20260717050000 +0000" stop="20260717060000 +0000" channel="redbull.tv">
+  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="redbull.tv">
     <title>Skate Generation</title>
     <desc>Skate Generation — en directo.</desc>
   </programme>
-  <programme start="20260717060000 +0000" stop="20260717070000 +0000" channel="redbull.tv">
+  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="redbull.tv">
     <title>Crashed Ice</title>
     <desc>Crashed Ice — en directo.</desc>
   </programme>
-  <programme start="20260717070000 +0000" stop="20260717080000 +0000" channel="redbull.tv">
+  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="redbull.tv">
     <title>MotoGP Files</title>
     <desc>MotoGP Files — en directo.</desc>
   </programme>
-  <programme start="20260717080000 +0000" stop="20260717090000 +0000" channel="redbull.tv">
+  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="redbull.tv">
     <title>Who Is JOB</title>
     <desc>Who Is JOB — en directo.</desc>
   </programme>
-  <programme start="20260717090000 +0000" stop="20260717100000 +0000" channel="redbull.tv">
+  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="redbull.tv">
     <title>Danny MacAskill</title>
     <desc>Danny MacAskill — en directo.</desc>
   </programme>
-  <programme start="20260717100000 +0000" stop="20260717110000 +0000" channel="redbull.tv">
+  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="redbull.tv">
     <title>The Ultimate Ride</title>
     <desc>The Ultimate Ride — en directo.</desc>
   </programme>
-  <programme start="20260717110000 +0000" stop="20260717120000 +0000" channel="redbull.tv">
+  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="redbull.tv">
     <title>Cliff Diving World Series</title>
     <desc>Cliff Diving World Series — en directo.</desc>
   </programme>
-  <programme start="20260717120000 +0000" stop="20260717130000 +0000" channel="redbull.tv">
+  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="redbull.tv">
     <title>Surfing World Tour</title>
     <desc>Surfing World Tour — en directo.</desc>
   </programme>
-  <programme start="20260717130000 +0000" stop="20260717140000 +0000" channel="redbull.tv">
+  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="redbull.tv">
     <title>Red Bull Rampage</title>
     <desc>Red Bull Rampage — en directo.</desc>
   </programme>
-  <programme start="20260717140000 +0000" stop="20260717150000 +0000" channel="redbull.tv">
+  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="redbull.tv">
     <title>Motocross Live</title>
     <desc>Motocross Live — en directo.</desc>
   </programme>
-  <programme start="20260717150000 +0000" stop="20260717160000 +0000" channel="redbull.tv">
+  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="redbull.tv">
     <title>Freeski World Tour</title>
     <desc>Freeski World Tour — en directo.</desc>
   </programme>
-  <programme start="20260717160000 +0000" stop="20260717170000 +0000" channel="redbull.tv">
+  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="redbull.tv">
     <title>Red Bull Air Race</title>
     <desc>Red Bull Air Race — en directo.</desc>
   </programme>
-  <programme start="20260717170000 +0000" stop="20260717180000 +0000" channel="redbull.tv">
+  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="redbull.tv">
     <title>Skate Generation</title>
     <desc>Skate Generation — en directo.</desc>
   </programme>
-  <programme start="20260717180000 +0000" stop="20260717190000 +0000" channel="redbull.tv">
+  <programme start="20260717230000 +0000" stop="20260718000000 +0000" channel="redbull.tv">
     <title>Crashed Ice</title>
     <desc>Crashed Ice — en directo.</desc>
   </programme>
-  <programme start="20260717190000 +0000" stop="20260717200000 +0000" channel="redbull.tv">
+  <programme start="20260718000000 +0000" stop="20260718010000 +0000" channel="redbull.tv">
     <title>MotoGP Files</title>
     <desc>MotoGP Files — en directo.</desc>
   </programme>
-  <programme start="20260717200000 +0000" stop="20260717210000 +0000" channel="redbull.tv">
+  <programme start="20260718010000 +0000" stop="20260718020000 +0000" channel="redbull.tv">
     <title>Who Is JOB</title>
     <desc>Who Is JOB — en directo.</desc>
   </programme>
-  <programme start="20260717210000 +0000" stop="20260717220000 +0000" channel="redbull.tv">
+  <programme start="20260718020000 +0000" stop="20260718030000 +0000" channel="redbull.tv">
     <title>Danny MacAskill</title>
     <desc>Danny MacAskill — en directo.</desc>
   </programme>
-  <programme start="20260717220000 +0000" stop="20260717230000 +0000" channel="redbull.tv">
+  <programme start="20260718030000 +0000" stop="20260718040000 +0000" channel="redbull.tv">
     <title>The Ultimate Ride</title>
     <desc>The Ultimate Ride — en directo.</desc>
   </programme>
