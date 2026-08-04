@@ -1,30 +1,30 @@
 {
   "info": {
-    "name": "Cronicas Estelares",
-    "cover": "https://picsum.photos/seed/ser1/600/900",
-    "plot": "Ciencia ficcion epica entre galaxias.",
+    "name": "Legado de Sombras",
+    "cover": "https://picsum.photos/seed/ser12/600/900",
+    "plot": "Fantasia oscura sobre un reino olvidado.",
     "cast": "Reparto Demo",
     "director": "Director Demo",
     "genre": "Demo",
-    "releaseDate": "2024",
-    "rating": "8.5",
-    "rating_5based": 4.25,
+    "releaseDate": "2022",
+    "rating": "9.5",
+    "rating_5based": 4.75,
     "episode_run_time": "45",
-    "category_id": "14",
+    "category_id": "15",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser1/1280/720"
+      "https://picsum.photos/seed/ser12/1280/720"
     ]
   },
   "episodes": {
     "1": [
       {
-        "id": "1101",
+        "id": "12101",
         "episode_num": 1,
         "title": "T1 - Episodio 1",
         "container_extension": "mp4",
         "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_5MB.mp4",
         "info": {
           "plot": "Episodio 1 de la temporada 1.",
           "duration_secs": 596,
@@ -34,39 +34,39 @@
         }
       },
       {
-        "id": "1102",
+        "id": "12102",
         "episode_num": 2,
         "title": "T1 - Episodio 2",
         "container_extension": "m3u8",
         "added": "1609459200",
         "season": 1,
-        "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+        "direct_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "info": {
           "plot": "Episodio 2 de la temporada 1.",
           "duration_secs": 596,
           "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep1_1_2/600/900"
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
         }
       },
       {
-        "id": "1103",
+        "id": "12103",
         "episode_num": 3,
         "title": "T1 - Episodio 3",
-        "container_extension": "mp4",
+        "container_extension": "m3u8",
         "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
         "info": {
           "plot": "Episodio 3 de la temporada 1.",
           "duration_secs": 596,
           "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep1_1_3/600/900"
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
         }
       },
       {
-        "id": "1104",
+        "id": "12104",
         "episode_num": 4,
         "title": "T1 - Episodio 4",
         "container_extension": "mp4",
@@ -77,106 +77,74 @@
           "plot": "Episodio 4 de la temporada 1.",
           "duration_secs": 596,
           "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep1_1_4/600/900"
-        }
-      },
-      {
-        "id": "1105",
-        "episode_num": 5,
-        "title": "T1 - Episodio 5",
-        "container_extension": "mp4",
-        "added": "1609459200",
-        "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/sintel/trailer.mp4",
-        "info": {
-          "plot": "Episodio 5 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.8,
-          "movie_image": "https://picsum.photos/seed/ep1_1_5/600/900"
-        }
-      },
-      {
-        "id": "1106",
-        "episode_num": 6,
-        "title": "T1 - Episodio 6",
-        "container_extension": "mp4",
-        "added": "1609459200",
-        "season": 1,
-        "direct_source": "https://www.w3schools.com/html/mov_bbb.mp4",
-        "info": {
-          "plot": "Episodio 6 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
           "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep1_1_6/600/900"
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
         }
       }
     ],
     "2": [
       {
-        "id": "1201",
+        "id": "12201",
         "episode_num": 1,
         "title": "T2 - Episodio 1",
         "container_extension": "mp4",
         "added": "1609459200",
         "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "direct_source": "https://media.w3.org/2010/05/sintel/trailer.mp4",
         "info": {
           "plot": "Episodio 1 de la temporada 2.",
           "duration_secs": 596,
           "duration": "00:09:56",
           "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep1_2_1/600/900"
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
         }
       },
       {
-        "id": "1202",
+        "id": "12202",
         "episode_num": 2,
         "title": "T2 - Episodio 2",
         "container_extension": "mp4",
         "added": "1609459200",
         "season": 2,
-        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_30MB.mp4",
+        "direct_source": "https://www.w3schools.com/html/mov_bbb.mp4",
         "info": {
           "plot": "Episodio 2 de la temporada 2.",
           "duration_secs": 596,
           "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep1_2_2/600/900"
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
         }
       },
       {
-        "id": "1203",
+        "id": "12203",
         "episode_num": 3,
         "title": "T2 - Episodio 3",
         "container_extension": "mp4",
         "added": "1609459200",
         "season": 2,
-        "direct_source": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/720/Jellyfish_720_10s_30MB.mp4",
+        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_30MB.mp4",
         "info": {
           "plot": "Episodio 3 de la temporada 2.",
           "duration_secs": 596,
           "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep1_2_3/600/900"
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
         }
       },
       {
-        "id": "1204",
+        "id": "12204",
         "episode_num": 4,
         "title": "T2 - Episodio 4",
         "container_extension": "mp4",
         "added": "1609459200",
         "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "direct_source": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/720/Jellyfish_720_10s_30MB.mp4",
         "info": {
           "plot": "Episodio 4 de la temporada 2.",
           "duration_secs": 596,
           "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep1_2_4/600/900"
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
         }
       }
     ]

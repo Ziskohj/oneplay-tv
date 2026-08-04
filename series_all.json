@@ -112,5 +112,119 @@
     ],
     "episode_run_time": "45",
     "category_id": "20"
+  },
+  {
+    "num": 7,
+    "series_id": 7,
+    "name": "El Protocolo Halcon",
+    "cover": "https://picsum.photos/seed/ser7/600/900",
+    "plot": "Un equipo de elite persigue una conspiracion global.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2021",
+    "last_modified": "1609459200",
+    "rating": "7.0",
+    "rating_5based": 3.5,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser7/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "13"
+  },
+  {
+    "num": 8,
+    "series_id": 8,
+    "name": "Raices de Piedra",
+    "cover": "https://picsum.photos/seed/ser8/600/900",
+    "plot": "Drama rural sobre una familia y su tierra.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2022",
+    "last_modified": "1609459200",
+    "rating": "8.1",
+    "rating_5based": 4.05,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser8/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "11"
+  },
+  {
+    "num": 9,
+    "series_id": 9,
+    "name": "Frecuencia Prohibida",
+    "cover": "https://picsum.photos/seed/ser9/600/900",
+    "plot": "Una senal misteriosa cambia un pueblo entero.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2023",
+    "last_modified": "1609459200",
+    "rating": "9.2",
+    "rating_5based": 4.6,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser9/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "14"
+  },
+  {
+    "num": 10,
+    "series_id": 10,
+    "name": "La Casa del Reloj",
+    "cover": "https://picsum.photos/seed/ser10/600/900",
+    "plot": "Misterios que solo ocurren a medianoche.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2024",
+    "last_modified": "1609459200",
+    "rating": "7.3",
+    "rating_5based": 3.65,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser10/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "18"
+  },
+  {
+    "num": 11,
+    "series_id": 11,
+    "name": "Vertigo",
+    "cover": "https://picsum.photos/seed/ser11/600/900",
+    "plot": "Thriller psicologico en las alturas de la ciudad.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2021",
+    "last_modified": "1609459200",
+    "rating": "8.4",
+    "rating_5based": 4.2,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser11/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "18"
+  },
+  {
+    "num": 12,
+    "series_id": 12,
+    "name": "Legado de Sombras",
+    "cover": "https://picsum.photos/seed/ser12/600/900",
+    "plot": "Fantasia oscura sobre un reino olvidado.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2022",
+    "last_modified": "1609459200",
+    "rating": "9.5",
+    "rating_5based": 4.75,
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser12/1280/720"
+    ],
+    "episode_run_time": "45",
+    "category_id": "15"
   }
 ]

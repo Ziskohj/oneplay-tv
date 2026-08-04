@@ -1,0 +1,152 @@
+{
+  "info": {
+    "name": "Raices de Piedra",
+    "cover": "https://picsum.photos/seed/ser8/600/900",
+    "plot": "Drama rural sobre una familia y su tierra.",
+    "cast": "Reparto Demo",
+    "director": "Director Demo",
+    "genre": "Demo",
+    "releaseDate": "2022",
+    "rating": "8.1",
+    "rating_5based": 4.05,
+    "episode_run_time": "45",
+    "category_id": "11",
+    "backdrop_path": [
+      "https://picsum.photos/seed/ser8/1280/720"
+    ]
+  },
+  "episodes": {
+    "1": [
+      {
+        "id": "8101",
+        "episode_num": 1,
+        "title": "T1 - Episodio 1",
+        "container_extension": "mp4",
+        "added": "1609459200",
+        "season": 1,
+        "direct_source": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "info": {
+          "plot": "Episodio 1 de la temporada 1.",
+          "duration_secs": 596,
+          "duration": "00:09:56",
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+        }
+      },
+      {
+        "id": "8102",
+        "episode_num": 2,
+        "title": "T1 - Episodio 2",
+        "container_extension": "mp4",
+        "added": "1609459200",
+        "season": 1,
+        "direct_source": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "info": {
+          "plot": "Episodio 2 de la temporada 1.",
+          "duration_secs": 596,
+          "duration": "00:09:56",
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+        }
+      },
+      {
+        "id": "8103",
+        "episode_num": 3,
+        "title": "T1 - Episodio 3",
+        "container_extension": "mp4",
+        "added": "1609459200",
+        "season": 1,
+        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_30MB.mp4",
+        "info": {
+          "plot": "Episodio 3 de la temporada 1.",
+          "duration_secs": 596,
+          "duration": "00:09:56",
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+        }
+      },
+      {
+        "id": "8104",
+        "episode_num": 4,
+        "title": "T1 - Episodio 4",
+        "container_extension": "mp4",
+        "added": "1609459200",
+        "season": 1,
+        "direct_source": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/720/Jellyfish_720_10s_30MB.mp4",
+        "info": {
+          "plot": "Episodio 4 de la temporada 1.",
+          "duration_secs": 596,
+          "duration": "00:09:56",
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+        }
+      }
+    ],
+    "2": [
+      {
+        "id": "8201",
+        "episode_num": 1,
+        "title": "T2 - Episodio 1",
+        "container_extension": "mp4",
+        "added": "1609459200",
+        "season": 2,
+        "direct_source": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_30MB.mp4",
+        "info": {
+          "plot": "Episodio 1 de la temporada 2.",
+          "duration_secs": 596,
+          "duration": "00:09:56",
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+        }
+      },
+      {
+        "id": "8202",
+        "episode_num": 2,
+        "title": "T2 - Episodio 2",
+        "container_extension": "mp4",
+        "added": "1609459200",
+        "season": 2,
+        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4",
+        "info": {
+          "plot": "Episodio 2 de la temporada 2.",
+          "duration_secs": 596,
+          "duration": "00:09:56",
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+        }
+      },
+      {
+        "id": "8203",
+        "episode_num": 3,
+        "title": "T2 - Episodio 3",
+        "container_extension": "mp4",
+        "added": "1609459200",
+        "season": 2,
+        "direct_source": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/1080/Jellyfish_1080_10s_30MB.mp4",
+        "info": {
+          "plot": "Episodio 3 de la temporada 2.",
+          "duration_secs": 596,
+          "duration": "00:09:56",
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+        }
+      },
+      {
+        "id": "8204",
+        "episode_num": 4,
+        "title": "T2 - Episodio 4",
+        "container_extension": "mp4",
+        "added": "1609459200",
+        "season": 2,
+        "direct_source": "https://test-videos.co.uk/vids/sintel/mp4/h264/1080/Sintel_1080_10s_30MB.mp4",
+        "info": {
+          "plot": "Episodio 4 de la temporada 2.",
+          "duration_secs": 596,
+          "duration": "00:09:56",
+          "rating": 7.9,
+          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+        }
+      }
+    ]
+  }
+}

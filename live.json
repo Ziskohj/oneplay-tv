@@ -141,5 +141,57 @@
     "tv_archive": 0,
     "tv_archive_duration": 0,
     "direct_source": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+  },
+  {
+    "num": 1012,
+    "name": "Tagesschau 24",
+    "stream_type": "live",
+    "stream_id": 1012,
+    "stream_icon": "https://picsum.photos/seed/live1012/300/300",
+    "epg_channel_id": "tagesschau",
+    "is_adult": "0",
+    "category_id": "101",
+    "tv_archive": 0,
+    "tv_archive_duration": 0,
+    "direct_source": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8"
+  },
+  {
+    "num": 1013,
+    "name": "Cine Demo 24/7",
+    "stream_type": "live",
+    "stream_id": 1013,
+    "stream_icon": "https://picsum.photos/seed/live1013/300/300",
+    "epg_channel_id": "demo.cine",
+    "is_adult": "0",
+    "category_id": "103",
+    "tv_archive": 0,
+    "tv_archive_duration": 0,
+    "direct_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "num": 1014,
+    "name": "Canal Test BipBop",
+    "stream_type": "live",
+    "stream_id": 1014,
+    "stream_icon": "https://picsum.photos/seed/live1014/300/300",
+    "epg_channel_id": "demo.bipbop",
+    "is_adult": "0",
+    "category_id": "103",
+    "tv_archive": 0,
+    "tv_archive_duration": 0,
+    "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8"
+  },
+  {
+    "num": 1015,
+    "name": "Canal Prueba HLS",
+    "stream_type": "live",
+    "stream_id": 1015,
+    "stream_icon": "https://picsum.photos/seed/live1015/300/300",
+    "epg_channel_id": "demo.hls",
+    "is_adult": "0",
+    "category_id": "103",
+    "tv_archive": 0,
+    "tv_archive_duration": 0,
+    "direct_source": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
   }
 ]
