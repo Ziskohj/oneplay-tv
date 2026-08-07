@@ -1,230 +1,122 @@
 [
   {
     "num": 1,
+    "name": "Sherlock Holmes",
     "series_id": 1,
-    "name": "Cronicas Estelares",
-    "cover": "https://picsum.photos/seed/ser1/600/900",
-    "plot": "Ciencia ficcion epica entre galaxias.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "last_modified": "1609459200",
-    "rating": "8.0",
-    "rating_5based": 4.0,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser1/1280/720"
+      "https://image.tmdb.org/t/p/w1280/AhlihKYnLZmNZiIItB4RBZoJHP8.jpg"
     ],
-    "episode_run_time": "45",
-    "category_id": "14"
+    "plot": "The first American television series of Sherlock Holmes adventures aired in syndication in the fall of 1954. The 39 half-hour mostly original stories were produced by Sheldon Reynolds and filmed in France by Guild Films, starring Ronald Howard as Holmes and Howard Marion Crawford as Watson. Archie Duncan appeared in many episodes as Inspector Lestrade. Richard Larke, billed as Kenneth Richards, played Sgt. Wilkins in about fifteen episodes. The series' associate producer, Nicole Milinaire, was one of the first women to attain a senior production role in a television series.",
+    "cast": "Howard Marion-Crawford, Ronald Howard, Archie Duncan, Richard Larke",
+    "director": "",
+    "genre": "Misterio, Drama",
+    "releaseDate": "1954",
+    "last_modified": "1609459200",
+    "rating": "7.2",
+    "rating_5based": 3.6,
+    "episode_run_time": "25",
+    "category_id": "17",
+    "tmdb_id": "6560"
   },
   {
     "num": 2,
+    "name": "The Cisco Kid",
     "series_id": 2,
-    "name": "Bajo Sospecha",
-    "cover": "https://picsum.photos/seed/ser2/600/900",
-    "plot": "Un detective resuelve crimenes imposibles.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "last_modified": "1609459200",
-    "rating": "8.5",
-    "rating_5based": 4.25,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser2/1280/720"
+      "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg"
     ],
-    "episode_run_time": "45",
-    "category_id": "17"
+    "plot": "The Cisco Kid is a half-hour American Western television series starring Duncan Renaldo in the title role, The Cisco Kid, and Leo Carrillo as the jovial sidekick, Pancho. Cisco and Pancho were technically desperados, wanted for unspecified crimes, but instead viewed by the poor as Robin Hood figures who assisted the downtrodden when law enforcement officers proved corrupt or unwilling to help. It was also the first television series to be filmed in color, although few viewers saw it in color until the 1960s.",
+    "cast": "Leo Carrillo, Duncan Renaldo",
+    "director": "",
+    "genre": "Western",
+    "releaseDate": "1950",
+    "last_modified": "1609459200",
+    "rating": "6.2",
+    "rating_5based": 3.1,
+    "episode_run_time": "30",
+    "category_id": "20",
+    "tmdb_id": "18010"
   },
   {
     "num": 3,
+    "name": "Un paso al más allá",
     "series_id": 3,
-    "name": "Risas en Familia",
-    "cover": "https://picsum.photos/seed/ser3/600/900",
-    "plot": "Comedia ligera para toda la familia.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "last_modified": "1609459200",
-    "rating": "9.0",
-    "rating_5based": 4.5,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0IHtUsTGy2XbAEPuPScwqDdcEB.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser3/1280/720"
+      "https://image.tmdb.org/t/p/w1280/rYWPWFUF3N8zIEzyH2git8hbXWy.jpg"
     ],
-    "episode_run_time": "45",
-    "category_id": "12"
+    "plot": "One Step Beyond es una serie de antología estadounidense creada por Merwin Gerard que fue emitida durante tres temporadas en ABC desde enero 1959 hasta julio 1961. El espectáculo fue conducido por John Newland su guía a lo sobrenatural. Cada episodio era un docu-drama de treinta minutos que exploraba algún suceso paranormal o situación que desafiaba la explicación lógica.",
+    "cast": "John Newland",
+    "director": "",
+    "genre": "Misterio, Drama, Ciencia ficción",
+    "releaseDate": "1959",
+    "last_modified": "1609459200",
+    "rating": "5.7",
+    "rating_5based": 2.85,
+    "episode_run_time": "30",
+    "category_id": "21",
+    "tmdb_id": "10377"
   },
   {
     "num": 4,
+    "name": "Betty Boop",
     "series_id": 4,
-    "name": "El Reino Oscuro",
-    "cover": "https://picsum.photos/seed/ser4/600/900",
-    "plot": "Fantasia medieval llena de intriga.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "last_modified": "1609459200",
-    "rating": "9.5",
-    "rating_5based": 4.75,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZYAdvcv6XBh7KkaRfEDUgGVCLL.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser4/1280/720"
+      "https://image.tmdb.org/t/p/w1280/vyeyg3joD72sOqfyvLwm2avy9CA.jpg"
     ],
-    "episode_run_time": "45",
-    "category_id": "15"
+    "plot": "Los clásicos dibujos animados de Max Fleischer de los años 30 protagonizados por Betty Boop, icono surrealista de la era del jazz, con apariciones de músicos legendarios como Cab Calloway. De dominio público.",
+    "cast": "Margie Hines",
+    "director": "",
+    "genre": "Animación, Comedia",
+    "releaseDate": "1933",
+    "last_modified": "1609459200",
+    "rating": "0.0",
+    "rating_5based": 0.0,
+    "episode_run_time": "25",
+    "category_id": "19",
+    "tmdb_id": "323155"
   },
   {
     "num": 5,
+    "name": "Popeye",
     "series_id": 5,
-    "name": "Corazones Rotos",
-    "cover": "https://picsum.photos/seed/ser5/600/900",
-    "plot": "Drama romantico de dos almas.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "last_modified": "1609459200",
-    "rating": "7.6",
-    "rating_5based": 3.8,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser5/1280/720"
+      "https://image.tmdb.org/t/p/w1280/2YeQEGqzE0FDto39IiWRlDg9lN6.jpg"
     ],
-    "episode_run_time": "45",
-    "category_id": "23"
+    "plot": "Popeye es un marinero independiente, con una pipa de caña de maíz siempre en la boca, una peculiar forma de hablar, y, sobre todo, unos desarrolladísimos músculos en los antebrazos. Su alimento preferido son las espinacas que aumentan su fuerza hasta límites insospechados. Tiene el cabello rojo y una prominente mandíbula. Su único ojo, el izquierdo es de color azul. Su extraño sentido del humor se pone de manifiesto en una serie de aventuras a lo largo del mundo, en las que se enfrenta a diversos enemigos, especialmente a Bluto, que está enamorado de Olivia, la novia de Popeye.",
+    "cast": "Jack Mercer, Mae Questel, Jackson Beck",
+    "director": "",
+    "genre": "Animación, Infantil",
+    "releaseDate": "1960",
+    "last_modified": "1609459200",
+    "rating": "7.1",
+    "rating_5based": 3.56,
+    "episode_run_time": "5",
+    "category_id": "19",
+    "tmdb_id": "8392"
   },
   {
     "num": 6,
+    "name": "Superman",
     "series_id": 6,
-    "name": "Frontera Salvaje",
-    "cover": "https://picsum.photos/seed/ser6/600/900",
-    "plot": "Aventuras en territorios inexplorados.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "last_modified": "1609459200",
-    "rating": "8.1",
-    "rating_5based": 4.05,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser6/1280/720"
+      "https://image.tmdb.org/t/p/w1280/7s1JX1cmj5ME8dK54l0vVjGGXHp.jpg"
     ],
-    "episode_run_time": "45",
-    "category_id": "20"
-  },
-  {
-    "num": 7,
-    "series_id": 7,
-    "name": "El Protocolo Halcon",
-    "cover": "https://picsum.photos/seed/ser7/600/900",
-    "plot": "Un equipo de elite persigue una conspiracion global.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2021",
+    "plot": "Los pioneros cortometrajes de animación que Max Fleischer produjo entre 1941 y 1942: el Hombre de Acero se enfrenta a científicos locos, robots gigantes, dinosaurios y catástrofes en una serie que marcó el nacimiento del cine de superhéroes. Hoy de dominio público.",
+    "cast": "Bud Collyer, Joan Alexander",
+    "director": "",
+    "genre": "Animación, Acción, Superhéroes",
+    "releaseDate": "1941",
     "last_modified": "1609459200",
-    "rating": "7.0",
-    "rating_5based": 3.5,
-    "backdrop_path": [
-      "https://picsum.photos/seed/ser7/1280/720"
-    ],
-    "episode_run_time": "45",
-    "category_id": "13"
-  },
-  {
-    "num": 8,
-    "series_id": 8,
-    "name": "Raices de Piedra",
-    "cover": "https://picsum.photos/seed/ser8/600/900",
-    "plot": "Drama rural sobre una familia y su tierra.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2022",
-    "last_modified": "1609459200",
-    "rating": "8.1",
-    "rating_5based": 4.05,
-    "backdrop_path": [
-      "https://picsum.photos/seed/ser8/1280/720"
-    ],
-    "episode_run_time": "45",
-    "category_id": "11"
-  },
-  {
-    "num": 9,
-    "series_id": 9,
-    "name": "Frecuencia Prohibida",
-    "cover": "https://picsum.photos/seed/ser9/600/900",
-    "plot": "Una senal misteriosa cambia un pueblo entero.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2023",
-    "last_modified": "1609459200",
-    "rating": "9.2",
-    "rating_5based": 4.6,
-    "backdrop_path": [
-      "https://picsum.photos/seed/ser9/1280/720"
-    ],
-    "episode_run_time": "45",
-    "category_id": "14"
-  },
-  {
-    "num": 10,
-    "series_id": 10,
-    "name": "La Casa del Reloj",
-    "cover": "https://picsum.photos/seed/ser10/600/900",
-    "plot": "Misterios que solo ocurren a medianoche.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "last_modified": "1609459200",
-    "rating": "7.3",
-    "rating_5based": 3.65,
-    "backdrop_path": [
-      "https://picsum.photos/seed/ser10/1280/720"
-    ],
-    "episode_run_time": "45",
-    "category_id": "18"
-  },
-  {
-    "num": 11,
-    "series_id": 11,
-    "name": "Vertigo",
-    "cover": "https://picsum.photos/seed/ser11/600/900",
-    "plot": "Thriller psicologico en las alturas de la ciudad.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2021",
-    "last_modified": "1609459200",
-    "rating": "8.4",
-    "rating_5based": 4.2,
-    "backdrop_path": [
-      "https://picsum.photos/seed/ser11/1280/720"
-    ],
-    "episode_run_time": "45",
-    "category_id": "18"
-  },
-  {
-    "num": 12,
-    "series_id": 12,
-    "name": "Legado de Sombras",
-    "cover": "https://picsum.photos/seed/ser12/600/900",
-    "plot": "Fantasia oscura sobre un reino olvidado.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2022",
-    "last_modified": "1609459200",
-    "rating": "9.5",
-    "rating_5based": 4.75,
-    "backdrop_path": [
-      "https://picsum.photos/seed/ser12/1280/720"
-    ],
-    "episode_run_time": "45",
-    "category_id": "15"
+    "rating": "0.0",
+    "rating_5based": 0.0,
+    "episode_run_time": "25",
+    "category_id": "24",
+    "tmdb_id": "330342"
   }
 ]

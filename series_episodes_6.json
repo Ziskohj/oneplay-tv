@@ -1,182 +1,501 @@
 {
   "info": {
-    "name": "Frontera Salvaje",
-    "cover": "https://picsum.photos/seed/ser6/600/900",
-    "plot": "Aventuras en territorios inexplorados.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "rating": "8.5",
-    "rating_5based": 4.25,
-    "episode_run_time": "45",
-    "category_id": "20",
+    "name": "Superman",
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser6/1280/720"
-    ]
+      "https://image.tmdb.org/t/p/w1280/7s1JX1cmj5ME8dK54l0vVjGGXHp.jpg"
+    ],
+    "plot": "Los pioneros cortometrajes de animación que Max Fleischer produjo entre 1941 y 1942: el Hombre de Acero se enfrenta a científicos locos, robots gigantes, dinosaurios y catástrofes en una serie que marcó el nacimiento del cine de superhéroes. Hoy de dominio público.",
+    "cast": "Bud Collyer, Joan Alexander",
+    "director": "",
+    "genre": "Animación, Acción, Superhéroes",
+    "releaseDate": "1941",
+    "rating": "0.0",
+    "rating_5based": 0.0,
+    "episode_run_time": "25",
+    "category_id": "24",
+    "tmdb_id": "330342"
   },
   "episodes": {
     "1": [
       {
         "id": "6101",
         "episode_num": 1,
-        "title": "T1 - Episodio 1",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "Max Fleischer's Superman - Billion Dollar Limited",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Billion%20Dollar%20Limited.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 1 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep6_1_1/600/900"
+          "duration": "00:08:35",
+          "duration_secs": 515,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
         }
       },
       {
         "id": "6102",
         "episode_num": 2,
-        "title": "T1 - Episodio 2",
-        "container_extension": "m3u8",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+        "title": "Max Fleischer's Superman - Bulleteers ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Bulleteers.ia.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 2 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep6_1_2/600/900"
+          "duration": "00:08:04",
+          "duration_secs": 484,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
         }
       },
       {
         "id": "6103",
         "episode_num": 3,
-        "title": "T1 - Episodio 3",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "Max Fleischer's Superman - Bulleteers",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Bulleteers.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 3 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep6_1_3/600/900"
+          "duration": "00:08:04",
+          "duration_secs": 484,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
         }
       },
       {
         "id": "6104",
         "episode_num": 4,
-        "title": "T1 - Episodio 4",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "Max Fleischer's Superman - Circus ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Circus.ia.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 4 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep6_1_4/600/900"
+          "duration": "00:08:22",
+          "duration_secs": 502,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
         }
       },
       {
         "id": "6105",
         "episode_num": 5,
-        "title": "T1 - Episodio 5",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "title": "Max Fleischer's Superman - Destruction, Inc ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Destruction%2C%20Inc.ia.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 5 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.8,
-          "movie_image": "https://picsum.photos/seed/ep6_1_5/600/900"
+          "duration": "00:08:34",
+          "duration_secs": 514,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
         }
       },
       {
         "id": "6106",
         "episode_num": 6,
-        "title": "T1 - Episodio 6",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://www.w3schools.com/html/mov_bbb.mp4",
-        "info": {
-          "plot": "Episodio 6 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep6_1_6/600/900"
-        }
-      }
-    ],
-    "2": [
-      {
-        "id": "6201",
-        "episode_num": 1,
-        "title": "T2 - Episodio 1",
+        "title": "Max Fleischer's Superman - Destruction, Inc",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Destruction%2C%20Inc.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
         "info": {
-          "plot": "Episodio 1 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep6_2_1/600/900"
+          "duration": "00:08:34",
+          "duration_secs": 514,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
         }
       },
       {
-        "id": "6202",
-        "episode_num": 2,
-        "title": "T2 - Episodio 2",
+        "id": "6107",
+        "episode_num": 7,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Electric Earthquake",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Electric%20Earthquake.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_30MB.mp4",
         "info": {
-          "plot": "Episodio 2 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep6_2_2/600/900"
+          "duration": "00:08:43",
+          "duration_secs": 523,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
         }
       },
       {
-        "id": "6203",
-        "episode_num": 3,
-        "title": "T2 - Episodio 3",
+        "id": "6108",
+        "episode_num": 8,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Eleventh Hour ia",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Eleventh%20Hour.ia.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/720/Jellyfish_720_10s_30MB.mp4",
         "info": {
-          "plot": "Episodio 3 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep6_2_3/600/900"
+          "duration": "00:08:59",
+          "duration_secs": 539,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
         }
       },
       {
-        "id": "6204",
-        "episode_num": 4,
-        "title": "T2 - Episodio 4",
+        "id": "6109",
+        "episode_num": 9,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Eleventh Hour",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Eleventh%20Hour.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
         "info": {
-          "plot": "Episodio 4 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep6_2_4/600/900"
+          "duration": "00:08:59",
+          "duration_secs": 539,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6110",
+        "episode_num": 10,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Japoteurs ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Japoteurs.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:09:07",
+          "duration_secs": 547,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6111",
+        "episode_num": 11,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Japoteurs",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Japoteurs.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:09:07",
+          "duration_secs": 547,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6112",
+        "episode_num": 12,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Jungle Drums ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Jungle%20Drums.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:09:00",
+          "duration_secs": 540,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6113",
+        "episode_num": 13,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Jungle Drums",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Jungle%20Drums.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:09:00",
+          "duration_secs": 540,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6114",
+        "episode_num": 14,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Secret Agent ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Secret%20Agent.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:07:40",
+          "duration_secs": 460,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6115",
+        "episode_num": 15,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Secret Agent",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Secret%20Agent.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:07:40",
+          "duration_secs": 460,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6116",
+        "episode_num": 16,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Showdown ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Showdown.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:08:21",
+          "duration_secs": 501,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6117",
+        "episode_num": 17,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Showdown",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Showdown.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:08:21",
+          "duration_secs": 501,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6118",
+        "episode_num": 18,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Superman ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Superman.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:10:28",
+          "duration_secs": 628,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6119",
+        "episode_num": 19,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Superman",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Superman.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:10:28",
+          "duration_secs": 628,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6120",
+        "episode_num": 20,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Terror On The Midway ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Terror%20On%20The%20Midway.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:08:22",
+          "duration_secs": 502,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6121",
+        "episode_num": 21,
+        "season": 1,
+        "title": "Max Fleischer's Superman - Terror On The Midway",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20Terror%20On%20The%20Midway.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:08:22",
+          "duration_secs": 502,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6122",
+        "episode_num": 22,
+        "season": 1,
+        "title": "Max Fleischer's Superman - The Arctic Giant",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20The%20Arctic%20Giant.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:08:36",
+          "duration_secs": 516,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6123",
+        "episode_num": 23,
+        "season": 1,
+        "title": "Max Fleischer's Superman - The Magnetic Telescope ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20The%20Magnetic%20Telescope.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:07:40",
+          "duration_secs": 460,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6124",
+        "episode_num": 24,
+        "season": 1,
+        "title": "Max Fleischer's Superman - The Magnetic Telescope",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20The%20Magnetic%20Telescope.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:07:40",
+          "duration_secs": 460,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6125",
+        "episode_num": 25,
+        "season": 1,
+        "title": "Max Fleischer's Superman - The Mechanical Monsters ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20The%20Mechanical%20Monsters.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:10:12",
+          "duration_secs": 612,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6126",
+        "episode_num": 26,
+        "season": 1,
+        "title": "Max Fleischer's Superman - The Mechanical Monsters",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20The%20Mechanical%20Monsters.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:10:12",
+          "duration_secs": 612,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6127",
+        "episode_num": 27,
+        "season": 1,
+        "title": "Max Fleischer's Superman - The Mummy Strikes ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20The%20Mummy%20Strikes.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:07:48",
+          "duration_secs": 468,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6128",
+        "episode_num": 28,
+        "season": 1,
+        "title": "Max Fleischer's Superman - The Mummy Strikes",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20The%20Mummy%20Strikes.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:07:48",
+          "duration_secs": 468,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6129",
+        "episode_num": 29,
+        "season": 1,
+        "title": "Max Fleischer's Superman - The Underground World ia",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20The%20Underground%20World.ia.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:08:13",
+          "duration_secs": 493,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
+        }
+      },
+      {
+        "id": "6130",
+        "episode_num": 30,
+        "season": 1,
+        "title": "Max Fleischer's Superman - The Underground World",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/max-fleischers-superman_202601/Max%20Fleischer%27s%20Superman%20-%20The%20Underground%20World.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:08:13",
+          "duration_secs": 493,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kASqLBmtd2jGS09bVc9vC7UQGZJ.jpg",
+          "plot": "",
+          "rating": 0.0
         }
       }
     ]

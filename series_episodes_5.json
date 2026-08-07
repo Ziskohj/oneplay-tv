@@ -1,182 +1,101 @@
 {
   "info": {
-    "name": "Corazones Rotos",
-    "cover": "https://picsum.photos/seed/ser5/600/900",
-    "plot": "Drama romantico de dos almas.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "rating": "8.5",
-    "rating_5based": 4.25,
-    "episode_run_time": "45",
-    "category_id": "23",
+    "name": "Popeye",
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser5/1280/720"
-    ]
+      "https://image.tmdb.org/t/p/w1280/2YeQEGqzE0FDto39IiWRlDg9lN6.jpg"
+    ],
+    "plot": "Popeye es un marinero independiente, con una pipa de caña de maíz siempre en la boca, una peculiar forma de hablar, y, sobre todo, unos desarrolladísimos músculos en los antebrazos. Su alimento preferido son las espinacas que aumentan su fuerza hasta límites insospechados. Tiene el cabello rojo y una prominente mandíbula. Su único ojo, el izquierdo es de color azul. Su extraño sentido del humor se pone de manifiesto en una serie de aventuras a lo largo del mundo, en las que se enfrenta a diversos enemigos, especialmente a Bluto, que está enamorado de Olivia, la novia de Popeye.",
+    "cast": "Jack Mercer, Mae Questel, Jackson Beck",
+    "director": "",
+    "genre": "Animación, Infantil",
+    "releaseDate": "1960",
+    "rating": "7.1",
+    "rating_5based": 3.56,
+    "episode_run_time": "5",
+    "category_id": "19",
+    "tmdb_id": "8392"
   },
   "episodes": {
     "1": [
       {
         "id": "5101",
         "episode_num": 1,
-        "title": "T1 - Episodio 1",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "ADateToSkate 512kb",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/MorePopeyeCartoons/ADateToSkate_512kb.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 1 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep5_1_1/600/900"
+          "duration": "00:07:14",
+          "duration_secs": 434,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+          "plot": "",
+          "rating": 7.1
         }
       },
       {
         "id": "5102",
         "episode_num": 2,
-        "title": "T1 - Episodio 2",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_30MB.mp4",
+        "title": "INeverChangesMyAltitude 512kb",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/MorePopeyeCartoons/INeverChangesMyAltitude_512kb.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 2 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep5_1_2/600/900"
+          "duration": "00:06:05",
+          "duration_secs": 365,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+          "plot": "",
+          "rating": 7.1
         }
       },
       {
         "id": "5103",
         "episode_num": 3,
-        "title": "T1 - Episodio 3",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4",
+        "title": "Popeyes20thAnniversary 512kb",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/MorePopeyeCartoons/Popeyes20thAnniversary_512kb.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 3 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep5_1_3/600/900"
+          "duration": "00:07:30",
+          "duration_secs": 450,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+          "plot": "",
+          "rating": 7.1
         }
       },
       {
         "id": "5104",
         "episode_num": 4,
-        "title": "T1 - Episodio 4",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "SpookySwabs 512kb",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/MorePopeyeCartoons/SpookySwabs_512kb.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 4 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep5_1_4/600/900"
+          "duration": "00:06:04",
+          "duration_secs": 364,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+          "plot": "",
+          "rating": 7.1
         }
       },
       {
         "id": "5105",
         "episode_num": 5,
-        "title": "T1 - Episodio 5",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/1080/Jellyfish_1080_10s_30MB.mp4",
-        "info": {
-          "plot": "Episodio 5 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.8,
-          "movie_image": "https://picsum.photos/seed/ep5_1_5/600/900"
-        }
-      },
-      {
-        "id": "5106",
-        "episode_num": 6,
-        "title": "T1 - Episodio 6",
+        "title": "TheCrystalBrawl 512kb",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/MorePopeyeCartoons/TheCrystalBrawl_512kb.mp4",
         "added": "1609459200",
-        "season": 1,
-        "direct_source": "https://test-videos.co.uk/vids/sintel/mp4/h264/1080/Sintel_1080_10s_30MB.mp4",
         "info": {
-          "plot": "Episodio 6 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep5_1_6/600/900"
-        }
-      }
-    ],
-    "2": [
-      {
-        "id": "5201",
-        "episode_num": 1,
-        "title": "T2 - Episodio 1",
-        "container_extension": "mp4",
-        "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
-        "info": {
-          "plot": "Episodio 1 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep5_2_1/600/900"
-        }
-      },
-      {
-        "id": "5202",
-        "episode_num": 2,
-        "title": "T2 - Episodio 2",
-        "container_extension": "mp4",
-        "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_5MB.mp4",
-        "info": {
-          "plot": "Episodio 2 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep5_2_2/600/900"
-        }
-      },
-      {
-        "id": "5203",
-        "episode_num": 3,
-        "title": "T2 - Episodio 3",
-        "container_extension": "m3u8",
-        "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "info": {
-          "plot": "Episodio 3 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep5_2_3/600/900"
-        }
-      },
-      {
-        "id": "5204",
-        "episode_num": 4,
-        "title": "T2 - Episodio 4",
-        "container_extension": "mp4",
-        "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
-        "info": {
-          "plot": "Episodio 4 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep5_2_4/600/900"
+          "duration": "00:07:29",
+          "duration_secs": 449,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQPDl1S1pRg2jzCQWtVUuauZSqa.jpg",
+          "plot": "",
+          "rating": 7.1
         }
       }
     ]

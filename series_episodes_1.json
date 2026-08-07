@@ -1,182 +1,645 @@
 {
   "info": {
-    "name": "Cronicas Estelares",
-    "cover": "https://picsum.photos/seed/ser1/600/900",
-    "plot": "Ciencia ficcion epica entre galaxias.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "rating": "8.5",
-    "rating_5based": 4.25,
-    "episode_run_time": "45",
-    "category_id": "14",
+    "name": "Sherlock Holmes",
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser1/1280/720"
-    ]
+      "https://image.tmdb.org/t/p/w1280/AhlihKYnLZmNZiIItB4RBZoJHP8.jpg"
+    ],
+    "plot": "The first American television series of Sherlock Holmes adventures aired in syndication in the fall of 1954. The 39 half-hour mostly original stories were produced by Sheldon Reynolds and filmed in France by Guild Films, starring Ronald Howard as Holmes and Howard Marion Crawford as Watson. Archie Duncan appeared in many episodes as Inspector Lestrade. Richard Larke, billed as Kenneth Richards, played Sgt. Wilkins in about fifteen episodes. The series' associate producer, Nicole Milinaire, was one of the first women to attain a senior production role in a television series.",
+    "cast": "Howard Marion-Crawford, Ronald Howard, Archie Duncan, Richard Larke",
+    "director": "",
+    "genre": "Misterio, Drama",
+    "releaseDate": "1954",
+    "rating": "7.2",
+    "rating_5based": 3.6,
+    "episode_run_time": "25",
+    "category_id": "17",
+    "tmdb_id": "6560"
   },
   "episodes": {
     "1": [
       {
         "id": "1101",
         "episode_num": 1,
-        "title": "T1 - Episodio 1",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "Sherlock Holmes 01 The Case of the Cunningham Heritage",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2001%20The%20Case%20of%20the%20Cunningham%20Heritage.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 1 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep1_1_1/600/900"
+          "duration": "00:27:09",
+          "duration_secs": 1629,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
         }
       },
       {
         "id": "1102",
         "episode_num": 2,
-        "title": "T1 - Episodio 2",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://test-videos.co.uk/vids/sintel/mp4/h264/720/Sintel_720_10s_30MB.mp4",
+        "title": "Sherlock Holmes 02 The Case Of Lady Beryl",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2002%20The%20Case%20Of%20Lady%20Beryl.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 2 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep1_1_2/600/900"
+          "duration": "00:26:53",
+          "duration_secs": 1613,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
         }
       },
       {
         "id": "1103",
         "episode_num": 3,
-        "title": "T1 - Episodio 3",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_30MB.mp4",
+        "title": "Sherlock Holmes 03 The Case of the Pennsylvania Gun",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2003%20The%20Case%20of%20the%20Pennsylvania%20Gun.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 3 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep1_1_3/600/900"
+          "duration": "00:26:34",
+          "duration_secs": 1594,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
         }
       },
       {
         "id": "1104",
         "episode_num": 4,
-        "title": "T1 - Episodio 4",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "Sherlock Holmes 04 The Case Of The Texas Cowgirl",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2004%20The%20Case%20Of%20The%20Texas%20Cowgirl.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 4 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep1_1_4/600/900"
+          "duration": "00:27:02",
+          "duration_secs": 1622,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
         }
       },
       {
         "id": "1105",
         "episode_num": 5,
-        "title": "T1 - Episodio 5",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/1080/Jellyfish_1080_10s_30MB.mp4",
+        "title": "Sherlock Holmes 05 The Case Of The Belligerent Ghost",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2005%20The%20Case%20Of%20The%20Belligerent%20Ghost.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 5 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.8,
-          "movie_image": "https://picsum.photos/seed/ep1_1_5/600/900"
+          "duration": "00:26:44",
+          "duration_secs": 1604,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
         }
       },
       {
         "id": "1106",
         "episode_num": 6,
-        "title": "T1 - Episodio 6",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://test-videos.co.uk/vids/sintel/mp4/h264/1080/Sintel_1080_10s_30MB.mp4",
-        "info": {
-          "plot": "Episodio 6 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep1_1_6/600/900"
-        }
-      }
-    ],
-    "2": [
-      {
-        "id": "1201",
-        "episode_num": 1,
-        "title": "T2 - Episodio 1",
+        "title": "Sherlock Holmes 06 The Case Of The Shy Ballerina",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2006%20The%20Case%20Of%20The%20Shy%20Ballerina.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
         "info": {
-          "plot": "Episodio 1 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep1_2_1/600/900"
+          "duration": "00:26:02",
+          "duration_secs": 1562,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
         }
       },
       {
-        "id": "1202",
-        "episode_num": 2,
-        "title": "T2 - Episodio 2",
+        "id": "1107",
+        "episode_num": 7,
+        "season": 1,
+        "title": "Sherlock Holmes 07 The Case Of The Winthrop Legend",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2007%20The%20Case%20Of%20The%20Winthrop%20Legend.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_5MB.mp4",
         "info": {
-          "plot": "Episodio 2 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep1_2_2/600/900"
+          "duration": "00:26:54",
+          "duration_secs": 1614,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
         }
       },
       {
-        "id": "1203",
-        "episode_num": 3,
-        "title": "T2 - Episodio 3",
-        "container_extension": "m3u8",
+        "id": "1108",
+        "episode_num": 8,
+        "season": 1,
+        "title": "Sherlock Holmes 08 The Case Of The Blind Man's Bluff",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2008%20The%20Case%20Of%20The%20Blind%20Man%27s%20Bluff.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "info": {
-          "plot": "Episodio 3 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep1_2_3/600/900"
+          "duration": "00:26:37",
+          "duration_secs": 1597,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
         }
       },
       {
-        "id": "1204",
-        "episode_num": 4,
-        "title": "T2 - Episodio 4",
+        "id": "1109",
+        "episode_num": 9,
+        "season": 1,
+        "title": "Sherlock Holmes 09 The Case Of Harry Crocker",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2009%20The%20Case%20Of%20Harry%20Crocker.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
         "info": {
-          "plot": "Episodio 4 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep1_2_4/600/900"
+          "duration": "00:26:06",
+          "duration_secs": 1566,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1110",
+        "episode_num": 10,
+        "season": 1,
+        "title": "Sherlock Holmes 10 Mother Hubbard",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2010%20Mother%20Hubbard.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:30",
+          "duration_secs": 1590,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1111",
+        "episode_num": 11,
+        "season": 1,
+        "title": "Sherlock Holmes 11 Red Headed League",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2011%20Red%20Headed%20League.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:52",
+          "duration_secs": 1612,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1112",
+        "episode_num": 12,
+        "season": 1,
+        "title": "Sherlock Holmes 12 Shoeless Engineer",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2012%20Shoeless%20Engineer.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:32",
+          "duration_secs": 1592,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1113",
+        "episode_num": 13,
+        "season": 1,
+        "title": "Sherlock Holmes 13 Split Ticket",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2013%20Split%20Ticket.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:39",
+          "duration_secs": 1599,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1114",
+        "episode_num": 14,
+        "season": 1,
+        "title": "Sherlock Holmes 14 French Interpreter",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2014%20French%20Interpreter.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:49",
+          "duration_secs": 1609,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1115",
+        "episode_num": 15,
+        "season": 1,
+        "title": "Sherlock Holmes 15 Singing Violin",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2015%20Singing%20Violin.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:34",
+          "duration_secs": 1594,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1116",
+        "episode_num": 16,
+        "season": 1,
+        "title": "Sherlock Holmes 16 The Case Of The Greystone Insription",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2016%20The%20Case%20Of%20The%20Greystone%20Insription.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:45",
+          "duration_secs": 1605,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1117",
+        "episode_num": 17,
+        "season": 1,
+        "title": "Sherlock Holmes 17 The Case Of The Laughing Mummy",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2017%20The%20Case%20Of%20The%20Laughing%20Mummy.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:45",
+          "duration_secs": 1605,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1118",
+        "episode_num": 18,
+        "season": 1,
+        "title": "Sherlock Holmes 18 The Case Of The Thistle Killer",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2018%20The%20Case%20Of%20The%20Thistle%20Killer.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:29",
+          "duration_secs": 1589,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1119",
+        "episode_num": 19,
+        "season": 1,
+        "title": "Sherlock Holmes 19 The Case Of The Vanished Detective",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2019%20The%20Case%20Of%20The%20Vanished%20Detective.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:36",
+          "duration_secs": 1596,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1120",
+        "episode_num": 20,
+        "season": 1,
+        "title": "Sherlock Holmes 20 The Case Of The Careless Suffragette",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2020%20The%20Case%20Of%20The%20Careless%20Suffragette.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:42",
+          "duration_secs": 1602,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1121",
+        "episode_num": 21,
+        "season": 1,
+        "title": "Sherlock Holmes 21 The Case Of The Reluctant Carpenter",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2021%20The%20Case%20Of%20The%20Reluctant%20Carpenter.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:46",
+          "duration_secs": 1606,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1122",
+        "episode_num": 22,
+        "season": 1,
+        "title": "Sherlock Holmes 22 The Case Of The Deadly Prophecy",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2022%20The%20Case%20Of%20The%20Deadly%20Prophecy.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:36",
+          "duration_secs": 1596,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1123",
+        "episode_num": 23,
+        "season": 1,
+        "title": "Sherlock Holmes 23 The Case Of The Deadly Pudding",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2023%20The%20Case%20Of%20The%20Deadly%20Pudding.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:37",
+          "duration_secs": 1597,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1124",
+        "episode_num": 24,
+        "season": 1,
+        "title": "Sherlock Holmes 24 The Case Of The Night Train Riddle",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2024%20The%20Case%20Of%20The%20Night%20Train%20Riddle.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:47",
+          "duration_secs": 1607,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1125",
+        "episode_num": 25,
+        "season": 1,
+        "title": "Sherlock Holmes 25 The Case Of The Violent Suitor",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2025%20The%20Case%20Of%20The%20Violent%20Suitor.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:58",
+          "duration_secs": 1618,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1126",
+        "episode_num": 26,
+        "season": 1,
+        "title": "Sherlock Holmes 26 The Case Of The Baker Street Nursemaids",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2026%20The%20Case%20Of%20The%20Baker%20Street%20Nursemaids.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:27",
+          "duration_secs": 1587,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1127",
+        "episode_num": 27,
+        "season": 1,
+        "title": "Sherlock Holmes 27 The Case Of The Perfect Husband",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2027%20The%20Case%20Of%20The%20Perfect%20Husband.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:34",
+          "duration_secs": 1594,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1128",
+        "episode_num": 28,
+        "season": 1,
+        "title": "Sherlock Holmes 28 The Case Of The Jolly Hangman",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2028%20The%20Case%20Of%20The%20Jolly%20Hangman.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:52",
+          "duration_secs": 1612,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1129",
+        "episode_num": 29,
+        "season": 1,
+        "title": "Sherlock Holmes 29 The Case Of The Impostor Mystery",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2029%20The%20Case%20Of%20The%20Impostor%20Mystery.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:37",
+          "duration_secs": 1597,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1130",
+        "episode_num": 30,
+        "season": 1,
+        "title": "Sherlock Holmes 30 The Case Of The Eiffel Tower",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2030%20The%20Case%20Of%20The%20Eiffel%20Tower.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:30",
+          "duration_secs": 1590,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1131",
+        "episode_num": 31,
+        "season": 1,
+        "title": "Sherlock Holmes 31 The Case Of The Exhumed Client",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2031%20The%20Case%20Of%20The%20Exhumed%20Client.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:47",
+          "duration_secs": 1607,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1132",
+        "episode_num": 32,
+        "season": 1,
+        "title": "Sherlock Holmes 32 The Case Of The Impromptu Performance",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2032%20The%20Case%20Of%20The%20Impromptu%20Performance.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:44",
+          "duration_secs": 1604,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1133",
+        "episode_num": 33,
+        "season": 1,
+        "title": "Sherlock Holmes 33 The Case of the Baker Street Bachelors",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2033%20The%20Case%20of%20the%20Baker%20Street%20Bachelors.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:46",
+          "duration_secs": 1606,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1134",
+        "episode_num": 34,
+        "season": 1,
+        "title": "Sherlock Holmes 34 The Case of the Royal Murder",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2034%20The%20Case%20of%20the%20Royal%20Murder.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:48",
+          "duration_secs": 1608,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1135",
+        "episode_num": 35,
+        "season": 1,
+        "title": "Sherlock Holmes 35 The Case of the Haunted Gainsborough",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2035%20The%20Case%20of%20the%20Haunted%20Gainsborough.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:40",
+          "duration_secs": 1600,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1136",
+        "episode_num": 36,
+        "season": 1,
+        "title": "Sherlock Holmes 36 The Case of the Neurotic Detective",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2036%20The%20Case%20of%20the%20Neurotic%20Detective.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:48",
+          "duration_secs": 1608,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1137",
+        "episode_num": 37,
+        "season": 1,
+        "title": "Sherlock Holmes 37 The Case of the Unlucky Gambler",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2037%20The%20Case%20of%20the%20Unlucky%20Gambler.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:40",
+          "duration_secs": 1600,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1138",
+        "episode_num": 38,
+        "season": 1,
+        "title": "Sherlock Holmes 38 The Case of the Diamond Tooth",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2038%20The%20Case%20of%20the%20Diamond%20Tooth.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:30",
+          "duration_secs": 1530,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
+        }
+      },
+      {
+        "id": "1139",
+        "episode_num": 39,
+        "season": 1,
+        "title": "Sherlock Holmes 39 The Case of the Tyrant's Daughter",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/SherlockHolmes1954/Sherlock%20Holmes%2039%20The%20Case%20of%20the%20Tyrant%27s%20Daughter.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:59",
+          "duration_secs": 1619,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eroaHmsBZXTsL64oo72Yi3eJaiz.jpg",
+          "plot": "",
+          "rating": 7.2
         }
       }
     ]

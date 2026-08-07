@@ -1,182 +1,517 @@
 {
   "info": {
-    "name": "Bajo Sospecha",
-    "cover": "https://picsum.photos/seed/ser2/600/900",
-    "plot": "Un detective resuelve crimenes imposibles.",
-    "cast": "Reparto Demo",
-    "director": "Director Demo",
-    "genre": "Demo",
-    "releaseDate": "2024",
-    "rating": "8.5",
-    "rating_5based": 4.25,
-    "episode_run_time": "45",
-    "category_id": "17",
+    "name": "The Cisco Kid",
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
     "backdrop_path": [
-      "https://picsum.photos/seed/ser2/1280/720"
-    ]
+      "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg"
+    ],
+    "plot": "The Cisco Kid is a half-hour American Western television series starring Duncan Renaldo in the title role, The Cisco Kid, and Leo Carrillo as the jovial sidekick, Pancho. Cisco and Pancho were technically desperados, wanted for unspecified crimes, but instead viewed by the poor as Robin Hood figures who assisted the downtrodden when law enforcement officers proved corrupt or unwilling to help. It was also the first television series to be filmed in color, although few viewers saw it in color until the 1960s.",
+    "cast": "Leo Carrillo, Duncan Renaldo",
+    "director": "",
+    "genre": "Western",
+    "releaseDate": "1950",
+    "rating": "6.2",
+    "rating_5based": 3.1,
+    "episode_run_time": "30",
+    "category_id": "20",
+    "tmdb_id": "18010"
   },
   "episodes": {
     "1": [
       {
         "id": "2101",
         "episode_num": 1,
-        "title": "T1 - Episodio 1",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "The Cisco Kid s01e01",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e01.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 1 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep2_1_1/600/900"
+          "duration": "00:24:23",
+          "duration_secs": 1463,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
         }
       },
       {
         "id": "2102",
         "episode_num": 2,
-        "title": "T1 - Episodio 2",
-        "container_extension": "m3u8",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
+        "title": "The Cisco Kid s01e03",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e03.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 2 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep2_1_2/600/900"
+          "duration": "00:25:02",
+          "duration_secs": 1502,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
         }
       },
       {
         "id": "2103",
         "episode_num": 3,
-        "title": "T1 - Episodio 3",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "The Cisco Kid s01e04",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e04.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 3 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep2_1_3/600/900"
+          "duration": "00:24:50",
+          "duration_secs": 1490,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
         }
       },
       {
         "id": "2104",
         "episode_num": 4,
-        "title": "T1 - Episodio 4",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
+        "title": "The Cisco Kid s01e05",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e05.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 4 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep2_1_4/600/900"
+          "duration": "00:26:39",
+          "duration_secs": 1599,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
         }
       },
       {
         "id": "2105",
         "episode_num": 5,
-        "title": "T1 - Episodio 5",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://media.w3.org/2010/05/sintel/trailer.mp4",
+        "title": "The Cisco Kid s01e06",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e06.mp4",
+        "added": "1609459200",
         "info": {
-          "plot": "Episodio 5 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.8,
-          "movie_image": "https://picsum.photos/seed/ep2_1_5/600/900"
+          "duration": "00:24:47",
+          "duration_secs": 1487,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
         }
       },
       {
         "id": "2106",
         "episode_num": 6,
-        "title": "T1 - Episodio 6",
-        "container_extension": "mp4",
-        "added": "1609459200",
         "season": 1,
-        "direct_source": "https://www.w3schools.com/html/mov_bbb.mp4",
-        "info": {
-          "plot": "Episodio 6 de la temporada 1.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep2_1_6/600/900"
-        }
-      }
-    ],
-    "2": [
-      {
-        "id": "2201",
-        "episode_num": 1,
-        "title": "T2 - Episodio 1",
+        "title": "The Cisco Kid s01e07",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e07.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
         "info": {
-          "plot": "Episodio 1 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 7.9,
-          "movie_image": "https://picsum.photos/seed/ep2_2_1/600/900"
+          "duration": "00:24:01",
+          "duration_secs": 1441,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
         }
       },
       {
-        "id": "2202",
-        "episode_num": 2,
-        "title": "T2 - Episodio 2",
+        "id": "2107",
+        "episode_num": 7,
+        "season": 1,
+        "title": "The Cisco Kid s01e08",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e08.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_30MB.mp4",
         "info": {
-          "plot": "Episodio 2 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.0,
-          "movie_image": "https://picsum.photos/seed/ep2_2_2/600/900"
+          "duration": "00:24:32",
+          "duration_secs": 1472,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
         }
       },
       {
-        "id": "2203",
-        "episode_num": 3,
-        "title": "T2 - Episodio 3",
+        "id": "2108",
+        "episode_num": 8,
+        "season": 1,
+        "title": "The Cisco Kid s01e09",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e09.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/720/Jellyfish_720_10s_30MB.mp4",
         "info": {
-          "plot": "Episodio 3 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.1,
-          "movie_image": "https://picsum.photos/seed/ep2_2_3/600/900"
+          "duration": "00:24:42",
+          "duration_secs": 1482,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
         }
       },
       {
-        "id": "2204",
-        "episode_num": 4,
-        "title": "T2 - Episodio 4",
+        "id": "2109",
+        "episode_num": 9,
+        "season": 1,
+        "title": "The Cisco Kid s01e10",
         "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e10.mp4",
         "added": "1609459200",
-        "season": 2,
-        "direct_source": "https://media.w3.org/2010/05/bunny/movie.mp4",
         "info": {
-          "plot": "Episodio 4 de la temporada 2.",
-          "duration_secs": 596,
-          "duration": "00:09:56",
-          "rating": 8.2,
-          "movie_image": "https://picsum.photos/seed/ep2_2_4/600/900"
+          "duration": "00:26:23",
+          "duration_secs": 1583,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2110",
+        "episode_num": 10,
+        "season": 1,
+        "title": "The Cisco Kid s01e12",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e12.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:12",
+          "duration_secs": 1512,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2111",
+        "episode_num": 11,
+        "season": 1,
+        "title": "The Cisco Kid s01e15",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e15.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:59",
+          "duration_secs": 1499,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2112",
+        "episode_num": 12,
+        "season": 1,
+        "title": "The Cisco Kid s01e16",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e16.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:00",
+          "duration_secs": 1500,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2113",
+        "episode_num": 13,
+        "season": 1,
+        "title": "The Cisco Kid s01e17",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e17.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:41",
+          "duration_secs": 1481,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2114",
+        "episode_num": 14,
+        "season": 1,
+        "title": "The Cisco Kid s01e18",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e18.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:53",
+          "duration_secs": 1493,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2115",
+        "episode_num": 15,
+        "season": 1,
+        "title": "The Cisco Kid s01e19",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e19.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:28",
+          "duration_secs": 1468,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2116",
+        "episode_num": 16,
+        "season": 1,
+        "title": "The Cisco Kid s01e20",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e20.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:50",
+          "duration_secs": 1490,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2117",
+        "episode_num": 17,
+        "season": 1,
+        "title": "The Cisco Kid s01e21",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e21.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:41",
+          "duration_secs": 1481,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2118",
+        "episode_num": 18,
+        "season": 1,
+        "title": "The Cisco Kid s01e22",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e22.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:58",
+          "duration_secs": 1498,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2119",
+        "episode_num": 19,
+        "season": 1,
+        "title": "The Cisco Kid s01e23",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e23.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:39",
+          "duration_secs": 1479,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2120",
+        "episode_num": 20,
+        "season": 1,
+        "title": "The Cisco Kid s01e24",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e24.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:51",
+          "duration_secs": 1491,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2121",
+        "episode_num": 21,
+        "season": 1,
+        "title": "The Cisco Kid s01e26",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s01e26.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:52",
+          "duration_secs": 1492,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2122",
+        "episode_num": 22,
+        "season": 1,
+        "title": "The Cisco Kid s02e01",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e01.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:59",
+          "duration_secs": 1499,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2123",
+        "episode_num": 23,
+        "season": 1,
+        "title": "The Cisco Kid s02e02",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e02.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:21",
+          "duration_secs": 1461,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2124",
+        "episode_num": 24,
+        "season": 1,
+        "title": "The Cisco Kid s02e07",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e07.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:18",
+          "duration_secs": 1578,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2125",
+        "episode_num": 25,
+        "season": 1,
+        "title": "The Cisco Kid s02e11",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e11.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:25",
+          "duration_secs": 1585,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2126",
+        "episode_num": 26,
+        "season": 1,
+        "title": "The Cisco Kid s02e14",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e14.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:27",
+          "duration_secs": 1587,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2127",
+        "episode_num": 27,
+        "season": 1,
+        "title": "The Cisco Kid s02e15",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e15.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:14",
+          "duration_secs": 1574,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2128",
+        "episode_num": 28,
+        "season": 1,
+        "title": "The Cisco Kid s02e21",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e21.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:58",
+          "duration_secs": 1498,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2129",
+        "episode_num": 29,
+        "season": 1,
+        "title": "The Cisco Kid s02e22",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e22.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:00",
+          "duration_secs": 1500,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2130",
+        "episode_num": 30,
+        "season": 1,
+        "title": "The Cisco Kid s02e23",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e23.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:23",
+          "duration_secs": 1463,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "2131",
+        "episode_num": 31,
+        "season": 1,
+        "title": "The Cisco Kid s02e24",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/TheCiscoKidpublicdomain/The_Cisco_Kid_s02e24.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:22",
+          "duration_secs": 1582,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq9eZP6w0MMFSlJ62qV3elF892K.jpg",
+          "plot": "",
+          "rating": 6.2
         }
       }
     ]
