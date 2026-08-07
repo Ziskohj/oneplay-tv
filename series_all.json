@@ -118,5 +118,105 @@
     "episode_run_time": "25",
     "category_id": "24",
     "tmdb_id": "330342"
+  },
+  {
+    "num": 7,
+    "name": "My Little Margie",
+    "series_id": 7,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/nOSkFUNc4pbv0X7kwyimzT5agEY.jpg"
+    ],
+    "plot": "My Little Margie is an American situation comedy starring Gale Storm and Charles Farrell that alternated between CBS and NBC from 1952 to 1955.",
+    "cast": "Gale Storm, Charles Farrell, Gertrude Hoffmann, Clarence Kolb",
+    "director": "",
+    "genre": "Comedia",
+    "releaseDate": "1952",
+    "last_modified": "1609459200",
+    "rating": "5.0",
+    "rating_5based": 2.5,
+    "episode_run_time": "30",
+    "category_id": "18",
+    "tmdb_id": "11766"
+  },
+  {
+    "num": 8,
+    "name": "Annie Oakley",
+    "series_id": 8,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/ovUZ1545CqMw5LnQZoars7RxDzM.jpg"
+    ],
+    "plot": "Annie Oakley was an American Western television series that fictionalized the life of famous sharpshooter Annie Oakley. It ran from January 1954 to February 1957 in syndication, for a total of 81 black and white episodes, each 25 minutes long. ABC showed reruns on Saturday and Sunday daytime from 1959 to 1960 and from 1964 to 1965.",
+    "cast": "Gail Davis, Brad Johnson, Jimmy Hawkins",
+    "director": "",
+    "genre": "Western, Drama",
+    "releaseDate": "1954",
+    "last_modified": "1609459200",
+    "rating": "5.5",
+    "rating_5based": 2.77,
+    "episode_run_time": "25",
+    "category_id": "22",
+    "tmdb_id": "13577"
+  },
+  {
+    "num": 9,
+    "name": "The Adventures of Ozzie and Harriet",
+    "series_id": 9,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/z9ipjaUaoRWMl6vvQnLhpuFfkBu.jpg"
+    ],
+    "plot": "The Adventures of Ozzie and Harriet is an American sitcom, airing on ABC from October 3, 1952 through March 26, 1966, starring the real life Nelson family. After a long run on radio, the show was brought to television where it continued its success, running on both radio and television for a few years. The series stars Ozzie Nelson and his wife, singer Harriet Nelson, and their young sons, David and Eric \"Ricky\" Nelson. Don DeFore had a recurring role as the Nelsons' friendly neighbor \"Thorny\".",
+    "cast": "Ozzie Nelson, Harriet Nelson, David Nelson, Ricky Nelson",
+    "director": "",
+    "genre": "Comedia, Familia",
+    "releaseDate": "1952",
+    "last_modified": "1609459200",
+    "rating": "6.2",
+    "rating_5based": 3.08,
+    "episode_run_time": "30",
+    "category_id": "23",
+    "tmdb_id": "952"
+  },
+  {
+    "num": 10,
+    "name": "Colonel March of Scotland Yard",
+    "series_id": 10,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/mEgixgbkY87KFM6pNjfmuJKaXqE.jpg"
+    ],
+    "plot": "Colonel March of The Department of Queer Complaints investigates unusual cases, locked-room murders, and mysteries concerning the supernatural.",
+    "cast": "Boris Karloff, Ewan Roberts, Eric Pohlmann",
+    "director": "",
+    "genre": "Drama",
+    "releaseDate": "1956",
+    "last_modified": "1609459200",
+    "rating": "7.5",
+    "rating_5based": 3.75,
+    "episode_run_time": "30",
+    "category_id": "17",
+    "tmdb_id": "21150"
+  },
+  {
+    "num": 11,
+    "name": "Science Fiction Theatre",
+    "series_id": 11,
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg"
+    ],
+    "plot": "We esta serie de antología de ciencia ficción, el presentador Truman Bradley presenta historias extrapoladas de datos científicos reales disponibles en la década de 1950, concentrándose en conceptos tales como vuelo espacial, ovnis y telepatía mental.",
+    "cast": "Truman Bradley",
+    "director": "",
+    "genre": "Drama, Sci-Fi & Fantasy",
+    "releaseDate": "1955",
+    "last_modified": "1609459200",
+    "rating": "6.3",
+    "rating_5based": 3.15,
+    "episode_run_time": "30",
+    "category_id": "25",
+    "tmdb_id": "1602"
   }
 ]

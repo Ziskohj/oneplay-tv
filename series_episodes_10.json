@@ -1,0 +1,439 @@
+{
+  "info": {
+    "name": "Colonel March of Scotland Yard",
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/mEgixgbkY87KFM6pNjfmuJKaXqE.jpg"
+    ],
+    "plot": "Colonel March of The Department of Queer Complaints investigates unusual cases, locked-room murders, and mysteries concerning the supernatural.",
+    "cast": "Boris Karloff, Ewan Roberts, Eric Pohlmann",
+    "director": "",
+    "genre": "Drama",
+    "releaseDate": "1956",
+    "rating": "7.5",
+    "rating_5based": 3.75,
+    "episode_run_time": "30",
+    "category_id": "17",
+    "tmdb_id": "21150"
+  },
+  "episodes": {
+    "1": [
+      {
+        "id": "10101",
+        "episode_num": 1,
+        "season": 1,
+        "title": "The Sorcerer",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E01_-_The_Sorcerer.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:16",
+          "duration_secs": 1576,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10102",
+        "episode_num": 2,
+        "season": 1,
+        "title": "Present Tense",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E02_-_Present_Tense.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:16",
+          "duration_secs": 1576,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10103",
+        "episode_num": 3,
+        "season": 1,
+        "title": "At Night All Cats Are Grey",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E03_-_At_Night_All_Cats_Are_Grey.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:34",
+          "duration_secs": 1594,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10104",
+        "episode_num": 4,
+        "season": 1,
+        "title": "The Abominable Snowman",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E04_-_The_Abominable_Snowman.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:13",
+          "duration_secs": 1573,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10105",
+        "episode_num": 5,
+        "season": 1,
+        "title": "The Headless Hat",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E05_-_The_Headless_Hat.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:32",
+          "duration_secs": 1592,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10106",
+        "episode_num": 6,
+        "season": 1,
+        "title": "The Second Mona Lisa",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E06_-_The_Second_Mona_Lisa.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:36",
+          "duration_secs": 1596,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10107",
+        "episode_num": 7,
+        "season": 1,
+        "title": "Death in Inner Space",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E07_-_Death_in_Inner_Space.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:03",
+          "duration_secs": 1563,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10108",
+        "episode_num": 8,
+        "season": 1,
+        "title": "The Talking Head",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E08%20-%20The%20Talking%20Head.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:34",
+          "duration_secs": 1594,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10109",
+        "episode_num": 9,
+        "season": 1,
+        "title": "The Devil Sells His Soul (1)",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E09_-_The_Devil_Sells_His_Soul%20%281%29.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:33",
+          "duration_secs": 1593,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10110",
+        "episode_num": 10,
+        "season": 1,
+        "title": "Murder Is Permanent",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E10_-_Murder_Is_Permanent.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:27",
+          "duration_secs": 1587,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10111",
+        "episode_num": 11,
+        "season": 1,
+        "title": "The Silent Vow",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E11_-_The_Silent_Vow.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:28",
+          "duration_secs": 1588,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10112",
+        "episode_num": 12,
+        "season": 1,
+        "title": "Death and the Other Monkey",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E12_-_Death_and_the_Other_Monkey.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:07",
+          "duration_secs": 1567,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10113",
+        "episode_num": 13,
+        "season": 1,
+        "title": "The Stolen Crime",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E13_-_The_Stolen_Crime.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:35",
+          "duration_secs": 1595,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10114",
+        "episode_num": 14,
+        "season": 1,
+        "title": "The SIlver Curtain",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E14_-_The_SIlver_Curtain.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:07",
+          "duration_secs": 1567,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10115",
+        "episode_num": 15,
+        "season": 1,
+        "title": "Error at Daybreak",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E15_-_Error_at_Daybreak.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:04",
+          "duration_secs": 1564,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10116",
+        "episode_num": 16,
+        "season": 1,
+        "title": "Hot Money",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E16_-_Hot_Money.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:19",
+          "duration_secs": 1579,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10117",
+        "episode_num": 17,
+        "season": 1,
+        "title": "The Missing Link",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E17_-_The_Missing_Link.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:26",
+          "duration_secs": 1586,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10118",
+        "episode_num": 18,
+        "season": 1,
+        "title": "The Misguided Missal",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E18_-_The_Misguided_Missal.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:29",
+          "duration_secs": 1589,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10119",
+        "episode_num": 19,
+        "season": 1,
+        "title": "The Deadly Gift",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E19_-_The_Deadly_Gift.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:35",
+          "duration_secs": 1595,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10120",
+        "episode_num": 20,
+        "season": 1,
+        "title": "The Case of the Lively Ghost",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E20_-_The_Case_of_the_Lively_Ghost.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:27",
+          "duration_secs": 1587,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10121",
+        "episode_num": 21,
+        "season": 1,
+        "title": "The Case of the Misguided Missal",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E21%20The%20Case%20of%20the%20Misguided%20Missal%20.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:17",
+          "duration_secs": 1517,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10122",
+        "episode_num": 22,
+        "season": 1,
+        "title": "The New Invisible Man",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E22_-_The_New_Invisible_Man.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:03",
+          "duration_secs": 1563,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10123",
+        "episode_num": 23,
+        "season": 1,
+        "title": "Passage at Arms",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E23_-_Passage_at_Arms.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:32",
+          "duration_secs": 1592,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10124",
+        "episode_num": 24,
+        "season": 1,
+        "title": "The Invisible Knife (1)",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E24_-_The_Invisible_Knife%20%281%29.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:24",
+          "duration_secs": 1584,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10125",
+        "episode_num": 25,
+        "season": 1,
+        "title": "The Case of the Kidnapped Poodle",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E25_-_The_Case_of_the_Kidnapped_Poodle.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:31",
+          "duration_secs": 1591,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      },
+      {
+        "id": "10126",
+        "episode_num": 26,
+        "season": 1,
+        "title": "Strange Event at Roman Fall",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/colonel-march-of-scotland-yard-s-/Colonel_March_of_Scotland_Yard_-_S01E26_-_Strange_Event_at_Roman_Fall.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:32",
+          "duration_secs": 1592,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu5vRYxV6tptrt96URhpuCxw5hU.jpg",
+          "plot": "",
+          "rating": 7.5
+        }
+      }
+    ]
+  }
+}

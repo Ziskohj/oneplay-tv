@@ -1,0 +1,231 @@
+{
+  "info": {
+    "name": "Science Fiction Theatre",
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg"
+    ],
+    "plot": "We esta serie de antología de ciencia ficción, el presentador Truman Bradley presenta historias extrapoladas de datos científicos reales disponibles en la década de 1950, concentrándose en conceptos tales como vuelo espacial, ovnis y telepatía mental.",
+    "cast": "Truman Bradley",
+    "director": "",
+    "genre": "Drama, Sci-Fi & Fantasy",
+    "releaseDate": "1955",
+    "rating": "6.3",
+    "rating_5based": 3.15,
+    "episode_run_time": "30",
+    "category_id": "25",
+    "tmdb_id": "1602"
+  },
+  "episodes": {
+    "1": [
+      {
+        "id": "11101",
+        "episode_num": 1,
+        "season": 1,
+        "title": "Beyond",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-01%20Beyond.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:03",
+          "duration_secs": 1563,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11102",
+        "episode_num": 2,
+        "season": 1,
+        "title": "Time Is Just a Place",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-02%20Time%20Is%20Just%20a%20Place.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:53",
+          "duration_secs": 1553,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11103",
+        "episode_num": 3,
+        "season": 1,
+        "title": "Out of Nowhere",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-03%20Out%20of%20Nowhere.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:05",
+          "duration_secs": 1565,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11104",
+        "episode_num": 4,
+        "season": 1,
+        "title": "Y O R D",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-04%20Y..O..R..D...mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:04",
+          "duration_secs": 1564,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11105",
+        "episode_num": 5,
+        "season": 1,
+        "title": "Stranger in the Desert",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-05%20Stranger%20in%20the%20Desert.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:06",
+          "duration_secs": 1566,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11106",
+        "episode_num": 6,
+        "season": 1,
+        "title": "No Food for Thought",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-06%20No%20Food%20for%20Thought.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:07",
+          "duration_secs": 1567,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11107",
+        "episode_num": 7,
+        "season": 1,
+        "title": "The Brain of John Emerson",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-07%20The%20Brain%20of%20John%20Emerson.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:56",
+          "duration_secs": 1556,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11108",
+        "episode_num": 8,
+        "season": 1,
+        "title": "Spider, Inc",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-08%20Spider%2C%20Inc.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:08",
+          "duration_secs": 1568,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11109",
+        "episode_num": 9,
+        "season": 1,
+        "title": "Death at 2 A M",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-09%20Death%20at%202%20A.M..mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:06",
+          "duration_secs": 1566,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11110",
+        "episode_num": 10,
+        "season": 1,
+        "title": "Conversation with an Ape",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-10%20Conversation%20with%20an%20Ape.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:03",
+          "duration_secs": 1563,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11111",
+        "episode_num": 11,
+        "season": 1,
+        "title": "Marked Danger",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-11%20Marked%20Danger.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:03",
+          "duration_secs": 1563,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11112",
+        "episode_num": 12,
+        "season": 1,
+        "title": "Hour of Nightmare",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-12%20Hour%20of%20Nightmare.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:05",
+          "duration_secs": 1565,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      },
+      {
+        "id": "11113",
+        "episode_num": 13,
+        "season": 1,
+        "title": "100 Years Young",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/science-fiction-theatre-season-1/1-13%20100%20Years%20Young.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:03",
+          "duration_secs": 1563,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3fOsfYyYtkiqIiSGzcaIO7OeN.jpg",
+          "plot": "",
+          "rating": 6.3
+        }
+      }
+    ]
+  }
+}

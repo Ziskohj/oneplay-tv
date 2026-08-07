@@ -1,0 +1,589 @@
+{
+  "info": {
+    "name": "My Little Margie",
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/nOSkFUNc4pbv0X7kwyimzT5agEY.jpg"
+    ],
+    "plot": "My Little Margie is an American situation comedy starring Gale Storm and Charles Farrell that alternated between CBS and NBC from 1952 to 1955.",
+    "cast": "Gale Storm, Charles Farrell, Gertrude Hoffmann, Clarence Kolb",
+    "director": "",
+    "genre": "Comedia",
+    "releaseDate": "1952",
+    "rating": "5.0",
+    "rating_5based": 2.5,
+    "episode_run_time": "30",
+    "category_id": "18",
+    "tmdb_id": "11766"
+  },
+  "episodes": {
+    "1": [
+      {
+        "id": "7100",
+        "episode_num": 0,
+        "season": 1,
+        "title": "Reverse Psychology",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E0%20Reverse%20Psychology.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:21",
+          "duration_secs": 1521,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7101",
+        "episode_num": 1,
+        "season": 1,
+        "title": "A Friend for Roberta",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E01%20A%20Friend%20for%20Roberta.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:24",
+          "duration_secs": 1524,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7101",
+        "episode_num": 1,
+        "season": 1,
+        "title": "Margie’s Millionth Number",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S03%20Episode%2017%20Margie%E2%80%99s%20Millionth%20Number.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:14",
+          "duration_secs": 1574,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7102",
+        "episode_num": 2,
+        "season": 1,
+        "title": "Radioactive Margie",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E02%20Radioactive%20Margie.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:28",
+          "duration_secs": 1588,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7103",
+        "episode_num": 3,
+        "season": 1,
+        "title": "Margie Sings Opera",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E03%20Margie%20Sings%20Opera.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:21",
+          "duration_secs": 1461,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7104",
+        "episode_num": 4,
+        "season": 1,
+        "title": "Margie’s Sister Sally",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E04%20Margie%E2%80%99s%20Sister%20Sally.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:28",
+          "duration_secs": 1528,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7105",
+        "episode_num": 5,
+        "season": 1,
+        "title": "Costume Party",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E05%20Costume%20Party.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:36",
+          "duration_secs": 1536,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7106",
+        "episode_num": 6,
+        "season": 1,
+        "title": "Margie Plays Detective",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E06%20Margie%20Plays%20Detective.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:26",
+          "duration_secs": 1526,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7107",
+        "episode_num": 7,
+        "season": 1,
+        "title": "Insurance",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E07%20Insurance.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:16",
+          "duration_secs": 1516,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7111",
+        "episode_num": 11,
+        "season": 1,
+        "title": "The Contract",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E11%20The%20Contract.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:11",
+          "duration_secs": 1511,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7112",
+        "episode_num": 12,
+        "season": 1,
+        "title": "Vern’s chums",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S01%20E12%20Vern%E2%80%99s%20chums.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:23:37",
+          "duration_secs": 1417,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      }
+    ],
+    "2": [
+      {
+        "id": "7204",
+        "episode_num": 4,
+        "season": 2,
+        "title": "Missing Link",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S02%20E04%20Missing%20Link.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:23",
+          "duration_secs": 1583,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7212",
+        "episode_num": 12,
+        "season": 2,
+        "title": "Hillbilly Margie",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S02%20E12%20Hillbilly%20Margie.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:40",
+          "duration_secs": 1540,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7216",
+        "episode_num": 16,
+        "season": 2,
+        "title": "Trapped Freddy",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S02%20E16%20Trapped%20Freddy.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:33",
+          "duration_secs": 1533,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7219",
+        "episode_num": 19,
+        "season": 2,
+        "title": "Buried Treasure",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S02%20E19%20Buried%20Treasure.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:13",
+          "duration_secs": 1453,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7223",
+        "episode_num": 23,
+        "season": 2,
+        "title": "To Health with Yoga",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S02%20E23%20To%20Health%20with%20Yoga.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:56",
+          "duration_secs": 1556,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7225",
+        "episode_num": 25,
+        "season": 2,
+        "title": "A Horse for Vern",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S02%20E25%20A%20Horse%20for%20Vern.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:44",
+          "duration_secs": 1544,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7228",
+        "episode_num": 28,
+        "season": 2,
+        "title": "Vern's New Girlfriend",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S02%20E28%20Vern%27s%20New%20Girlfriend.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:58",
+          "duration_secs": 1558,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7230",
+        "episode_num": 30,
+        "season": 2,
+        "title": "Delinquent Margie",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S02%20E30%20Delinquent%20Margie.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:01",
+          "duration_secs": 1561,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      }
+    ],
+    "3": [
+      {
+        "id": "7309",
+        "episode_num": 9,
+        "season": 3,
+        "title": "Margie’s Phantom Lover",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S03%20E09%20Margie%E2%80%99s%20Phantom%20Lover.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:10",
+          "duration_secs": 1570,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7314",
+        "episode_num": 14,
+        "season": 3,
+        "title": "What’s Cooking",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S03%20E14%20What%E2%80%99s%20Cooking.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:17",
+          "duration_secs": 1577,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7318",
+        "episode_num": 18,
+        "season": 3,
+        "title": "Meet Mr Murphy",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S03%20E18%20Meet%20Mr.%20Murphy.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:45",
+          "duration_secs": 1545,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7325",
+        "episode_num": 25,
+        "season": 3,
+        "title": "Margie Baby Sits",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S03%20E25%20Margie%20Baby%20Sits.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:26",
+          "duration_secs": 1586,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7334",
+        "episode_num": 34,
+        "season": 3,
+        "title": "Honeyboy Honeywell",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S03%20E34%20Honeyboy%20Honeywell.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:19",
+          "duration_secs": 1579,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7337",
+        "episode_num": 37,
+        "season": 3,
+        "title": "Margie and the Shah",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S03%20E37%20Margie%20and%20the%20Shah.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:28",
+          "duration_secs": 1588,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      }
+    ],
+    "4": [
+      {
+        "id": "7404",
+        "episode_num": 4,
+        "season": 4,
+        "title": "Star of Khyber",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E04%20Star%20of%20Khyber.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:22",
+          "duration_secs": 1582,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7413",
+        "episode_num": 13,
+        "season": 4,
+        "title": "Vern's Winter Vacation",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E13%20Vern%27s%20Winter%20Vacation.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:24",
+          "duration_secs": 1584,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7414",
+        "episode_num": 14,
+        "season": 4,
+        "title": "San Francisco Story",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E14%20San%20Francisco%20Story.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:25",
+          "duration_secs": 1585,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7419",
+        "episode_num": 19,
+        "season": 4,
+        "title": "Miss Whoziss",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E19%20Miss%20Whoziss.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:26",
+          "duration_secs": 1586,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7421",
+        "episode_num": 21,
+        "season": 4,
+        "title": "Unexpected Guest",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E21%20Unexpected%20Guest.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:28",
+          "duration_secs": 1588,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7423",
+        "episode_num": 23,
+        "season": 4,
+        "title": "Vern’s Mother-in-Law",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E23%20Vern%E2%80%99s%20Mother-in-Law.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:29",
+          "duration_secs": 1589,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7426",
+        "episode_num": 26,
+        "season": 4,
+        "title": "Hawaii Story",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E26%20Hawaii%20Story.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:45",
+          "duration_secs": 1605,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7429",
+        "episode_num": 29,
+        "season": 4,
+        "title": "Margie's New Boyfriend",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E29%20Margie%27s%20New%20Boyfriend.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:25",
+          "duration_secs": 1585,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7430",
+        "episode_num": 30,
+        "season": 4,
+        "title": "Corpus Delicti",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E30%20Corpus%20Delicti.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:25",
+          "duration_secs": 1585,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      },
+      {
+        "id": "7434",
+        "episode_num": 34,
+        "season": 4,
+        "title": "Papa and Mambo",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/my-little-margie/My%20Little%20Margie%20S04%20E34%20Papa%20and%20Mambo.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:45",
+          "duration_secs": 1605,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOnUM4g7SoPzT6WDOXDVdz5K3bR.jpg",
+          "plot": "",
+          "rating": 5.0
+        }
+      }
+    ]
+  }
+}

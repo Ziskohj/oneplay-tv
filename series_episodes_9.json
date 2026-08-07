@@ -1,0 +1,567 @@
+{
+  "info": {
+    "name": "The Adventures of Ozzie and Harriet",
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/z9ipjaUaoRWMl6vvQnLhpuFfkBu.jpg"
+    ],
+    "plot": "The Adventures of Ozzie and Harriet is an American sitcom, airing on ABC from October 3, 1952 through March 26, 1966, starring the real life Nelson family. After a long run on radio, the show was brought to television where it continued its success, running on both radio and television for a few years. The series stars Ozzie Nelson and his wife, singer Harriet Nelson, and their young sons, David and Eric \"Ricky\" Nelson. Don DeFore had a recurring role as the Nelsons' friendly neighbor \"Thorny\".",
+    "cast": "Ozzie Nelson, Harriet Nelson, David Nelson, Ricky Nelson",
+    "director": "",
+    "genre": "Comedia, Familia",
+    "releaseDate": "1952",
+    "rating": "6.2",
+    "rating_5based": 3.08,
+    "episode_run_time": "30",
+    "category_id": "23",
+    "tmdb_id": "952"
+  },
+  "episodes": {
+    "1": [
+      {
+        "id": "9101",
+        "episode_num": 1,
+        "season": 1,
+        "title": "The Rivals",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E01%20The%20Rivals.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:56",
+          "duration_secs": 1496,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9102",
+        "episode_num": 2,
+        "season": 1,
+        "title": "The Poet",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E02%20-%20The%20Poet.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:29:07",
+          "duration_secs": 1747,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9103",
+        "episode_num": 3,
+        "season": 1,
+        "title": "The Pills",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E03%20-%20The%20Pills.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:29:09",
+          "duration_secs": 1749,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9104",
+        "episode_num": 4,
+        "season": 1,
+        "title": "The Fall Guy",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E04%20-%20The%20Fall%20Guy.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:29:18",
+          "duration_secs": 1758,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9105",
+        "episode_num": 5,
+        "season": 1,
+        "title": "Halloween Party",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E05%20-%20Halloween%20Party.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:14",
+          "duration_secs": 1514,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9106",
+        "episode_num": 6,
+        "season": 1,
+        "title": "The Riviera Ballet",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E06%20-%20The%20Riviera%20Ballet.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:28:52",
+          "duration_secs": 1732,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9107",
+        "episode_num": 7,
+        "season": 1,
+        "title": "David The Babysitter",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E07%20-%20David%20The%20Babysitter.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:23:38",
+          "duration_secs": 1418,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9108",
+        "episode_num": 8,
+        "season": 1,
+        "title": "Ricky Goes To A Dance",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E08%20-%20Ricky%20Goes%20To%20A%20Dance.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:20:16",
+          "duration_secs": 1216,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9109",
+        "episode_num": 9,
+        "season": 1,
+        "title": "Day After Thanksgiving",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E09%20-%20Day%20After%20Thanksgiving.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:31",
+          "duration_secs": 1531,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9110",
+        "episode_num": 10,
+        "season": 1,
+        "title": "Thornys Gift",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E10%20-%20Thornys%20Gift.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:29:22",
+          "duration_secs": 1762,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9113",
+        "episode_num": 13,
+        "season": 1,
+        "title": "Late Christmas Gift",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E13%20-%20Late%20Christmas%20Gift.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:29:03",
+          "duration_secs": 1743,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9115",
+        "episode_num": 15,
+        "season": 1,
+        "title": "Basketball Players",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E15%20-%20Basketball%20Players.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:22:20",
+          "duration_secs": 1340,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9117",
+        "episode_num": 17,
+        "season": 1,
+        "title": "The Tuba Incident",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E17%20-%20The%20Tuba%20Incident.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:22:28",
+          "duration_secs": 1348,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9118",
+        "episode_num": 18,
+        "season": 1,
+        "title": "Rover Boys",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E18%20-%20Rover%20Boys.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:22:45",
+          "duration_secs": 1365,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9119",
+        "episode_num": 19,
+        "season": 1,
+        "title": "Separate Rooms",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E19%20-%20Separate%20Rooms.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:56",
+          "duration_secs": 1496,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9120",
+        "episode_num": 20,
+        "season": 1,
+        "title": "Valentine Show",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E20%20-%20Valentine%20Show.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:47",
+          "duration_secs": 1487,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9121",
+        "episode_num": 21,
+        "season": 1,
+        "title": "The Traffic Signal",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E21%20-%20The%20Traffic%20Signal.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:22:26",
+          "duration_secs": 1346,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9122",
+        "episode_num": 22,
+        "season": 1,
+        "title": "Dental Receptionist",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E22%20-%20Dental%20Receptionist.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:18",
+          "duration_secs": 1518,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9123",
+        "episode_num": 23,
+        "season": 1,
+        "title": "The Speech",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E23%20-%20The%20Speech.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:38",
+          "duration_secs": 1538,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9124",
+        "episode_num": 24,
+        "season": 1,
+        "title": "Safe Crackers",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E24%20-%20Safe%20Crackers.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:34",
+          "duration_secs": 1534,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9125",
+        "episode_num": 25,
+        "season": 1,
+        "title": "Brother Beesleys Philosophy",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E25%20-%20Brother%20Beesleys%20Philosophy.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:25",
+          "duration_secs": 1525,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9126",
+        "episode_num": 26,
+        "season": 1,
+        "title": "The Bowling Alley",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E26%20-%20The%20Bowling%20Alley.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:27:01",
+          "duration_secs": 1621,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9127",
+        "episode_num": 27,
+        "season": 1,
+        "title": "The Orchid And The Violet",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E27%20-%20The%20Orchid%20And%20The%20Violet.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:27:34",
+          "duration_secs": 1654,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9128",
+        "episode_num": 28,
+        "season": 1,
+        "title": "The Pancake Mix",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E28%20-%20The%20Pancake%20Mix.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:29:22",
+          "duration_secs": 1762,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9129",
+        "episode_num": 29,
+        "season": 1,
+        "title": "The Whistlers Daughter",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E29%20-%20The%20Whistlers%20Daughter.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:34",
+          "duration_secs": 1594,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9131",
+        "episode_num": 31,
+        "season": 1,
+        "title": "Night School",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E31%20-%20Night%20School.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:29:19",
+          "duration_secs": 1759,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9132",
+        "episode_num": 32,
+        "season": 1,
+        "title": "The Traders",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E32%20-%20The%20Traders.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:07",
+          "duration_secs": 1507,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9133",
+        "episode_num": 33,
+        "season": 1,
+        "title": "The Boxing Matches",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E33%20-%20The%20Boxing%20Matches.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:47",
+          "duration_secs": 1547,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9134",
+        "episode_num": 34,
+        "season": 1,
+        "title": "A Door Key For David",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E34%20-%20A%20Door%20Key%20For%20David.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:22:06",
+          "duration_secs": 1326,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9135",
+        "episode_num": 35,
+        "season": 1,
+        "title": "The Plays the Thing",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E35%20-%20The%20Plays%20the%20Thing.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:09",
+          "duration_secs": 1509,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9136",
+        "episode_num": 36,
+        "season": 1,
+        "title": "Monetary System",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E36%20-%20Monetary%20System.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:09",
+          "duration_secs": 1509,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9137",
+        "episode_num": 37,
+        "season": 1,
+        "title": "Whos Walter",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E37%20-%20Whos%20Walter.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:45",
+          "duration_secs": 1545,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9138",
+        "episode_num": 38,
+        "season": 1,
+        "title": "Curiosity",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E38%20-%20Curiosity.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:18",
+          "duration_secs": 1518,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      },
+      {
+        "id": "9139",
+        "episode_num": 39,
+        "season": 1,
+        "title": "Oscillating Ozzie",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/the-adventures-of-ozzie-and-harriet-season-one/The%20Adventures%20of%20Ozzie%20and%20Harriet%20-%20S01E39%20-%20Oscillating%20Ozzie.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:23:53",
+          "duration_secs": 1433,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Kqsng08I3CtA5m2GVq52NVUIL.jpg",
+          "plot": "",
+          "rating": 6.2
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,667 @@
+{
+  "info": {
+    "name": "Annie Oakley",
+    "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+    "backdrop_path": [
+      "https://image.tmdb.org/t/p/w1280/ovUZ1545CqMw5LnQZoars7RxDzM.jpg"
+    ],
+    "plot": "Annie Oakley was an American Western television series that fictionalized the life of famous sharpshooter Annie Oakley. It ran from January 1954 to February 1957 in syndication, for a total of 81 black and white episodes, each 25 minutes long. ABC showed reruns on Saturday and Sunday daytime from 1959 to 1960 and from 1964 to 1965.",
+    "cast": "Gail Davis, Brad Johnson, Jimmy Hawkins",
+    "director": "",
+    "genre": "Western, Drama",
+    "releaseDate": "1954",
+    "rating": "5.5",
+    "rating_5based": 2.77,
+    "episode_run_time": "25",
+    "category_id": "22",
+    "tmdb_id": "13577"
+  },
+  "episodes": {
+    "1": [
+      {
+        "id": "8101",
+        "episode_num": 1,
+        "season": 1,
+        "title": "Annie and the Brass Collar",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e01-ANNIE%20AND%20THE%20BRASS%20COLLAR%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:48",
+          "duration_secs": 1488,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8102",
+        "episode_num": 2,
+        "season": 1,
+        "title": "Annie Trusts a Convict",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e02-ANNIE%20TRUSTS%20A%20CONVICT%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:39",
+          "duration_secs": 1479,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8103",
+        "episode_num": 3,
+        "season": 1,
+        "title": "Gunplay",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e03-GUNPLAY%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:52",
+          "duration_secs": 1492,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8104",
+        "episode_num": 4,
+        "season": 1,
+        "title": "Dude Stagecoach",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e04-DUDE%20STAGECOACH%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:44",
+          "duration_secs": 1484,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8105",
+        "episode_num": 5,
+        "season": 1,
+        "title": "Ambush Canyon",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e05-AMBUSH%20CANYON%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:51",
+          "duration_secs": 1491,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8106",
+        "episode_num": 6,
+        "season": 1,
+        "title": "Annie Calls Her Shots",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e06-ANNIE%20CALLS%20HER%20SHOTS%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:56",
+          "duration_secs": 1496,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8108",
+        "episode_num": 8,
+        "season": 1,
+        "title": "Annie and the Silver Ace",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e08-ANNIE%20AND%20THE%20SILVER%20ACE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:18",
+          "duration_secs": 1578,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8109",
+        "episode_num": 9,
+        "season": 1,
+        "title": "Annie Finds Strange Treasure",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e09-ANNIE%20FINDS%20STRANGE%20TREASURE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:46",
+          "duration_secs": 1486,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8111",
+        "episode_num": 11,
+        "season": 1,
+        "title": "Valley of the Shadows",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e11-VALLEY%20OF%20THE%20SHADOWS%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:17",
+          "duration_secs": 1577,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8112",
+        "episode_num": 12,
+        "season": 1,
+        "title": "Annie and the Lily Maid",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e12-ANNIE%20AND%20THE%20LILY%20MAID%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:37",
+          "duration_secs": 1477,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8113",
+        "episode_num": 13,
+        "season": 1,
+        "title": "The Hardrock Trail",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e13-THE%20HARDROCK%20TRAIL%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:45",
+          "duration_secs": 1485,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8114",
+        "episode_num": 14,
+        "season": 1,
+        "title": "Annie Gets Her Man",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e14-ANNIE%20GETS%20HER%20MAN%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:36",
+          "duration_secs": 1476,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8115",
+        "episode_num": 15,
+        "season": 1,
+        "title": "Justice Guns",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e15-JUSTICE%20GUNS%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:29",
+          "duration_secs": 1469,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8116",
+        "episode_num": 16,
+        "season": 1,
+        "title": "Annie's Desert Adventure",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e16-ANNIE%27S%20DESERT%20ADVENTURE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:18",
+          "duration_secs": 1578,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8118",
+        "episode_num": 18,
+        "season": 1,
+        "title": "Annie and the Texas Sandman",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e18-ANNIE%20AND%20THE%20TEXAS%20SANDMAN%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:36",
+          "duration_secs": 1476,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8119",
+        "episode_num": 19,
+        "season": 1,
+        "title": "Annie Meets Some Tenderfeet",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e19-ANNIE%20MEETS%20SOME%20TENDERFEET%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:28:49",
+          "duration_secs": 1729,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8121",
+        "episode_num": 21,
+        "season": 1,
+        "title": "Bull's Eye",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e21-BULL%27S%20EYE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:56",
+          "duration_secs": 1496,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8123",
+        "episode_num": 23,
+        "season": 1,
+        "title": "Sharpshooting Annie",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e23-SHARPSHOOTING%20ANNIE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:43",
+          "duration_secs": 1483,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8125",
+        "episode_num": 25,
+        "season": 1,
+        "title": "Outlaw Mesa",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s01e25-OUTLAW%20MESA%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:41",
+          "duration_secs": 1481,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      }
+    ],
+    "2": [
+      {
+        "id": "8202",
+        "episode_num": 2,
+        "season": 2,
+        "title": "The Tomboy",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s02e02-THE%20TOMBOY%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:22",
+          "duration_secs": 1582,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8204",
+        "episode_num": 4,
+        "season": 2,
+        "title": "Annie and the Six O' Spades",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s02e04-ANNIE%20AND%20THE%20SIX%20O%27%20SPADES%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:56",
+          "duration_secs": 1496,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8205",
+        "episode_num": 5,
+        "season": 2,
+        "title": "Escape from Diablo",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s02e05-ESCAPE%20FROM%20DIABLO%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:20",
+          "duration_secs": 1580,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8206",
+        "episode_num": 6,
+        "season": 2,
+        "title": "The Iron Smoke-wagon",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s02e06-THE%20IRON%20SMOKE-WAGON%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:51",
+          "duration_secs": 1491,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8207",
+        "episode_num": 7,
+        "season": 2,
+        "title": "Annie and the Chinese Puzzle",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s02e07-ANNIE%20AND%20THE%20CHINESE%20PUZZLE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:23",
+          "duration_secs": 1583,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8211",
+        "episode_num": 11,
+        "season": 2,
+        "title": "Dead Man's Bluff",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s02e11-DEAD%20MAN%27S%20BLUFF%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:25",
+          "duration_secs": 1585,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8220",
+        "episode_num": 20,
+        "season": 2,
+        "title": "Powder Rock Stampede",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s02e20-POWDER%20ROCK%20STAMPEDE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:15",
+          "duration_secs": 1575,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      }
+    ],
+    "3": [
+      {
+        "id": "8301",
+        "episode_num": 1,
+        "season": 3,
+        "title": "Sundown Stage",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e01-SUNDOWN%20STAGE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:25",
+          "duration_secs": 1585,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8302",
+        "episode_num": 2,
+        "season": 3,
+        "title": "Joker on Horseback",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e02-JOKER%20ON%20HORSEBACK%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:18",
+          "duration_secs": 1578,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8303",
+        "episode_num": 3,
+        "season": 3,
+        "title": "A Tall Tale",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e03-A%20TALL%20TALE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:19",
+          "duration_secs": 1579,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8304",
+        "episode_num": 4,
+        "season": 3,
+        "title": "Annie and the Twisted Trails",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e04-ANNIE%20AND%20THE%20TWISTED%20TRAILS%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:23",
+          "duration_secs": 1583,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8306",
+        "episode_num": 6,
+        "season": 3,
+        "title": "Annie and the Bicycle Riders",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e06-ANNIE%20AND%20THE%20BICYCLE%20RIDERS%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:24:41",
+          "duration_secs": 1481,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8308",
+        "episode_num": 8,
+        "season": 3,
+        "title": "Annie and the First Phone",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e08-ANNIE%20AND%20THE%20FIRST%20PHONE%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:02",
+          "duration_secs": 1562,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8312",
+        "episode_num": 12,
+        "season": 3,
+        "title": "Renegade's Return",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e12-RENEGADE%27S%20RETURN%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:25:42",
+          "duration_secs": 1542,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8314",
+        "episode_num": 14,
+        "season": 3,
+        "title": "Annie and the Leprechauns",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e14-ANNIE%20AND%20THE%20LEPRECHAUNS%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:20",
+          "duration_secs": 1580,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8315",
+        "episode_num": 15,
+        "season": 3,
+        "title": "Dilemma at Diablo",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e15-DILEMMA%20AT%20DIABLO%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:11",
+          "duration_secs": 1571,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8316",
+        "episode_num": 16,
+        "season": 3,
+        "title": "Outlaw Brand",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e16-OUTLAW%20BRAND%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:17",
+          "duration_secs": 1577,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8317",
+        "episode_num": 17,
+        "season": 3,
+        "title": "Shadow at Sonoma",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e17-SHADOW%20AT%20SONOMA%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:23",
+          "duration_secs": 1583,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8318",
+        "episode_num": 18,
+        "season": 3,
+        "title": "Western Privateer",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e18-WESTERN%20PRIVATEER%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:17",
+          "duration_secs": 1577,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8319",
+        "episode_num": 19,
+        "season": 3,
+        "title": "The Reckless Press",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e19-THE%20RECKLESS%20PRESS%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:14",
+          "duration_secs": 1574,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      },
+      {
+        "id": "8320",
+        "episode_num": 20,
+        "season": 3,
+        "title": "Flint and Steel",
+        "container_extension": "mp4",
+        "direct_source": "https://archive.org/download/annieoakleys01/Annie%20Oakley%20s03e20-FLINT%20AND%20STEEL%20%5B360p%5D.mp4",
+        "added": "1609459200",
+        "info": {
+          "duration": "00:26:13",
+          "duration_secs": 1573,
+          "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VdzIUm8bYpQHM1eyzXEyZRhfgd.jpg",
+          "plot": "",
+          "rating": 5.5
+        }
+      }
+    ]
+  }
+}
