@@ -1,18 +1,10 @@
 {
-  "generado": "2026-08-10 23:07 UTC",
+  "generado": "2026-08-10 23:20 UTC",
   "chequeado": {
     "live": 29,
     "vod_refs": 336
   },
   "auto_reparado": [],
-  "caidos": [
-    {
-      "tipo": "movie",
-      "id": 21,
-      "nombre": "Charada",
-      "url": "https://archive.org/download/Charade_1953/CHARADE_1953_512kb.mp4",
-      "motivo": "item desaparecido"
-    }
-  ],
+  "caidos": [],
   "nota": "Streams live que fallan desde runners de EE.UU. pueden ser geo-bloqueo (p.ej. RTVE), no muerte real."
 }
