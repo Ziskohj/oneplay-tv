@@ -1,0 +1,10 @@
+{
+  "generado": "2026-08-10 21:32 UTC",
+  "chequeado": {
+    "live": 29,
+    "vod_refs": 336
+  },
+  "auto_reparado": [],
+  "caidos": [],
+  "nota": "Streams live que fallan desde runners de EE.UU. pueden ser geo-bloqueo (p.ej. RTVE), no muerte real."
+}
