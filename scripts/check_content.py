@@ -96,9 +96,32 @@ def check_archive(refs):
             # Range directa al fichero también falla.
             if missing and not probe_file(url):
                 motivo = "item desaparecido" if files is None else "fichero ausente"
-                dead.append({"tipo": tipo, "id": rid, "nombre": nombre, "url": url, "motivo": motivo})
+                dead.append({"tipo": tipo, "id": rid, "nombre": nombre, "url": url, "motivo": motivo,
+                             "_item": item, "_fichero": fichero})
         time.sleep(4)
     return dead
+
+def confirm_dead(dead):
+    """Pasada de confirmación tras enfriamiento: archive.org estrangula con dureza
+    las IPs de los runners de GitHub y produce muertes falsas EN MASA (visto el
+    10-ago: 32 'bajas' que estaban vivas). La podredumbre no se cura sola; el
+    rate-limit sí -> esperar y reverificar cada baja individualmente."""
+    if not dead:
+        return []
+    print(f"{len(dead)} posibles bajas; confirmando tras enfriamiento de 3 min...", flush=True)
+    time.sleep(180)
+    confirmed = []
+    for d in dead:
+        alive = probe_file(d["url"])
+        if not alive:
+            files = archive_files(d["_item"], attempts=3)
+            alive = bool(files) and d["_fichero"] in files
+        if not alive:
+            confirmed.append(d)
+        time.sleep(8)
+    for d in confirmed:
+        d.pop("_item", None); d.pop("_fichero", None)
+    return confirmed
 
 def try_heal_movies(dead):
     """Para pelis muertas con espejo en scripts/mirrors.json: verificar el espejo y conmutar."""
@@ -135,7 +158,7 @@ def try_heal_movies(dead):
 def main():
     live_dead = check_live()
     refs = collect_archive_refs()
-    vod_dead = check_archive(refs)
+    vod_dead = confirm_dead(check_archive(refs))
     healed, vod_dead = try_heal_movies(vod_dead)
     report = {
         "generado": time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime()),
