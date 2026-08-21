@@ -1,18 +1,10 @@
 {
-  "generado": "2026-08-20 04:25 UTC",
+  "generado": "2026-08-21 04:27 UTC",
   "chequeado": {
     "live": 29,
     "vod_refs": 336
   },
   "auto_reparado": [],
-  "caidos": [
-    {
-      "tipo": "movie",
-      "id": 4,
-      "nombre": "El carnaval de las almas",
-      "url": "https://archive.org/download/CarnivalofSouls/CarnivalOfSouls.mp4",
-      "motivo": "item desaparecido"
-    }
-  ],
+  "caidos": [],
   "nota": "Streams live que fallan desde runners de EE.UU. pueden ser geo-bloqueo (p.ej. RTVE), no muerte real."
 }
